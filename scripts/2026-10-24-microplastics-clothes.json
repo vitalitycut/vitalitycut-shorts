@@ -1,0 +1,12 @@
+{"tag":"WELLNESS, MINUS THE HYPE","seed":11,
+ "bg_top":"#10243A","bg_bottom":"#07111D","fg":"#F3F6FA","accent":"#FF9A76","muted":"#94A8BE","chip_fg":"#2A0F06",
+ "particles":"fibers","particle":"#BFD6EE","chord":[146.83,220,293.66,349.23],
+ "beats":[
+  {"label":"Check your closet","text":"Your leggings might be **shedding** **plastic.**","dur":3.0},
+  {"label":"The facts","text":"Polyester and nylon release **microfibers** every wash. **Fleece** sheds the most."},
+  {"label":"In the air","text":"A 2025 model found nearly **half** of clothing fibers end up **airborne,** from drying and wearing them."},
+  {"label":"Lab study","text":"Nylon and polyester fibers slowed **repair** in lab-grown **mini-lungs.**","note":"2021 organoid study. Not tested in people."},
+  {"label":"Reality check","label_bg":"#F2C14E","text":"Scientists still **don't** **know** the real health risk for people."},
+  {"label":"Easy wins","text":"Choose **cotton** or **linen** basics. Wash fleece **less** **often.** Vacuum and air out rooms."},
+  {"label":"","text":"Follow for wellness **without** **the** **hype.**","dur":2.8}
+ ]}

@@ -1,0 +1,13 @@
+{"tag":"WELLNESS, MINUS THE HYPE","seed":7,
+ "bg_top":"#0E2A22","bg_bottom":"#06120F","fg":"#F2F7F4","accent":"#7EE0B0","muted":"#8FB3A5","chip_fg":"#06231A",
+ "particles":"orbs","particle":"#7EE0B0","chord":[110,164.81,220,277.18],
+ "beats":[
+  {"label":"Women, listen up","text":"Creatine isn't just for **gym** **bros.**","dur":3.0},
+  {"label":"Why women","text":"Women naturally tend to have **lower** **creatine** **stores** than men."},
+  {"label":"Your brain uses it too","text":"Creatine helps your cells recycle **energy.** Your brain burns through a lot of it."},
+  {"label":"The research","text":"Early studies link it to better **focus** under stress, like **poor** **sleep** or mental fatigue."},
+  {"label":"After 40","text":"In postmenopausal women, creatine plus **strength** **training** helped build lean muscle."},
+  {"label":"Reality check","label_bg":"#F2C14E","text":"Most brain studies are **small.** Promising, not proven."},
+  {"label":"If you try it","text":"Most studied: **3–5 g** of creatine monohydrate a day.","note":"Ask your doctor first if you have kidney\nissues or take prescription meds.","dur":4.6},
+  {"label":"","text":"Follow for wellness **without** **the** **hype.**","dur":2.8}
+ ]}
