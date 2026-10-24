@@ -1,0 +1,12 @@
+{"tag":"FITNESS, BACKED BY DATA","seed":31,
+ "bg_top":"#1A1F12","bg_bottom":"#0A0D06","fg":"#F6F8F0","accent":"#C6F35A","muted":"#A3AE8C","chip_fg":"#1C2606",
+ "particles":"fibers","particle":"#C6F35A","chord":[98,146.83,196,246.94],
+ "beats":[
+  {"label":"Short on time?","text":"Lifting **once** a week might be **enough.**","dur":3.0},
+  {"label":"1 day vs 3 days","text":"Older adults lifted **1,** **2** or **3** days a week for 24 weeks.","note":"Taaffe et al., J. Am. Geriatr. Soc., 1999"},
+  {"label":"The result","text":"Strength rose about **37%** with once a week, **40%** with three.","note":"The no-exercise group: about 4%."},
+  {"label":"The catch","text":"Each session was **hard:** heavy weights, **8** **exercises,** 3 sets."},
+  {"label":"Long term","text":"30-year data links lifting to **lower** **early-death** risk, leveling off near **2** **hours** a week.","note":"Harvard Chan, Br. J. Sports Med., 2026"},
+  {"label":"Reality check","label_bg":"#F2C14E","text":"That trial had just **46** **people,** and the big study shows a **link,** not proof."},
+  {"label":"","text":"Follow for science-backed **habits,** **minus** **the** **hype.**","dur":2.8}
+ ]}

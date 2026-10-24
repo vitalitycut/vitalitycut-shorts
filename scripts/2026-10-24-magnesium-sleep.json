@@ -1,0 +1,13 @@
+{"tag":"SLEEP SCIENCE, NO SPIN","seed":23,
+ "bg_top":"#1E1838","bg_bottom":"#0C0A1A","fg":"#F5F3FB","accent":"#B9A6FF","muted":"#9C95BF","chip_fg":"#1A1033",
+ "particles":"orbs","particle":"#B9A6FF","chord":[130.81,196,261.63,329.63],
+ "beats":[
+  {"label":"Sleep myth check","text":"Does **magnesium** actually help you **sleep?**","dur":3.0},
+  {"label":"The myth","text":"Magnesium is a proven **knockout** pill for **insomnia.**"},
+  {"label":"The fact","text":"A new review of **12** **trials** found results all over the place.","note":"Lopresti et al., J. Dietary Supplements, 2026"},
+  {"label":"Where it looked promising","text":"Some trials helped **older** **adults** with insomnia and people with **leg** **cramps.**"},
+  {"label":"The numbers","text":"In one older-adult review, people fell asleep about **17** **minutes** **faster.**","note":"3 small trials, 151 people. Low-quality evidence."},
+  {"label":"Reality check","label_bg":"#F2C14E","text":"Evidence is **low** **certainty.** It may help some people, but it's **not** **proven.**"},
+  {"label":"Before you buy","text":"Too much can cause **stomach** **upset.** Ask your **doctor** first."},
+  {"label":"","text":"Follow for sleep tips **minus** **the** **hype.**","dur":2.8}
+ ]}
