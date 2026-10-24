@@ -12,7 +12,8 @@ This is the runbook for the VitalityCut daily Shorts autopilot. Each run makes *
 
 1. **Get push access and clone.** Call `add_repo` (owner `vitalitycut`, repo `vitalitycut-shorts`, access `push`), then clone with `git clone --depth 1`. Install nothing else; `ffmpeg`, Python, Pillow and numpy are preinstalled. Fonts: Inter in `/usr/share/fonts/opentype/inter/`.
 2. **Check what's already done.** With ArtifactData, `list` the `clips` collection. With Metricool, `getScheduledPosts` for blogId `7593557` covering the next 3 days. Don't repeat a topic made in the last 30 days (look at `scripts/` file names and Clip Desk titles).
-3. **Pick 2 topics.** WebSearch what is trending in wellness this week (searches, news, big podcast episodes). Good fits: supplements, sleep, gut health, women's health, longevity, fitness habits, food myths, wellness tech. Skip anything political, weight-loss pressure aimed at teens, or topics where the honest answer is "see a doctor".
+3. **Read `STRATEGY.md` first** and follow its current guidance on topics, hooks, formats and length. It's updated every few days from real view counts, so it overrides the defaults below when they differ.
+   **Pick 2 topics.** WebSearch what is trending in wellness this week (searches, news, big podcast episodes). Good fits: supplements, sleep, gut health, women's health, longevity, fitness habits, food myths, wellness tech. Skip anything political, weight-loss pressure aimed at teens, or topics where the honest answer is "see a doctor".
 4. **Research each topic.** Use at least 2 credible sources per video (peer-reviewed reviews, PMC/NIH, university press releases, major health outlets). Note what's well supported vs. preliminary.
 5. **Write the script** as a JSON file in `scripts/YYYY-MM-DD-slug.json`, following the two existing examples:
    - 6–8 beats, 28–40 seconds total. Beat 1 is the hook (≤8 words), and the last beat is the follow CTA.
