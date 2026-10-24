@@ -35,6 +35,30 @@ This is the runbook for the VitalityCut daily Shorts autopilot. Each run makes *
 11. **Scout clip ideas.** Also add 3–5 clip ideas from popular wellness creators as `status: "idea"` (see the existing `seed-*` and `scout-*` docs for the fields). Prioritize open paid clipping campaigns (Whop, Content Rewards and similar). Use `permission: "program"` only for a real open campaign or published clipping policy.
 12. **Report.** Finish with a short summary: the 2 videos (title, scheduled time, Metricool planner link), the reasoning for each topic, and any open paid clipping campaigns found. Remind the owner they can delete a post in Metricool before it goes live.
 
+## Voiceovers from the owner (use these first)
+
+The owner records voiceovers on their phone and uploads them to `voice/` in this repo, named after a script slug from `VOICE_SCRIPTS.md` (for example `voice/morning-light.m4a`). Any audio format works.
+
+At the start of each run, look for recordings in `voice/` that aren't listed in `voice/USED.txt`. For each one, up to 2 per day:
+1. Find its script in `VOICE_SCRIPTS.md` by slug. That video replaces one of the day's 2 text-only videos.
+2. Build the script JSON from the voiceover text: on-screen beats follow what's said, in short punchy lines, with a "Reality check" beat where the script has one. Add `"voice": "voice/<file>"`. The renderer fits the beats to the recording and mixes the music underneath.
+3. Before rendering, check the audio with `ffprobe`. If it's under 8 seconds or over 60, skip it and tell the owner.
+4. Render, commit, schedule and log it exactly like the other videos. In Clip Desk, set `addedValue` to "Original Short with the owner's voiceover."
+5. Add the file name to `voice/USED.txt`.
+
+At the end of every run, add 2 new voiceover scripts to the top of `VOICE_SCRIPTS.md`, each about 20 seconds (45–60 words). Give each a slug, the topic, the words to say, and the sources. Write them conversationally, starting with the hook, with one hedge line and a call to action at the end. Research them to the same accuracy rules as the videos. Put both scripts in the final summary so the owner can record them.
+
+## Paid clipping campaigns (top priority when one is open)
+
+Paid campaigns pay $1–5 per 1,000 views, far more than YouTube ad revenue. Each run, search Whop, Content Rewards, ClipHaus, Vyro and similar marketplaces for **open** campaigns in health, wellness, fitness, longevity, nutrition or self-improvement that allow YouTube Shorts.
+
+For each open campaign:
+1. Record the campaign name, join link, pay rate, minimum and maximum payout, budget left, allowed platforms, and content rules (required tags, captions, banned edits).
+2. If the OpusClip connector is available, use it to cut 2–3 clips from the campaign's source video, follow every campaign rule, add an original on-screen angle (takeaway card or myth check), and schedule them in Metricool. Campaign clips take priority over the day's text-only videos, still within 2–3 posts per day total.
+3. If OpusClip isn't available, add a Clip Desk card (`status: "idea"`, `permission: "program"`, `topic: "PAID CAMPAIGN"`) with all the details above in `notes`, plus 2–3 specific moments to clip with hooks.
+4. Put campaigns at the **top** of the final summary. The owner must join each campaign and submit clip links on the campaign's site themselves, so say exactly what to do.
+5. Never invent a campaign, a rate or a rule. If none are open, say so in one line.
+
 ## If something fails
 
 - Push refused: report it, and tell the owner to check the Claude GitHub app is still installed on the repo. Don't schedule anything.

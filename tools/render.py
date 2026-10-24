@@ -109,10 +109,20 @@ def render(cfg, out_path):
     muted = hexrgb(cfg["muted"])
     beats = cfg["beats"]
     # timing
-    t = 0.0
     for b in beats:
         n = len(b["text"].replace("**", "").split())
         b["dur"] = b.get("dur") or round(1.4 + 0.34 * n, 2)
+    voice = cfg.get("voice")
+    if voice:
+        # stretch the beats to fit the owner's voiceover (plus lead-in and tail)
+        vdur = float(subprocess.check_output(["ffprobe", "-v", "error", "-show_entries", "format=duration",
+                                              "-of", "csv=p=0", voice]).decode().strip())
+        target = vdur + 0.3 + 1.2
+        scale = target / sum(b["dur"] for b in beats)
+        for b in beats:
+            b["dur"] = round(b["dur"] * scale, 3)
+    t = 0.0
+    for b in beats:
         b["start"] = t
         t += b["dur"]
     total = t
@@ -129,13 +139,22 @@ def render(cfg, out_path):
         b["lh"] = int((asc + desc) * 1.04)
         block = b["lh"] * len(lines)
         b["y0"] = int(TEXT_TOP + (TEXT_BOTTOM - TEXT_TOP - block) / 2)
-    bg = build_background(cfg)
-    parts = Particles(cfg, cfg["seed"])
+    make_audio(out_path + ".wav", total + 0.2, cfg["chord"], [b["start"] for b in beats])
+    if voice:
+        # voice up front, music bed underneath
+        pad = out_path + ".pad.wav"
+        subprocess.run(["mv", out_path + ".wav", pad], check=True)
+        subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", voice, "-i", pad, "-filter_complex",
+                        "[0:a]aformat=channel_layouts=mono,adelay=300,loudnorm=I=-16:TP=-1.5,highpass=f=80[v];"
+                        "[1:a]volume=0.18[m];[v][m]amix=inputs=2:duration=longest:normalize=0[a]",
+                        "-map", "[a]", "-ar", "44100", "-ac", "1", out_path + ".wav"], check=True)
+        subprocess.run(["rm", "-f", pad])
     ff = subprocess.Popen(["ffmpeg", "-y", "-loglevel", "error", "-f", "rawvideo", "-pix_fmt", "rgb24", "-s", f"{W}x{H}",
                            "-r", str(FPS), "-i", "-", "-i", out_path + ".wav", "-c:v", "libx264", "-preset", "medium",
                            "-crf", "19", "-pix_fmt", "yuv420p", "-c:a", "aac", "-b:a", "160k", "-shortest",
                            "-movflags", "+faststart", out_path], stdin=subprocess.PIPE)
-    make_audio(out_path + ".wav", total + 0.2, cfg["chord"], [b["start"] for b in beats])
+    bg = build_background(cfg)
+    parts = Particles(cfg, cfg["seed"])
     for fi in range(frames):
         tt = fi / FPS
         frame = bg.copy().convert("RGBA")
