@@ -1,0 +1,11 @@
+{"tag":"NUTRITION WITHOUT THE FLUFF","seed":37,
+ "bg_top":"#2B1A10","bg_bottom":"#120A05","fg":"#FBF4EC","accent":"#FFA24C","muted":"#BFA48C","chip_fg":"#2A1404",
+ "particles":"orbs","particle":"#FFA24C","chord":[110,164.81,220,277.18],
+ "beats":[
+  {"label":"Check your cup","text":"Your coffee packs **40%** more **calories.**","note":"U.S. adults, 2018 vs. 2003","dur":3.0},
+  {"label":"Thing 1","text":"We drink about the **same** amount: roughly **13** **oz** a day.","note":"Tufts, J. Acad. Nutr. Diet., 2026"},
+  {"label":"Thing 2","text":"But calories from coffee rose from **43** to **60** a day."},
+  {"label":"Thing 3","text":"The top source now? **Non-dairy** **creamer,** ahead of sugar and milk.","note":"Per day: creamer 18.5, sugar 16, milk 11 kcal"},
+  {"label":"Reality check","label_bg":"#F2C14E","text":"Diets were **self-reported,** data ends in **2018,** and 17 calories is **small.**"},
+  {"label":"","text":"Follow for food facts with **zero** **spin.**","dur":2.4}
+ ]}

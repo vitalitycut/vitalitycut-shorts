@@ -6,6 +6,24 @@ Tips: record in a quiet room with the phone about 6 inches from your mouth. Talk
 
 ---
 
+## four-minute-workout
+**Topic:** A 4-minute daily strength routine for people over 65 · **Length:** about 20 seconds
+
+> Got four minutes? A Penn State trial gave adults over 65 a daily routine: push-ups, chair stands, band rows and step-ups, thirty seconds each with rests in between. After about twelve weeks, they stood up from a chair faster and balanced longer. The gains were modest, and it was under a hundred people. Start easy, and follow for more.
+
+**Sources:** Sciamanna et al. (Penn State College of Medicine), PLOS One 2026, randomized trial of 97 adults 65+ (FAST-2), via Penn State News and ScienceDaily (Oct 21, 2026).
+
+---
+
+## late-night-eating
+**Topic:** Late-night eating and liver health · **Length:** about 20 seconds
+
+> Do you snack right before bed? A study of nearly two hundred thousand people found late-night eaters had about twenty to thirty percent higher rates of liver disease. That's a link, not proof, and eating times were self-reported. Researchers are now testing whether eating earlier actually helps. Maybe close the kitchen a little earlier. Follow for more.
+
+**Sources:** Wilechansky et al. (OHSU, Mass General), Clinical Gastroenterology and Hepatology 2026, observational analysis of the Nurses' Health Studies and Health Professionals Follow-up Study, via ScienceDaily (Oct 15, 2026) and News-Medical (Oct 9, 2026).
+
+---
+
 ## cyclic-sighing
 **Topic:** A 5-minute breathing exercise for stress · **Length:** about 20 seconds
 

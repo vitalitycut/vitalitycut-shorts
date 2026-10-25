@@ -1,0 +1,13 @@
+{"tag":"SUPPLEMENTS, FACT-CHECKED","seed":44,
+ "bg_top":"#0B2230","bg_bottom":"#04101A","fg":"#EEF8FA","accent":"#3FE0D0","muted":"#8FB3BF","chip_fg":"#032421",
+ "particles":"fibers","particle":"#3FE0D0","chord":[146.83,220,293.66,369.99],
+ "beats":[
+  {"label":"Brain health test","text":"What happens after **2** **years** of **fish** **oil?**","dur":3.2},
+  {"label":"The trial","text":"**365** adults, ages **55-80,** at higher risk of **Alzheimer's.**","note":"Yassine et al. (USC), eBioMedicine, 2026","dur":5.0},
+  {"label":"The dose","text":"Half took **2,000** **mg** of **DHA** daily. Half took a **placebo.**","note":"DHA is a main omega-3 in fish oil.","dur":6.0},
+  {"label":"At 6 months","text":"It **reached** the brain: DHA in spinal fluid rose about **17%.**","dur":5.5},
+  {"label":"At 2 years","text":"Memory and thinking? **No** **better** than placebo.","note":"Both groups improved slightly.","dur":5.0},
+  {"label":"Brain scans","text":"Shrinkage of the **hippocampus,** a memory hub, looked about the **same.**","dur":5.5},
+  {"label":"Reality check","label_bg":"#F2C14E","text":"**One** dose, **one** group: older adults who rarely ate fish. Other uses **weren't** tested.","note":"Ask a doctor before changing supplements.","dur":7.5},
+  {"label":"","text":"Follow for supplement facts, **no** **sales** **pitch.**","dur":3.0}
+ ]}
