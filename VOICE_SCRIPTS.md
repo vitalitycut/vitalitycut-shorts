@@ -6,6 +6,24 @@ Tips: record in a quiet room with the phone about 6 inches from your mouth. Talk
 
 ---
 
+## ten-minutes-sleep
+**Topic:** Daily movement and deeper sleep · **Length:** about 20 seconds
+
+> Want deeper sleep? Try moving a little every day. A UT Austin study tracked students wearing Fitbits for months. On average, the ones who exercised more often got more deep sleep, and as little as ten minutes of breathing-harder activity a day seemed to help. It's a link in young adults, not proof. Go move, and follow for more.
+
+**Sources:** Corral, Baird et al. (UT Austin), Journal of Physical Activity & Health 2025, observational Fitbit study of UT students, via UT News (July 2025) and ScienceDaily (Oct 2026).
+
+---
+
+## olive-oil-first
+**Topic:** Olive oil before carbs and blood sugar · **Length:** about 20 seconds
+
+> Does the order you eat food matter? In a Kyoto University study, mice that got olive oil before sugar had a smaller early blood sugar spike than mice that got it after. The fat slowed the stomach down and boosted gut hormones. But this was in mice, and human trials still need to happen. Follow for more.
+
+**Sources:** Yabe et al. (Kyoto University), Diabetes 2026, mouse study, via Kyoto University research news (Oct 9, 2026) and ScienceDaily (Oct 11, 2026).
+
+---
+
 ## four-minute-workout
 **Topic:** A 4-minute daily strength routine for people over 65 · **Length:** about 20 seconds
 

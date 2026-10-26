@@ -1,0 +1,13 @@
+{"tag":"SLEEP AIDS, UNPACKED","seed":63,
+ "bg_top":"#141433","bg_bottom":"#07071A","fg":"#F2F0FF","accent":"#B9A4FF","muted":"#9A96C2","chip_fg":"#16103A",
+ "particles":"fibers","particle":"#B9A4FF","chord":[123.47,185,246.94,311.13],
+ "beats":[
+  {"label":"Bedtime check","text":"Your **CBN** **sleep** **gummy** has a catch.","dur":3.0},
+  {"label":"Myth","text":"\"CBN is the **proven,** gentle sleep compound.\"","note":"CBN = cannabinol, sold in many sleep gummies","dur":4.2},
+  {"label":"Fact","text":"Human proof is **thin.** A 2021 review found **too** **little** evidence for sleep claims.","note":"Cannabis Cannabinoid Res., 2021","dur":6.0},
+  {"label":"Best trial so far","text":"**321** poor sleepers, **20** **mg** CBN: overall sleep quality **no** **better** than placebo.","note":"Bonn-Miller et al., Exp. Clin. Psychopharmacol.","dur":6.2},
+  {"label":"A small plus","text":"It did trim night wakings, by about **half** **a** wake-up per night.","dur":4.8},
+  {"label":"New mouse study","text":"Mice built **tolerance** and showed **withdrawal** signs after just days.","note":"UConn, Drug Alcohol Depend., 2026","dur":5.4},
+  {"label":"Reality check","label_bg":"#F2C14E","text":"That was **mice,** not people. Long-term human effects are **unknown.**","note":"Ask a doctor before using sleep aids.","dur":6.0},
+  {"label":"","text":"Follow for sleep science, **not** **sleep** **marketing.**","dur":3.0}
+ ]}

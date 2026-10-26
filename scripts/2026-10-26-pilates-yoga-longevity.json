@@ -1,0 +1,11 @@
+{"tag":"MOVEMENT, MEASURED HONESTLY","seed":51,
+ "bg_top":"#2A0F24","bg_bottom":"#12050F","fg":"#FCF1F6","accent":"#FF7A9C","muted":"#C79AAF","chip_fg":"#2E0614",
+ "particles":"orbs","particle":"#FF7A9C","chord":[130.81,196,261.63,329.63],
+ "beats":[
+  {"label":"New longevity data","text":"**Pilates** is linked to a **longer** life.","dur":3.0},
+  {"label":"The study","text":"**55,000+** U.S. adults, tracked about a **decade.**","note":"Arizona State Univ., 2026, national health survey data","dur":4.6},
+  {"label":"21 practices tested","text":"Pilates: **36%** lower death risk. **Yoga:** **27%** lower.","note":"After adjusting for income, smoking, BMI, exercise","dur":5.4},
+  {"label":"The rest","text":"Most others, like **acupuncture** or special diets? **No** clear link.","dur":5.0},
+  {"label":"Reality check","label_bg":"#F2C14E","text":"It's a **link,** not proof. People who do Pilates may **already** be healthier.","note":"Critics say any regular exercise could explain it.","dur":7.0},
+  {"label":"","text":"Follow for fitness news that **checks** **the** **math.**","dur":3.0}
+ ]}
