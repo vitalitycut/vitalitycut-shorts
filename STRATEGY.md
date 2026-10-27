@@ -40,5 +40,5 @@ Since July 16, 2026, YouTube doesn't monetize repetitive or templated content wi
 
 ## Experiments queue (Oct 25–27)
 1. **Length:** make one Short at about 25s (6 beats) and one at about 42s (8 beats). Compare views and avg view duration at 48h against the 33–37s group.
-2. **Slot:** keep the 12:00 and 18:00 slots, and alternate which hook type goes in which slot so slot and hook aren't confounded.
+2. **Slot:** posting is now 3 a day at 08:00, 12:00 and 18:00 (from Oct 27). Rotate which hook type goes in which slot so slot and hook aren't confounded, and compare the three slots at each review.
 3. **New formats:** one "3 things" video and one "what happens when" video, each with a hook that names a body part or everyday habit.
