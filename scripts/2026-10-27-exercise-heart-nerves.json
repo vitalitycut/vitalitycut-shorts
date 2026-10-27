@@ -1,0 +1,11 @@
+{"tag":"HEART SCIENCE, EARLY DAYS","seed":94,
+ "bg_top":"#0A1A33","bg_bottom":"#040A16","fg":"#EEF6FF","accent":"#5CC8FF","muted":"#8FA6C4","chip_fg":"#06182B",
+ "particles":"orbs","particle":"#5CC8FF","chord":[98,146.83,196,246.94],
+ "beats":[
+  {"label":"New heart research","text":"Cardio may **rewire** your heart's **dimmer** **switch.**","dur":3.0},
+  {"label":"The setup","text":"Rats did moderate cardio for **10** **weeks.** Then scientists counted heart-control **neurons.**","note":"Univ. of Bristol, Auton. Neurosci.","dur":5.2},
+  {"label":"Right side","text":"Trained rats had about **4x** the neurons on the right versus the left.","dur":4.6},
+  {"label":"Left side","text":"Left-side neurons nearly **doubled** in size.","dur":3.4},
+  {"label":"Reality check","label_bg":"#F2C14E","text":"**Rats,** not people. How this changes heart function is still **unknown.**","dur":5.6},
+  {"label":"","text":"Follow for science that **skips** **the** **hype.**","dur":3.0}
+ ]}

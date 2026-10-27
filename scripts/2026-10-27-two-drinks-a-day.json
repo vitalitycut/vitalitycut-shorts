@@ -1,0 +1,12 @@
+{"tag":"DRINKING DATA, STRAIGHT UP","seed":81,
+ "bg_top":"#2B0E0B","bg_bottom":"#110504","fg":"#FFF2EE","accent":"#FF6B5A","muted":"#C79A92","chip_fg":"#2A0905",
+ "particles":"fibers","particle":"#FF6B5A","chord":[110,164.81,220,277.18],
+ "beats":[
+  {"label":"Rethink moderate","text":"**Two** **drinks** a day isn't so **moderate.**","dur":3.0},
+  {"label":"The study","text":"Researchers turned **7,200+** studies into a U.S. risk model.","note":"J. Stud. Alcohol Drugs, 2026","dur":5.0},
+  {"label":"1 drink a day","text":"About **7** a week: only **small** added risk for most conditions.","dur":5.2},
+  {"label":"2 drinks a day","text":"About **14** a week: roughly **1** **in** **25** lifetime risk of dying from alcohol.","dur":6.0},
+  {"label":"Heart benefit?","text":"Small possible heart perks were **outweighed** by cancer and other risks.","dur":5.2},
+  {"label":"Reality check","label_bg":"#F2C14E","text":"It's a **model** of population risk. **Your** risk depends on genes and habits.","note":"1 drink = 12oz beer or 5oz wine","dur":6.4},
+  {"label":"","text":"Follow for health news **without** **the** **spin.**","dur":3.0}
+ ]}

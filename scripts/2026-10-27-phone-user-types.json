@@ -1,0 +1,13 @@
+{"tag":"SCROLL SCIENCE, NO PANIC","seed":72,
+ "bg_top":"#10220F","bg_bottom":"#050C05","fg":"#F1F8EC","accent":"#C6F432","muted":"#9DB394","chip_fg":"#16210A",
+ "particles":"orbs","particle":"#C6F432","chord":[146.83,220,293.66,369.99],
+ "beats":[
+  {"label":"Quick quiz","text":"Which **phone** **user** are you?","dur":3.0},
+  {"label":"Type 1: Pure social","text":"You mostly **message** friends and keep in touch.","dur":4.6},
+  {"label":"Type 2: Light process","text":"A mix of chats, news and some **scrolling,** under about **5** **hours** a day.","dur":6.0},
+  {"label":"Type 3: Heavy process","text":"About **1** **in** **3** spend **5+** **hours** a day, mostly **consuming** content.","note":"Semmelweis Univ., Acta Psychologica","dur":5.8},
+  {"label":"What they found","text":"Heavy scrollers did **worse** on memory and attention tests, and reported **poorer** **sleep.**","dur":6.6},
+  {"label":"The twist","text":"Personality alone didn't predict it. **Self-control** and **FOMO** did.","dur":5.6},
+  {"label":"Reality check","label_bg":"#F2C14E","text":"One study of college students. It **doesn't** prove scrolling **causes** this.","note":"A link, not cause and effect.","dur":6.6},
+  {"label":"","text":"Follow if you're **reclaiming** your **attention.**","dur":3.4}
+ ]}

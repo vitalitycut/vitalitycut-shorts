@@ -6,6 +6,24 @@ Tips: record in a quiet room with the phone about 6 inches from your mouth. Talk
 
 ---
 
+## mediterranean-microproteins
+**Topic:** Mediterranean diet and tiny "protective" proteins · **Length:** about 20 seconds
+
+> Olive oil, fish and beans might be doing something sneaky inside your cells. USC researchers found older adults who ate the most Mediterranean-style had higher levels of tiny proteins called humanin and SHMOOSE, plus less oxidative stress. But it was a small observational study, so it can't prove the food caused it. Pass the olive oil, and follow for more.
+
+**Sources:** Vicinanza, Cohen et al. (USC Leonard Davis School of Gerontology), Frontiers in Nutrition 2026, via ScienceDaily (Oct 24, 2026) and USC Leonard Davis news.
+
+---
+
+## phone-fomo
+**Topic:** What drives problem phone use · **Length:** about 20 seconds
+
+> Think you're addicted to your phone because of your personality? Maybe not. A Semmelweis University study of college students found personality alone didn't predict problem phone use. Weak self-control and fear of missing out did. The heaviest scrollers also did worse on memory and attention tests. It's a link, not proof. Try one notification-free hour today, and follow for more.
+
+**Sources:** Takács & Seregély (Semmelweis University), Acta Psychologica 2025, via ScienceDaily (Oct 12, 2026) and The Star / Tribune News Service (Oct 27, 2026).
+
+---
+
 ## ten-minutes-sleep
 **Topic:** Daily movement and deeper sleep · **Length:** about 20 seconds
 
