@@ -13,7 +13,13 @@ This is the runbook for the VitalityCut daily Shorts autopilot. Each run makes *
 1. **Get push access and clone.** Call `add_repo` (owner `vitalitycut`, repo `vitalitycut-shorts`, access `push`), then clone with `git clone --depth 1`. Install nothing else; `ffmpeg`, Python, Pillow and numpy are preinstalled. Fonts: Inter in `/usr/share/fonts/opentype/inter/`.
 2. **Check what's already done.** With ArtifactData, `list` the `clips` collection. With Metricool, `getScheduledPosts` for blogId `7593557` covering the next 3 days. Don't repeat a topic made in the last 30 days (look at `scripts/` file names and Clip Desk titles).
 3. **Read `STRATEGY.md` first** and follow its current guidance on topics, hooks, formats and length. It's updated every few days from real view counts, so it overrides the defaults below when they differ.
-   **Pick 3 topics**, each in a different format and a different topic area (never two supplement videos the same day). WebSearch what is trending in wellness this week (searches, news, big podcast episodes). Good fits: supplements, sleep, gut health, women's health, longevity, fitness habits, food myths, wellness tech. Skip anything political, weight-loss pressure aimed at teens, or topics where the honest answer is "see a doctor".
+   **Pick 3 topics by trend score.** Each run, research what is trending *today* with WebSearch/WebFetch (run several searches, at least these):
+   - Google Trends daily/realtime trends in Health, and "trending health news today"
+   - Wellness topics blowing up on YouTube Shorts and TikTok this week (articles, trend roundups)
+   - New episodes or viral moments this week from big wellness podcasts and creators
+   - Health headlines from major outlets in the last 48 hours (new studies, recalls, celebrity health news with a wellness angle)
+   Score each candidate 1–5 on: **trending now** (rising in the last 1–3 days counts most), **broad appeal**, **curiosity hook** (myth, surprise, "you're doing it wrong"), and **safe to cover**. Pick the 3 highest, each in a different topic area. When nothing strong is trending, fill from the evergreen bank: sleep, gut health, strength and fitness habits, protein and food myths, brain/focus and phone habits, women's health and hormones (cycle, perimenopause), longevity habits (sauna, cold plunge, VO2 max), wellness tech (smart rings, CGMs, trackers), supplements.
+   **Never cover:** cancer treatments or cures, detox/cleanses, high-dose vitamin C or IV therapy claims, vaccines, anything political, weight-loss pressure aimed at teens, or topics where the honest answer is "see a doctor". These risk YouTube medical-misinformation strikes and demonetization.
 4. **Research each topic.** Use at least 2 credible sources per video (peer-reviewed reviews, PMC/NIH, university press releases, major health outlets). Note what's well supported vs. preliminary.
 5. **Write the script** as a JSON file in `scripts/YYYY-MM-DD-slug.json`, following the existing examples:
    - 6–8 beats, 28–40 seconds total. Beat 1 is the hook (≤8 words), and the last beat is the follow CTA.
@@ -27,13 +33,13 @@ This is the runbook for the VitalityCut daily Shorts autopilot. Each run makes *
 9. **Schedule in Metricool** with `createScheduledPost`, one post per video:
    - Slots: **08:00**, **12:00** and **18:00** America/New_York, on the earliest day(s) from today on where that slot is still free and in the future. No more than 3 posts per day in total.
    - `providers: [{"network":"youtube"}]`, `autoPublish: true`, `draft: false`.
-   - `youtubeData`: `type "short"`, `privacy "public"`, `madeForKids false`, `isAiGeneratedContent false`, `category "EDUCATION"`, plus 5–8 tags.
+   - `youtubeData`: `type "short"`, `privacy "public"`, `madeForKids false`, `isAiGeneratedContent false`, `category "EDUCATION"`, plus 5–8 tags matching the trend keywords people are searching.
    - Title: punchy, ≤60 characters, ending in ` #shorts`.
-   - Text (the description): 1–2 sentence summary, then "Not medical advice." when a health claim is involved, then a `Sources:` line naming the studies or outlets, then 5 hashtags including `#shorts`.
+   - Text (the description): 1–2 sentence summary, then "Not medical advice." when a health claim is involved, then a `Sources:` line naming the studies or outlets, then 5 hashtags: `#shorts`, 1–2 broad ones (`#health`, `#wellness`, `#healthtips`), and 2–3 specific ones that are actually being used on today's trend (check during research, e.g. `#creatine`, `#sleeptips`). Never use a hashtag unrelated to the video.
    - Confirm the response's `media` was rewritten to `static.metricool.com` (that means Metricool fetched the video).
 10. **Log in Clip Desk** with ArtifactData `batch` (op `set`, collection `clips`, doc_id `orig-YYYYMMDD-slug`): `title`, `creator: "Original Short, made by Claude"`, `sourceUrl` (the raw GitHub URL), `timestamp` (duration), `permission: "granted"`, `topic`, `hook`, `addedValue: "Fully original explainer with a reality-check beat."`, `notes` (scheduled slot and Metricool planner URL), `status: "scheduled"`, `addedBy: "scout"`, `scoutDate`, `createdAt`.
 11. **Scout clip ideas.** Also add 3–5 clip ideas from popular wellness creators as `status: "idea"` (see the existing `seed-*` and `scout-*` docs for the fields). Prioritize open paid clipping campaigns (Whop, Content Rewards and similar). Use `permission: "program"` only for a real open campaign or published clipping policy.
-12. **Report.** Finish with a short summary: the 3 videos (title, scheduled time, Metricool planner link), the reasoning for each topic, and any open paid clipping campaigns found. Remind the owner they can delete a post in Metricool before it goes live.
+12. **Report.** Finish with a short summary: the 3 videos (title, scheduled time, Metricool planner link), the trend behind each topic (what's trending and where you saw it), the hashtags used, and any open paid clipping campaigns found. Remind the owner they can delete a post in Metricool before it goes live.
 
 ## Voiceovers from the owner (use these first)
 
