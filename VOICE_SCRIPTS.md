@@ -11,7 +11,7 @@ Tips: record in a quiet room with the phone about 6 inches from your mouth. Talk
 
 > Same plate size, fewer calories? In an Arizona State study, adults on a high-fiber diet absorbed about a hundred and sixteen fewer calories a day than on a Western-style diet, and they didn't feel hungrier. The researchers think gut microbes took a share of that energy. It was a controlled diet study, so everyday life may differ. Follow for more.
 
-**Sources:** Davis, Krajmalnik-Brown, Rittmann et al. (Arizona State University, AdventHealth Translational Research Institute), PLOS One 2026, via ScienceDaily (Oct 12, 2026) and ASU News.
+**Sources:** Davis, Krajmalnik-Brown, Rittmann et al. (Arizona State University, AdventHealth Translational Research Institute), PLOS One 2026 (DOI 10.1371/journal.pone.0347668), via ScienceDaily (Oct 12, 2026; story source: Arizona State University).
 
 ---
 
