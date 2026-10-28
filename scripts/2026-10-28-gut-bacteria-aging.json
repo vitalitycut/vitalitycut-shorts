@@ -1,0 +1,13 @@
+{"tag":"GUT SCIENCE, NO OVERSELL","seed":113,
+ "bg_top":"#06201A","bg_bottom":"#020B08","fg":"#ECFFF7","accent":"#46F0B0","muted":"#8DB8A8","chip_fg":"#032016",
+ "particles":"fibers","particle":"#46F0B0","chord":[73.42,110.0,146.83,174.61],
+ "beats":[
+  {"label":"Gut x aging","text":"Your **gut** may hint how fast you **age.**","dur":3.4},
+  {"label":"The study","text":"**123** adults gave stool and blood samples. Scientists matched gut bacteria to **aging** **clocks.**","note":"Univ. of Hawaii, Scientific Reports 2026","dur":5.8},
+  {"label":"Thing 1","text":"Gut bacteria explained about **15%** of the differences in aging **pace.**","dur":5.0},
+  {"label":"Thing 2","text":"**Bifidobacterium** **adolescentis** was linked to **slower** biological aging.","dur":5.0},
+  {"label":"Thing 3","text":"Another microbe, **Succinivibrio,** was linked to **faster** aging.","dur":4.6},
+  {"label":"Why it matters","text":"Unlike your birthday, your gut **responds** to diet, activity and **stress.**","dur":5.4},
+  {"label":"Reality check","label_bg":"#F2C14E","text":"A **link,** not proof. It's still **unknown** whether changing your gut slows **aging.**","dur":6.2},
+  {"label":"","text":"Follow for gut science **without** the **hype.**","dur":3.4}
+ ]}

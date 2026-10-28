@@ -1,0 +1,11 @@
+{"tag":"TIKTOK TRENDS, FACT-CHECKED","seed":138,
+ "bg_top":"#1A0B24","bg_bottom":"#08040D","fg":"#FBF2FF","accent":"#F25CFF","muted":"#B39BC2","chip_fg":"#22052B",
+ "particles":"orbs","particle":"#F25CFF","chord":[110.0,164.81,220.0,277.18],
+ "beats":[
+  {"label":"Trend check","text":"Can **brainstacking** fix **brain** **rot?**","dur":3.0},
+  {"label":"The trend","text":"Swap scrolling for a **stack** of puzzles, journaling, coloring and **reading.**","note":"via NewsNation / The Hill, Oct 27, 2026","dur":5.0},
+  {"label":"Myth vs fact","text":"Myth: puzzles boost your **whole** brain. Fact: gains mostly stay with the **task** you **practice.**","note":"Simons et al., Psych. Sci. Public Interest 2016","dur":6.2},
+  {"label":"The upside","text":"Engaging hobbies are **linked** to lower risk of **cognitive** **decline.**","dur":4.8},
+  {"label":"Reality check","label_bg":"#F2C14E","text":"Brainstacking itself is **untested,** and those links aren't **proof.** A break from scrolling may be the real **win.**","dur":6.4},
+  {"label":"","text":"Follow for trends, **fact-checked.**","dur":3.0}
+ ]}

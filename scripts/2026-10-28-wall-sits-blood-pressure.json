@@ -1,0 +1,12 @@
+{"tag":"STRENGTH, SHORT AND SIMPLE","seed":27,
+ "bg_top":"#1F1407","bg_bottom":"#0B0703","fg":"#FFF6EC","accent":"#FF9A3C","muted":"#C9AE92","chip_fg":"#2A1504",
+ "particles":"orbs","particle":"#FF9A3C","chord":[87.31,130.81,174.61,220.0],
+ "beats":[
+  {"label":"Blood pressure, made simple","text":"**6.5** points lower BP from **wall** **sits.**","dur":3.2},
+  {"label":"The study","text":"**100** adults with normal to high-normal BP did **wall** **squat** holds at home.","note":"Swift et al., BMJ Open Sport & Exerc. Med. 2026","dur":5.0},
+  {"label":"The routine","text":"**4** holds, **2** minutes of rest between, **3x** a week for a month.","dur":4.6},
+  {"label":"Then they cut back","text":"Just **once** **a** **week** kept top-number BP about **6.5** points below where they started.","dur":5.4},
+  {"label":"More kept more","text":"Staying at **3x** a week: about **13.7** points lower. Quitting **erased** the gains.","dur":5.2},
+  {"label":"Reality check","label_bg":"#F2C14E","text":"Only **8** weeks, and no one had **hypertension.** On BP meds? Ask your **doctor** first.","dur":6.0},
+  {"label":"","text":"Follow for fitness that fits a **busy** **week.**","dur":3.0}
+ ]}

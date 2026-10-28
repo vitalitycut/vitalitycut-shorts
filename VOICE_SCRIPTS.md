@@ -6,6 +6,24 @@ Tips: record in a quiet room with the phone about 6 inches from your mouth. Talk
 
 ---
 
+## fiber-calories
+**Topic:** High-fiber eating and how many calories you absorb · **Length:** about 20 seconds
+
+> Same plate size, fewer calories? In an Arizona State study, adults on a high-fiber diet absorbed about a hundred and sixteen fewer calories a day than on a Western-style diet, and they didn't feel hungrier. The researchers think gut microbes took a share of that energy. It was a controlled diet study, so everyday life may differ. Follow for more.
+
+**Sources:** Davis, Krajmalnik-Brown, Rittmann et al. (Arizona State University, AdventHealth Translational Research Institute), PLOS One 2026, via ScienceDaily (Oct 12, 2026) and ASU News.
+
+---
+
+## breakfast-stress
+**Topic:** Everyday habits linked to handling stress · **Length:** about 20 seconds
+
+> Want to handle stress better? Start with breakfast. A Binghamton University survey of about four hundred college students found that regular breakfast, twenty-plus minutes of exercise, and more than six hours of sleep were all linked to bouncing back from stress better. It's a survey, so it shows a link, not proof. Eat, move, sleep, and follow for more.
+
+**Sources:** Begdache, Cherry & Talkachov (Binghamton University), Journal of American College Health 2026, via Binghamton News (Mar 17, 2026) and ScienceDaily (Oct 13, 2026).
+
+---
+
 ## mediterranean-microproteins
 **Topic:** Mediterranean diet and tiny "protective" proteins · **Length:** about 20 seconds
 
