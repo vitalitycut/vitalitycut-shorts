@@ -2,43 +2,59 @@
 
 The performance review task rewrites this file every 3 days from real YouTube numbers in Metricool. The daily autopilot reads it before picking topics.
 
-_Last updated: 2026-10-25. Data: 3 Shorts live (Oct 23–24), 1 scheduled for today 12:00 ET. Metricool has no per-video views yet (all view fields empty) and reports 0 subscribers / 0 channel views, which looks like reporting lag, not real zero. No conclusions from data yet._
+_Last updated: 2026-10-28. Data: 10 Shorts live (Oct 23–27), 1 pending for today 08:00 ET. Metricool still returns **no per-video rows** (no views, watch time, likes or revenue for any video), and channel totals stop at Oct 24: 100 views (9 on Oct 23, 91 on Oct 24), 0 subscribers, nothing reported for Oct 25–27. That's now 4 days without channel data, longer than normal lag, so the owner should check the Metricool–YouTube connection. No performance conclusions yet._
 
 ## What's working
-No usable view data yet, so nothing is proven. What's live:
+Still unproven: no per-video views exist yet, so nothing can be ranked. The only real number is 100 channel views across the first 3 Shorts in their first 2 days.
+
+What's live (publish status confirmed in Metricool):
 
 | Video | Published (ET) | Hook type | Format | Length | Views |
 |---|---|---|---|---|---|
-| Creatine isn't just for gym bros | Oct 23 (posted in YouTube app) | Statement, "X isn't just for Y" | Quick explainer | 37s, 8 beats | not reported yet |
-| Your leggings might be shedding plastic | Oct 24 12:00 | Statement, "Your ___ might be ___" | Explainer + easy wins | 34s, 7 beats | not reported yet |
-| Does magnesium actually help you sleep? | Oct 24 18:00 | Question | Myth vs fact | 37s, 8 beats | not reported yet |
-| Is lifting once a week enough? | Oct 25 12:00 (pending) | Statement | X vs Y | 35s, 7 beats | not live yet |
+| Creatine isn't just for gym bros | Oct 23 (YouTube app) | Statement, "X isn't just for Y" | Quick explainer | 37s, 8 beats | not reported |
+| Your leggings might be shedding plastic | Oct 24 12:00 | Statement, "Your ___" | Explainer + easy wins | 34s, 7 beats | not reported |
+| Does magnesium actually help you sleep? | Oct 24 18:00 | Question | Myth vs fact | 37s, 8 beats | not reported |
+| Is lifting once a week enough? | Oct 25 12:00 | Statement | X vs Y | 35s, 7 beats | not reported |
+| Your coffee packs 40% more calories | Oct 25 18:00 | Statement, number | 3 things | 26s, 6 beats | not reported |
+| 2 years of fish oil: what happened to memory? | Oct 26 12:00 | Question | What happens when | 41s, 8 beats | not reported |
+| Pilates linked to a longer life? The catch | Oct 26 18:00 | Statement | Quick explainer | 28s, 6 beats | not reported |
+| Two drinks a day isn't so moderate | Oct 27 08:00 | Statement, myth-bust | X vs Y | 34s, 7 beats | not reported |
+| Your CBN sleep gummy has a catch | Oct 27 12:00 | Statement, "Your ___" | Myth vs fact | 39s, 8 beats | not reported |
+| Which phone user are you? | Oct 27 18:00 | Question / quiz | 3 things | 42s, 8 beats | not reported |
+| Cardio may rewire your heart's dimmer switch | Oct 28 08:00 (pending) | Statement, body part | What happens when | 25s, 6 beats | not live yet |
 
-Two built-in comparisons are already running and should be read at the next review:
-- **Slot:** microplastics (12:00) vs magnesium (18:00), same day, similar length.
-- **Hook:** magnesium (question hook) vs strength (statement hook), compare at equal age (e.g. both at 48h).
+The test grid is now well set up, so the next review can read it as soon as numbers arrive:
+- **Length:** 25–28s (coffee, Pilates, cardio) vs 34–39s (6 videos) vs 41–42s (fish oil, phone).
+- **Hook:** question (magnesium, fish oil, phone) vs statement (7 others); "Your ___" hooks (leggings, coffee, CBN) as a sub-group.
+- **Slot:** 12:00 has 4 videos, 18:00 has 4, 08:00 has 1 live + 1 pending (creatine was posted in the app, time not logged).
+- **Posting rate:** 2/day (Oct 24–26, 6 videos) vs 3/day (from Oct 27). Can't be checked until per-video views exist.
 
 ## Do more of
-Keep the starting guidance until real numbers arrive:
-- Topics with built-in curiosity and a clear audience: women's health, supplements people already buy, everyday products that might be harmful, time-saving fitness.
-- Hooks of 8 words or fewer that challenge a belief or name something the viewer owns or does ("Your leggings…", "Lifting once a week…").
-- The "Reality check" beat. It's the channel's point of difference ("minus the hype"), keep it in every video.
+No proven winners yet, so keep the starting guidance:
+- Topics tied to a fresh study or headline (the Oct 25–28 videos all were) in areas with broad appeal: supplements people already buy, sleep, everyday habits (coffee, alcohol, phones), time-saving fitness.
+- Hooks of 8 words or fewer that challenge a belief or name something the viewer owns or does.
+- The "Reality check" beat in every video.
+- Keep spreading length across 25–42s so each band has at least 3 videos to compare.
 
 ## Do less of
-- Clustering in one length band. All 4 videos so far are 33–37s, so length can't be tested. The next videos must spread out (see Experiments).
-- Repeating the same tag line. "WELLNESS, MINUS THE HYPE" was used twice in the first 3 videos; write a new one each time.
+- Don't change the channel direction based on nothing. Until per-video views show up, make no topic area "banned" for performance reasons.
+- Avoid stacking question hooks in the same slot. All 3 question hooks so far went out at 12:00 or 18:00; the 08:00 slot has only had statement hooks.
+- Don't repeat a format within the same day (Oct 27 kept to this; keep it).
 
 ## Format mix
-Used so far: quick explainer, explainer + tips, myth vs fact, X vs Y. Not used yet: **"3 things"** and **"what happens when"**. Use each of those at least once in the next 3 days. Never run the same format two videos in a row.
+All five formats have been used: quick explainer (2), myth vs fact (2), X vs Y (2), 3 things (2), what happens when (2, incl. today's). Explainer + easy wins used once. Keep rotating evenly; never the same format two videos in a row and never twice in one day.
 
 ## Keep it monetizable
 Since July 16, 2026, YouTube doesn't monetize repetitive or templated content with little variation between videos ("inauthentic content"). Every video must look and read different from the last one:
-- Change the palette, particle style, tag line, label wording and beat structure each time (beat count has been 7–8; also try 6).
+- Change the palette, particle style, tag line, label wording and beat structure each time (beat count has been 6–8; keep using all three).
 - Vary length between about 25 and 45 seconds.
 - Make each one teach something specific; never pad with generic lines.
 - Owner voiceover videos (from `voice/`) add a human, non-templated element; use any that are available first.
+- At 3 a day, the risk of looking mass-produced is higher. Same-day videos must differ in format, hook style, palette and tag line.
 
-## Experiments queue (Oct 25–27)
-1. **Length:** make one Short at about 25s (6 beats) and one at about 42s (8 beats). Compare views and avg view duration at 48h against the 33–37s group.
-2. **Slot:** posting is now 3 a day at 08:00, 12:00 and 18:00 (from Oct 27). Rotate which hook type goes in which slot so slot and hook aren't confounded, and compare the three slots at each review.
-3. **New formats:** one "3 things" video and one "what happens when" video, each with a hook that names a body part or everyday habit.
+## Experiments queue (Oct 28–30)
+1. **Question hook at 08:00:** put one question hook in the 08:00 slot on Oct 29 or 30, so all three slots have both hook types.
+2. **Number-led hook:** one hook that opens with a specific number from the study (like "40% more calories"), in a slot other than 18:00, to compare against the coffee Short.
+3. **Long end of the range:** one ~45s, 8-beat Short to test whether the top of the 25–45s range holds attention, compared at 48h against the 41–42s pair.
+
+At the next review, if per-video views are available, compare videos at equal age (views at 48h) and decide whether to stay at 3 a day: if average views per video at 48h clearly dropped after Oct 27, go back to 2 a day (12:00 and 18:00).
