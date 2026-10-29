@@ -1,0 +1,12 @@
+{"tag":"TEA TIME, TRUE FACTS","seed":157,
+ "bg_top":"#1A0E14","bg_bottom":"#080407","fg":"#FFF1F4","accent":"#FF8FB1","muted":"#C7A3AF","chip_fg":"#2A0A14",
+ "particles":"fibers","particle":"#FF8FB1","chord":[82.41,123.47,164.81,207.65],
+ "beats":[
+  {"label":"Tea vs your heart","text":"**How** you drink tea may **matter.**","dur":3.2},
+  {"label":"The study","text":"About **486,000** adults in China, followed for roughly **9** **years.**","note":"Ye et al., Journal of Internal Medicine, Oct 2026","dur":5.0},
+  {"label":"Tea vs no tea","text":"Regular tea drinkers had about **11%** lower risk of heart and **blood** **vessel** disease.","dur":5.2},
+  {"label":"Black vs green","text":"**Black** tea showed a more **consistent** link than green.","dur":4.4},
+  {"label":"Warm vs burning hot","text":"**Moderate** strength looked best. **Burning** **hot** tea was linked to **higher** risk.","dur":5.2},
+  {"label":"Reality check","label_bg":"#F2C14E","text":"It's **observational,** and experts say it **doesn't** **prove** tea protects your heart. Don't chase **8** **cups.**","dur":6.2},
+  {"label":"","text":"Follow for **food** **news,** minus the hype.","dur":3.0}
+ ]}

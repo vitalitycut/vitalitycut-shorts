@@ -1,0 +1,11 @@
+{"tag":"HEAT, HONESTLY","seed":171,
+ "bg_top":"#071426","bg_bottom":"#02060D","fg":"#EEF6FF","accent":"#FFC94D","muted":"#9FB3C8","chip_fg":"#251900",
+ "particles":"orbs","particle":"#FFC94D","chord":[65.41,98.0,130.81,164.81],
+ "beats":[
+  {"label":"Sauna, 30 minutes","text":"**30** sauna minutes. Your **white** **cells** jump.","dur":3.4},
+  {"label":"The study","text":"**51** middle-aged adults sat in a **73°C** Finnish sauna, with a cool shower midway.","note":"Heinonen, Laukkanen et al., Temperature 2026","dur":5.4},
+  {"label":"What happened","text":"Circulating **white** **blood** **cells** rose right after the session.","dur":4.4},
+  {"label":"Then","text":"Neutrophils and lymphocytes were back to **baseline** within **30** **minutes.**","dur":4.6},
+  {"label":"Reality check","label_bg":"#F2C14E","text":"One session, no **control** **group.** A short spike isn't proof of a **stronger** immune system.","dur":5.8},
+  {"label":"","text":"Follow for **longevity** habits, fact-checked.","dur":3.0}
+ ]}

@@ -6,6 +6,24 @@ Tips: record in a quiet room with the phone about 6 inches from your mouth. Talk
 
 ---
 
+## four-minute-strength
+**Topic:** A 4-minute daily strength routine for adults over 65 · **Length:** about 20 seconds
+
+> Four minutes a day. That's it. In a Penn State trial, adults over sixty-five did push-ups, chair stands, band rows and step-ups, thirty seconds each, most days for twelve weeks. They got stronger at standing up and better at balancing on one leg. It was one small trial, so results may vary. Send this to someone you love, and follow for more.
+
+**Sources:** Sciamanna, Dandekar et al. (Penn State College of Medicine), PLOS One 2026 (DOI 10.1371/journal.pone.0336748), randomized trial of 97 adults over 65, via News-Medical (June 10, 2026) and ScienceDaily (Oct 21, 2026).
+
+---
+
+## three-social-things
+**Topic:** Social activities and thinking skills with age · **Length:** about 20 seconds
+
+> Want a sharper brain later in life? Get a busier calendar. A study of almost fifty-eight thousand older adults in twenty-four countries found people doing three or more social activities scored best on memory and thinking tests. Volunteering and sports clubs stood out. It's a link, not proof. Pick one, and follow for more.
+
+**Sources:** "Association between social activity and cognitive enhancement among older adults: results from five longitudinal cohort studies," Journal of Epidemiology & Community Health 2026 (DOI 10.1136/jech-2025-225670), via BMJ Group press release (Oct 20, 2026) and Medical News Today (Oct 27, 2026).
+
+---
+
 ## fiber-calories
 **Topic:** High-fiber eating and how many calories you absorb · **Length:** about 20 seconds
 

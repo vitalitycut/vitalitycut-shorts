@@ -1,0 +1,13 @@
+{"tag":"NAP NEWS, NO PANIC","seed":189,
+ "bg_top":"#0C1A12","bg_bottom":"#030805","fg":"#F0FFF4","accent":"#8CF26B","muted":"#A3BFA9","chip_fg":"#0F2405",
+ "particles":"fibers","particle":"#8CF26B","chord":[73.42,98.0,146.83,185.0],
+ "beats":[
+  {"label":"Naps and memory","text":"Do you **nod** **off** during the **day?**","dur":3.4},
+  {"label":"The study","text":"Johns Hopkins tracked **995** adults over **65** for about **10** **years.**","note":"Jiang, Spira et al., J. Gerontology: Medical Sciences 2026","dur":6.0},
+  {"label":"Finding 1","text":"Napping **most** **days** was linked to about **48%** higher dementia risk.","dur":5.8},
+  {"label":"Finding 2","text":"Dozing off **without** **meaning** **to:** about **39%** higher.","dur":5.4},
+  {"label":"Finding 3","text":"**Planned** naps, and **occasional** ones, showed **no** link.","dur":5.4},
+  {"label":"Why it might happen","text":"Researchers think frequent dozing may be an **early** **sign** of brain changes, not the **cause.**","dur":7.0},
+  {"label":"Reality check","label_bg":"#F2C14E","text":"A **link,** not proof, based on **self-reported** naps. Suddenly dozing a lot? Worth **mentioning** to your doctor.","dur":8.0},
+  {"label":"","text":"Follow for **sleep** **science** you can actually use.","dur":3.8}
+ ]}
