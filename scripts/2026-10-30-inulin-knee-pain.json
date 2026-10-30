@@ -1,0 +1,12 @@
+{"tag":"FIBER FILES, NO FLUFF","seed":193,
+ "bg_top":"#06181A","bg_bottom":"#020909","fg":"#EFFFFB","accent":"#3EE6C3","muted":"#9CC2BA","chip_fg":"#032019",
+ "particles":"orbs","particle":"#3EE6C3","chord":[61.74,92.5,123.47,155.56],
+ "beats":[
+  {"label":"Knee pain, two ways","text":"**20** **grams** of fiber vs **knee** **pain.**","dur":3.4},
+  {"label":"The trial","text":"**117** adults with knee **osteoarthritis,** for **6** **weeks.**","note":"Kouraki, Valdes et al., Nutrients 2026 (INSPIRE trial)","dur":5.0},
+  {"label":"Fiber","text":"**20g** a day of **inulin,** a prebiotic fiber, cut pain about **1** **point** out of 10 vs placebo.","dur":6.0},
+  {"label":"Exercise","text":"Guided physio exercise cut pain about **1.5** **points** and helped **standing** and **walking** tests.","dur":6.0},
+  {"label":"The twist","text":"Only the fiber improved **grip** **strength** and lowered **pain** **sensitivity.**","dur":5.0},
+  {"label":"Reality check","label_bg":"#F2C14E","text":"Small and only **6** **weeks.** Fiber **doesn't** **replace** exercise or treatment. Ask your **doctor** first.","dur":6.8},
+  {"label":"","text":"Follow for **joint** **health** research, minus the hype.","dur":3.2}
+ ]}

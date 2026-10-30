@@ -6,6 +6,24 @@ Tips: record in a quiet room with the phone about 6 inches from your mouth. Talk
 
 ---
 
+## daylight-dementia
+**Topic:** Bright daytime light and dementia risk · **Length:** about 20 seconds
+
+> Here's a reason to step outside today. In a study of nearly eighty-eight thousand adults who wore light sensors on their wrists, people who got brighter daytime light had about a sixteen percent lower dementia risk over roughly eight years. It's a link, not proof that light protects your brain. Take your coffee outside, and follow for more.
+
+**Sources:** Zheng, Feng et al. (Guangzhou Medical University), General Psychiatry 2026 (DOI 10.1002/gps3.70039), UK Biobank cohort of 87,577 adults, via ScienceDaily / Wiley (Oct 29, 2026) and News-Medical (June 29, 2026).
+
+---
+
+## steps-focus
+**Topic:** Daily steps and focus later in life · **Length:** about 20 seconds
+
+> Want a sharper brain later on? Count your steps. Researchers looked at Fitbit data from about three thousand adults over fourteen years. People averaging around nine thousand steps a day or more scored better on focus and self-control tests than people around five thousand. It's a link, not proof. Add one short walk today, and follow for more.
+
+**Sources:** Scientific Reports 2026, Fitbit data from 3,093 adults in the NIH All of Us Research Program, via Medical News Today (Oct 29, 2026) and ARY News (Oct 21, 2026).
+
+---
+
 ## four-minute-strength
 **Topic:** A 4-minute daily strength routine for adults over 65 · **Length:** about 20 seconds
 

@@ -1,0 +1,13 @@
+{"tag":"SWEET TALK, STRAIGHT","seed":199,
+ "bg_top":"#140A1F","bg_bottom":"#06030A","fg":"#FBF4FF","accent":"#FFA526","muted":"#B9A7C6","chip_fg":"#2A1600",
+ "particles":"orbs","particle":"#FFA526","chord":[58.27,87.31,116.54,146.83],
+ "beats":[
+  {"label":"Sugar-free, rethought","text":"Are sugar-free sweets **kinder** to your **brain?**","dur":3.4},
+  {"label":"The study","text":"**12,772** adults in Brazil, followed for about **8** **years.**","note":"Suemoto et al., Neurology 2025 (Univ. of São Paulo)","dur":5.0},
+  {"label":"What they tracked","text":"Seven low- and no-calorie sweeteners, including **aspartame,** **erythritol** and **xylitol.**","dur":5.2},
+  {"label":"The finding","text":"The highest users showed **62%** faster decline in thinking and memory than the lowest.","dur":5.6},
+  {"label":"Put another way","text":"About **1.6** **extra** **years** of cognitive aging, based on test scores.","dur":4.8},
+  {"label":"Who stood out","text":"The link showed up in people **under** **60,** and was **stronger** with **diabetes.**","dur":5.2},
+  {"label":"Reality check","label_bg":"#F2C14E","text":"An **association** from **self-reported** diet, not proof of harm. Have diabetes? Ask your **doctor** before switching.","dur":7.6},
+  {"label":"","text":"Follow for **food** **science** without the scare.","dur":3.2}
+ ]}

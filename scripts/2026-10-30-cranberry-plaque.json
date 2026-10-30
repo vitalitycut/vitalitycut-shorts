@@ -1,0 +1,11 @@
+{"tag":"JUICE, CHECKED","seed":197,
+ "bg_top":"#1C0709","bg_bottom":"#080203","fg":"#FFF2F0","accent":"#FF6B6B","muted":"#C9A5A1","chip_fg":"#2B0606",
+ "particles":"fibers","particle":"#FF6B6B","chord":[69.3,103.83,138.59,174.61],
+ "beats":[
+  {"label":"Cranberry vs plaque","text":"Your cranberry juice is probably the **wrong** **one.**","dur":3.4},
+  {"label":"Myth","text":"All fruit juice is just **bad** **news** for your teeth.","dur":3.8},
+  {"label":"What researchers found","text":"Swishing **100%** **unsweetened** cranberry juice slowed plaque **regrowth** and **acid** within 30 minutes.","note":"Wu, Xie et al., Scientific Reports 2026","dur":6.2},
+  {"label":"The catch","text":"The **sweetened** cranberry cocktail **didn't** show the same effect.","dur":4.4},
+  {"label":"Reality check","label_bg":"#F2C14E","text":"Just **22** people, measured over **30** **minutes.** Not proof it prevents **cavities.** Keep **brushing.**","dur":6.0},
+  {"label":"","text":"Follow for **habits** worth a **second** **look.**","dur":3.0}
+ ]}
