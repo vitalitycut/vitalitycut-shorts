@@ -1,0 +1,13 @@
+{"tag":"MUSCLE, MAPPED","seed":229,
+ "bg_top":"#0E1416","bg_bottom":"#050809","fg":"#F7F2FF","accent":"#C792FF","muted":"#B3ADC0","chip_fg":"#1E0A33",
+ "particles":"fibers","particle":"#C792FF","chord":[61.74,92.5,123.47,146.83],
+ "beats":[
+  {"label":"Aging muscle, rethought","text":"You're picturing **muscle** **aging** **wrong.**","dur":3.0},
+  {"label":"The research","text":"Scientists tracked **cardiolipin,** a fat inside your cells' **power** **plants.**","note":"Finger, Gerhart-Hines et al., Nature Aging 2026 (Univ. of Copenhagen)","dur":5.2},
+  {"label":"With age","text":"Cardiolipin **drops** in aging muscle, in **mice** and in **humans.**","dur":4.6},
+  {"label":"Then","text":"Muscle shifts from **fast,** powerful fibers to **slow,** endurance ones.","dur":4.8},
+  {"label":"Why it might happen","text":"The lead author calls it muscle **trading** **power** for **protection.**","dur":4.8},
+  {"label":"The surprise","text":"In mice, **antioxidants** made muscles fare **worse,** not better.","dur":4.6},
+  {"label":"Reality check","label_bg":"#F2C14E","text":"The cause and the fix were shown in **mice.** **No** proven treatment for everyday muscle aging **yet.**","dur":6.4},
+  {"label":"","text":"Follow for **aging** science, minus the hype.","dur":3.0}
+ ]}

@@ -1,0 +1,13 @@
+{"tag":"WATER, WEIGHED","seed":211,
+ "bg_top":"#04161F","bg_bottom":"#010A0F","fg":"#F2FBFF","accent":"#4FD8FF","muted":"#9DB8C4","chip_fg":"#002433",
+ "particles":"fibers","particle":"#4FD8FF","chord":[65.41,98.0,130.81,164.81],
+ "beats":[
+  {"label":"Water, measured","text":"**8** glasses a day was never **science.**","dur":3.2},
+  {"label":"The study","text":"**5,600+** people in **26** countries, tracked with **labeled** water.","note":"Yamada, Speakman et al., Science 2022","dur":5.0},
+  {"label":"Myth","text":"Everyone needs **8** glasses, about **2** liters.","dur":3.8},
+  {"label":"Fact","text":"Daily water turnover ranged from about **1** to **6** **liters.**","dur":4.6},
+  {"label":"The twist","text":"For a typical man in his 20s, **over** **half** may come from **food.**","note":"University of Aberdeen estimate, US/Europe diet","dur":5.0},
+  {"label":"What pushes it up","text":"**Activity,** **heat,** pregnancy and breastfeeding.","dur":4.0},
+  {"label":"Reality check","label_bg":"#F2C14E","text":"These are **averages,** and the researchers set **no** new **guideline.** Your needs vary.","dur":6.0},
+  {"label":"","text":"Follow for health rules, **re-checked.**","dur":3.0}
+ ]}

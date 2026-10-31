@@ -6,6 +6,24 @@ Tips: record in a quiet room with the phone about 6 inches from your mouth. Talk
 
 ---
 
+## exercise-nox4
+**Topic:** A muscle protein that fades with age, and what exercise did to it in mice · **Length:** about 20 seconds
+
+> Here's one more reason to keep moving as you get older. Monash University researchers found a muscle protein called NOX4 drops with age and inactivity, and low levels went with smaller, weaker muscles. In older mice, exercise helped bring it back. This is early animal research, not proof for people. Take a walk today, and follow for more.
+
+**Sources:** Tiganis et al. (Monash Biomedicine Discovery Institute), Science Advances 2026, via News-Medical (June 11, 2026) and Fox News Health (June 14, 2026).
+
+---
+
+## mind-diet-aging-clock
+**Topic:** The MIND diet, pace of aging and dementia risk · **Length:** about 20 seconds
+
+> Can your plate slow your aging clock? In the Framingham Heart Study, about sixteen hundred adults over sixty who stuck closer to the MIND diet, think vegetables, berries, nuts, whole grains, olive oil and fish, aged more slowly on a DNA-based aging clock and had lower dementia risk. It's a link, not proof. Try one MIND-style meal this week, and follow for more.
+
+**Sources:** "Diet, Pace of Biological Aging, and Risk of Dementia in the Framingham Heart Study," Annals of Neurology 2024 (1,644 adults 60+), via Columbia Mailman School of Public Health (Mar 14, 2024) and PsyPost (Mar 18, 2024).
+
+---
+
 ## daylight-dementia
 **Topic:** Bright daytime light and dementia risk · **Length:** about 20 seconds
 

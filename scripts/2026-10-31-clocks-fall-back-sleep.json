@@ -1,0 +1,11 @@
+{"tag":"FALL BACK, SLEEP ON","seed":223,
+ "bg_top":"#0B0F24","bg_bottom":"#04050E","fg":"#F4F6FF","accent":"#7FA8FF","muted":"#A9B0CC","chip_fg":"#0A1433",
+ "particles":"orbs","particle":"#7FA8FF","chord":[55.0,82.41,110.0,138.59],
+ "beats":[
+  {"label":"Clocks change tonight","text":"If you're **gaining** an hour tonight, **read** **this.**","dur":3.2},
+  {"label":"The switch","text":"Clocks fall back at **2** **a.m.** **Sunday,** Nov 1, in most of the U.S.","note":"Arizona and Hawaii don't change (Time Out)","dur":4.2},
+  {"label":"Easy win","text":"Get **morning** **light.** It helps reset your body clock.","dur":3.6},
+  {"label":"Another one","text":"Keep **naps** under **20** minutes. Skip **late** **caffeine.**","dur":4.0},
+  {"label":"Reality check","label_bg":"#F2C14E","text":"Most people adjust in **days** to **weeks.** Some take **longer.**","note":"Sleep Foundation","dur":4.4},
+  {"label":"","text":"Follow for **sleep** tips that hold up.","dur":2.8}
+ ]}
