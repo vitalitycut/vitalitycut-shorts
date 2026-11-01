@@ -1,0 +1,12 @@
+{"tag":"PAIN, DECODED","seed":241,
+ "bg_top":"#1B0F1A","bg_bottom":"#0A050A","fg":"#FFF3FB","accent":"#FF8AD8","muted":"#C4AFBF","chip_fg":"#330A26",
+ "particles":"fibers","particle":"#FF8AD8","chord":[55.0,82.41,110.0,138.59],
+ "beats":[
+  {"label":"Back pain, mapped","text":"If your **back** **pain** feels **personal,** here's why.","dur":3.4},
+  {"label":"The scans","text":"UC San Diego scanned **114** adults with chronic **low** **back** pain.","note":"Gianola, Zeidan et al., British Journal of Anaesthesia 2026","dur":5.4},
+  {"label":"The trigger","text":"A simple **leg** **raise** set off a pain **flare.**","dur":4.2},
+  {"label":"What switched on","text":"The brain's **\"self\"** **network,** tied to how you think about **you.**","dur":5.4},
+  {"label":"The twist","text":"In a **heat** pain test, that same network usually goes **quiet.**","dur":4.8},
+  {"label":"Reality check","label_bg":"#F2C14E","text":"It's a **link,** not proof of cause, and **too** **early** to change treatment.","dur":6.0},
+  {"label":"","text":"Follow for one study a day, explained **without** **spin.**","dur":3.4}
+ ]}

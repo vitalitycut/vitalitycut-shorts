@@ -1,0 +1,11 @@
+{"tag":"OIL TIMING, TESTED","seed":257,
+ "bg_top":"#1E120C","bg_bottom":"#0B0604","fg":"#FFF6F0","accent":"#FFB89A","muted":"#C9B4A8","chip_fg":"#3A1A0C",
+ "particles":"orbs","particle":"#FFB89A","chord":[58.27,87.31,116.54,146.83],
+ "beats":[
+  {"label":"Before vs after","text":"Olive oil **before** carbs beat **after.** In **mice.**","dur":3.2},
+  {"label":"Before","text":"Oil **15** minutes before sugar: a **smaller** early blood sugar **spike.**","note":"Liu, Yabe et al., Diabetes 2026 (Kyoto University)","dur":4.6},
+  {"label":"After","text":"Oil **after** the sugar? **Not** the same effect.","dur":3.2},
+  {"label":"How","text":"Gut **hormones** and the vagus nerve **slowed** stomach emptying.","dur":4.0},
+  {"label":"Reality check","label_bg":"#F2C14E","text":"A **big** dose, in **mice.** Blood sugar evened out by **2** **hours.** No human trial yet.","dur":5.0},
+  {"label":"","text":"Follow for food trends, tested before you **try** **them.**","dur":2.6}
+ ]}

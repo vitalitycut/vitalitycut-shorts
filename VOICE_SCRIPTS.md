@@ -6,6 +6,24 @@ Tips: record in a quiet room with the phone about 6 inches from your mouth. Talk
 
 ---
 
+## late-night-snacking-liver
+**Topic:** Eating after dinner and liver disease risk · **Length:** about 20 seconds
+
+> Is your after-dinner snack hard on your liver? Researchers at Oregon Health and Science University looked at nearly two hundred thousand people and found those who regularly ate after dinner or near bedtime had a twenty to thirty percent higher risk of liver disease. It's a link, not proof, and the diet data was self-reported. Try closing the kitchen a little earlier, and follow for more.
+
+**Sources:** Wilechansky, McHill et al., Clinical Gastroenterology and Hepatology 2026 (Nurses' Health Studies I and II, Health Professionals Follow-up Study), via ScienceDaily / OHSU (Oct 15, 2026) and News-Medical (Oct 9, 2026).
+
+---
+
+## caffeine-deep-sleep
+**Topic:** How caffeine can make sleep shallower without shortening it · **Length:** about 20 seconds
+
+> You slept eight hours, so why are you still tired? A review of thirty-two sleep studies found caffeine often lowers slow-wave activity, a marker of deep sleep, even when sleep looks normal. In one study, a hundred milligrams at bedtime was enough. People respond very differently, so this isn't a rule for everyone. Try an earlier last coffee, and follow for more.
+
+**Sources:** Chmiel & Kurpas, systematic review in Nutrients 2026 (DOI 10.3390/nu18081220, Wroclaw Medical University), via The Brighter Side of News (June 5, 2026) and News-Medical (May 27, 2026).
+
+---
+
 ## exercise-nox4
 **Topic:** A muscle protein that fades with age, and what exercise did to it in mice · **Length:** about 20 seconds
 

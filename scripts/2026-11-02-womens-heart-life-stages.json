@@ -1,0 +1,13 @@
+{"tag":"HER HEART, BY STAGE","seed":263,
+ "bg_top":"#0A1622","bg_bottom":"#040A10","fg":"#F6F4FF","accent":"#FFB4E1","muted":"#AEB6C8","chip_fg":"#3A0A28",
+ "particles":"orbs","particle":"#FFB4E1","chord":[49.0,73.42,98.0,123.47],
+ "beats":[
+  {"label":"Women's hearts","text":"Can your **period** hint at **heart** risk?","dur":3.2},
+  {"label":"What's new","text":"Four medical groups mapped women's heart risk to **life** **stages.**","note":"AHA, AAP, ACOG & SMFM, Circulation, Oct 26, 2026","dur":5.0},
+  {"label":"Clue 1: your cycle","text":"**Heavy** or **irregular** periods may be an **early** risk marker.","dur":4.6},
+  {"label":"Clue 2: pregnancy","text":"Pregnancy works like a heart **stress** **test.** Preeclampsia and gestational diabetes **count.**","dur":5.6},
+  {"label":"Clue 3: midlife","text":"**Perimenopause** shifts in cholesterol may be **early** **warnings.**","dur":4.6},
+  {"label":"Why it matters","text":"Heart disease kills **400,000+** U.S. women a year. Only **41%** call it their top threat.","dur":5.8},
+  {"label":"Reality check","label_bg":"#F2C14E","text":"This is **guidance,** not a new study. A heavy period **doesn't** mean heart disease.","dur":5.6},
+  {"label":"","text":"Follow for women's health news, **minus** the **panic.**","dur":3.0}
+ ]}
