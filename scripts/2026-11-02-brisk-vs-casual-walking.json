@@ -1,0 +1,12 @@
+{"tag":"PACE, PUT TO THE TEST","seed":271,
+ "bg_top":"#0B1410","bg_bottom":"#040805","fg":"#F6FFEE","accent":"#B6FF3B","muted":"#A9BDA6","chip_fg":"#1C2A00",
+ "particles":"fibers","particle":"#B6FF3B","chord":[61.74,82.41,123.47,164.81],
+ "beats":[
+  {"label":"Stroll vs brisk","text":"If you only **stroll,** read this.","dur":3.2},
+  {"label":"The trial","text":"**165** frail adults, average age **79.** Two walking groups, **16** weeks.","note":"Danilovich et al., PLOS One 2026 (cluster randomized trial)","dur":5.4},
+  {"label":"Group A: casual","text":"Their own **comfy** pace, under **60%** of max heart rate.","dur":4.4},
+  {"label":"Group B: brisk","text":"Aiming for about **70%** of max heart rate. Same 45 minutes, **3x** a week.","dur":5.4},
+  {"label":"The scoreboard","text":"Frailty eased in **70%** of brisk walkers vs **46%** of casual. Both groups **gained.**","dur":5.6},
+  {"label":"Reality check","label_bg":"#F2C14E","text":"**Supervised,** fairly small, with dropouts. If you're frail, build up **slowly** with your doctor.","dur":5.8},
+  {"label":"","text":"Follow for one study a day, **minus** the **hype.**","dur":3.2}
+ ]}

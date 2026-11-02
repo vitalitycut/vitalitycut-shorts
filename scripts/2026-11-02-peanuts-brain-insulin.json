@@ -1,0 +1,11 @@
+{"tag":"SNACK, SCANNED","seed":277,
+ "bg_top":"#170C1C","bg_bottom":"#08040B","fg":"#F4FFF9","accent":"#6BFFB0","muted":"#B7A9BE","chip_fg":"#00281A",
+ "particles":"orbs","particle":"#6BFFB0","chord":[51.91,77.78,103.83,130.81],
+ "beats":[
+  {"label":"Peanuts, daily","text":"Peanuts every day changed older **brain** **scans.**","dur":3.0},
+  {"label":"The setup","text":"**31** adults, 60 to 75. About **2** handfuls a day for **16** weeks.","note":"Kerkhof, Joris et al., Food & Function 2026 (Maastricht UMC)","dur":4.4},
+  {"label":"What shifted","text":"Memory areas like the **hippocampus** responded **better** to insulin.","dur":4.0},
+  {"label":"Why it's interesting","text":"Brain insulin signaling is **thought** to help **protect** memory.","dur":3.8},
+  {"label":"Reality check","label_bg":"#F2C14E","text":"Only **31** people. Funded by a **peanut** group. Brain scans, **not** dementia.","dur":4.6},
+  {"label":"","text":"Follow for food headlines, **fact-checked** in 20 seconds.","dur":2.6}
+ ]}

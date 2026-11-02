@@ -1,0 +1,13 @@
+{"tag":"MAXXING, MEASURED","seed":281,
+ "bg_top":"#12101F","bg_bottom":"#06050C","fg":"#F6F5FF","accent":"#9B8CFF","muted":"#B0ADC6","chip_fg":"#160D40",
+ "particles":"fibers","particle":"#9B8CFF","chord":[46.25,69.3,92.5,116.54],
+ "beats":[
+  {"label":"Healthmaxxing","text":"Is **more** health hacking actually **healthier?**","dur":3.0},
+  {"label":"The trend","text":"Trackers, glucose **sensors,** body scans, supplement **stacks.** All at once.","note":"Trend coverage: Gulf News (Oct 27, 2026), Ohio State Wexner Medical Center","dur":5.0},
+  {"label":"Myth: more tests, more safety","text":"Doctors warn whole-body **scans** often find **harmless** spots that trigger **more** tests.","dur":5.4},
+  {"label":"Myth: more pills, more benefit","text":"Some supplements can reach **toxic** levels in big **amounts.**","dur":4.6},
+  {"label":"Fact: the boring basics","text":"**150** active minutes a week, strength **2** days, **7 to 9** hours of sleep.","dur":5.4},
+  {"label":"A doctor's rule","text":"If a trend costs money or **stress** without a payoff, **stop.**","dur":4.4},
+  {"label":"Reality check","label_bg":"#F2C14E","text":"Expert **opinion,** not a new study. Many hacks just aren't **tested** yet.","dur":4.8},
+  {"label":"","text":"Follow to keep the basics and **skip** the **noise.**","dur":3.0}
+ ]}

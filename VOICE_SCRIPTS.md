@@ -6,6 +6,24 @@ Tips: record in a quiet room with the phone about 6 inches from your mouth. Talk
 
 ---
 
+## phone-before-bed
+**Topic:** Bedtime phone use and adult sleep, what one big survey found · **Length:** about 20 seconds
+
+> Is scrolling in bed really wrecking your sleep? A Canadian survey of more than a thousand adults found people who used screens every night slept about as well overall as people who never did. The worst sleep was in the on-and-off group. It's a survey, not proof, and teens may be more sensitive. Watch what you scroll, not just when, and follow for more.
+
+**Sources:** Carney et al. (Toronto Metropolitan University and Université Laval), Sleep Health, Oct 2025, via TMU news release (Nov 5, 2025) and TIME (Nov 20, 2025).
+
+---
+
+## dessert-stomach
+**Topic:** Why there's always room for dessert, the brain circuit behind it · **Length:** about 20 seconds
+
+> Full after dinner, but there's still room for dessert? Scientists at the Max Planck Institute found that in mice, the same brain cells that signal fullness also release a feel-good opioid when sugar shows up, pushing them to keep eating. Brain scans hinted a similar region reacts to sugar in people. It's mostly mouse work, so go easy on the conclusions. Follow for more.
+
+**Sources:** Minère, Fenselau et al., "Thalamic opioids from POMC satiety neurons switch on sugar appetite," Science 2025, via ScienceDaily / Max Planck (Feb 13, 2025) and PsyPost.
+
+---
+
 ## late-night-snacking-liver
 **Topic:** Eating after dinner and liver disease risk · **Length:** about 20 seconds
 
