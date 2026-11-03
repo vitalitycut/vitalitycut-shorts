@@ -1,0 +1,12 @@
+{"tag":"SLEEP CLOCK, CHECKED","seed":283,
+ "bg_top":"#0B1026","bg_bottom":"#03050F","fg":"#F2F6FF","accent":"#8FB8FF","muted":"#A6AEC8","chip_fg":"#0A1A40",
+ "particles":"orbs","particle":"#8FB8FF","chord":[43.65,65.41,87.31,110.0],
+ "beats":[
+  {"label":"Weekend lie-ins","text":"If you **sleep** **in** on weekends, read this.","dur":3.4},
+  {"label":"The data","text":"**10,000+** adults wore sleep **trackers.** Over **1 million** nights logged.","note":"Preliminary abstract, AHA Scientific Sessions 2026 (NIH All of Us)","dur":5.2},
+  {"label":"When bedtimes drift","text":"Shifting sleep timing was linked to **20 to 23%** higher risk of **heart** **attack,** stroke or heart failure.","dur":6.0},
+  {"label":"Every 29 minutes","text":"Each **29-minute** jump in night-to-night swing: about **24%** higher risk.","dur":5.2},
+  {"label":"The habit in question","text":"A **steady** sleep schedule, **weekends** included.","dur":3.8},
+  {"label":"Reality check","label_bg":"#F2C14E","text":"**Not** peer-reviewed yet. A **link,** not proof. Trackers only **estimate** sleep.","dur":5.6},
+  {"label":"","text":"Follow for sleep studies **without** the **scare** headlines.","dur":3.2}
+ ]}

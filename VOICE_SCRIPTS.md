@@ -6,6 +6,24 @@ Tips: record in a quiet room with the phone about 6 inches from your mouth. Talk
 
 ---
 
+## daylight-dementia
+**Topic:** Daytime light exposure and dementia risk, from a big wearable study · **Length:** about 20 seconds
+
+> How much daylight did you get today? In a UK study of almost ninety thousand adults wearing light sensors, brighter days lined up with about a sixteen percent lower dementia risk. It's a link, not proof, from one week of tracking. Still, a walk outside is an easy win. Follow for more.
+
+**Sources:** Zheng, Feng et al., General Psychiatry 2026 (UK Biobank, 87,577 adults), via ScienceDaily / Wiley (Oct 29, 2026) and News-Medical (Jun 29, 2026).
+
+---
+
+## energy-drinks-heart
+**Topic:** Energy drinks and stimulant products in FDA heart-event reports · **Length:** about 20 seconds
+
+> Is your energy drink harder on your heart than you think? In FDA safety reports, cardiac arrest came up about eleven times more often with caffeine and stimulant products than with other foods and supplements. These are voluntary reports, so it can't prove the drinks caused anything. Maybe skip the extra can, and follow for more.
+
+**Sources:** Samayamanthula et al., preliminary abstract MDP0323, AHA Scientific Sessions 2026, via the American Heart Association newsroom (Nov 2, 2026), including comment from independent AHA expert Gregory M. Marcus, MD ("does not prove that caffeine products cause these events"). Preliminary, not peer-reviewed.
+
+---
+
 ## phone-before-bed
 **Topic:** Bedtime phone use and adult sleep, what one big survey found · **Length:** about 20 seconds
 

@@ -1,0 +1,11 @@
+{"tag":"THE OTHER HALF OF SALT","seed":287,
+ "bg_top":"#1A0D06","bg_bottom":"#080402","fg":"#FFF6EE","accent":"#FF9F43","muted":"#C4B2A4","chip_fg":"#3A1A00",
+ "particles":"fibers","particle":"#FF9F43","chord":[55.0,82.41,110.0,138.59],
+ "beats":[
+  {"label":"Sodium vs potassium","text":"**Salt** is only **half** the blood pressure story.","dur":3.0},
+  {"label":"Sodium","text":"Makes you hold **fluid,** pushing pressure **up.**","note":"Fukagawa et al., Am J Clin Nutr 2026 (Univ. of Vermont)","dur":3.6},
+  {"label":"Potassium","text":"Helps kidneys **flush** sodium. Most diets get **far** too **little.**","dur":3.8},
+  {"label":"The big trial","text":"A potassium salt **swap:** **14%** fewer **strokes** in 21,000 high-risk adults.","note":"Salt Substitute and Stroke Study, NEJM 2021","dur":4.6},
+  {"label":"Reality check","label_bg":"#F2C14E","text":"Trial was in rural **China.** Kidney disease or some meds? Potassium can be **risky.**","dur":4.8},
+  {"label":"","text":"Follow for heart tips that come with **receipts.**","dur":2.6}
+ ]}

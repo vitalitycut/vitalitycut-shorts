@@ -1,0 +1,13 @@
+{"tag":"B12, BY THE EVIDENCE","seed":293,
+ "bg_top":"#0F0F1C","bg_bottom":"#05050B","fg":"#F0FFFB","accent":"#3DF2D0","muted":"#AAB0C0","chip_fg":"#00302A",
+ "particles":"fibers","particle":"#3DF2D0","chord":[41.2,61.74,82.41,98.0],
+ "beats":[
+  {"label":"B12, checked","text":"Does **B12** actually protect your **heart?**","dur":3.0},
+  {"label":"New review","text":"Researchers weighed the **B12** and **heart** studies.","note":"Awashra et al., Nutrition Journal 2026, via Medical News Today (Nov 2)","dur":4.2},
+  {"label":"1. Low levels","text":"**Low** B12 is **linked** to higher heart risk in observational studies.","dur":4.6},
+  {"label":"2. The pills","text":"But supplement trials **didn't** consistently cut **heart** **attacks.**","dur":4.6},
+  {"label":"3. Stroke","text":"Stroke had the **best** evidence, mostly from **B-vitamin** **combos,** not B12 alone.","dur":5.4},
+  {"label":"Another clue","text":"UC Irvine, **220,000+** U.S. adults: more B vitamins tied to **lower** stroke risk.","note":"Liu et al., Am J Prev Cardiol 2026 (observational)","dur":5.6},
+  {"label":"Reality check","label_bg":"#F2C14E","text":"Diagnosed **low?** Your doctor may treat it. Otherwise B12 **isn't** a proven heart **shield.**","dur":5.6},
+  {"label":"","text":"Follow **before** you buy your next **supplement.**","dur":3.0}
+ ]}
