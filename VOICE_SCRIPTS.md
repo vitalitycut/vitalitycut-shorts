@@ -6,6 +6,24 @@ Tips: record in a quiet room with the phone about 6 inches from your mouth. Talk
 
 ---
 
+## best-diet-for-aging
+**Topic:** Which diet slows biological aging? A big German study says several do · **Length:** about 20 seconds
+
+> Which diet slows aging the most? A German study of about seventy-five hundred adults scored ten healthy eating patterns, from Mediterranean to Nordic to plant-based. Sticking closer to any of them was linked to slower aging on DNA clocks, and the gaps between diets were small. It's a link, not proof. So pick the one you'll actually stick with, and follow for more.
+
+**Sources:** Tavares, Breteler et al., "Associations between diet quality, epigenetic aging and epigenome in two population-based cohorts," Nature Communications 2026 (DZNE Rhineland Study, 6,470 people, replicated in 1,034 from EPIC-Potsdam), via ScienceDaily / DZNE (Oct 20, 2026).
+
+---
+
+## cannabis-insomnia
+**Topic:** Does medical cannabis help insomnia? What a Cochrane review found · **Length:** about 20 seconds
+
+> Does cannabis actually help you sleep? A new Cochrane review pooled nine trials with about five hundred adults with insomnia. Compared with a placebo, medical cannabis made little or no real difference to sleep quality or total sleep, and side effects like dizziness and dry mouth were more common. The trials were small, so it isn't the final word. Follow for more.
+
+**Sources:** Varela, Garegnani et al., "Medical cannabis for the treatment of insomnia," Cochrane Database of Systematic Reviews 2026, Issue 10 (DOI 10.1002/14651858.CD016216.pub2), via ScienceDaily (Nov 1, 2026).
+
+---
+
 ## daylight-dementia
 **Topic:** Daytime light exposure and dementia risk, from a big wearable study · **Length:** about 20 seconds
 

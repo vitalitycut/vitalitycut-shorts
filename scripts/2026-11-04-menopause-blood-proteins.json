@@ -1,0 +1,13 @@
+{"tag":"MIDLIFE, MAPPED","seed":311,
+ "bg_top":"#1C0A18","bg_bottom":"#0A0409","fg":"#FFF2FA","accent":"#FF7EB3","muted":"#BFA9B8","chip_fg":"#3D0420",
+ "particles":"fibers","particle":"#FF7EB3","chord":[38.89,58.27,77.78,92.5],
+ "beats":[
+  {"label":"Inside the change","text":"What happens in your **blood** at **menopause?**","dur":3.0},
+  {"label":"New research","text":"Scientists tracked blood **proteins** before, during and after **menopause.**","note":"Wood Alexander et al., Nature Medicine 2026; UCSB / UCSF news (Nov 2)","dur":4.6},
+  {"label":"What shifted","text":"**16** proteins rose, tied to **inflammation** and **brain** aging.","dur":4.2},
+  {"label":"Not just age","text":"The changes tracked menopause **stage** more than **birthdays.**","dur":4.0},
+  {"label":"Years later","text":"In nearly **12,000** older women, higher levels went with **poorer** memory and thinking.","dur":5.4},
+  {"label":"The risk","text":"Plus a **modestly** higher Alzheimer's risk over about **16** years.","dur":4.6},
+  {"label":"Reality check","label_bg":"#F2C14E","text":"A **link,** not a cause. Most women **never** get Alzheimer's, and there's **no** test yet.","dur":5.8},
+  {"label":"","text":"Follow so you hear about **midlife** research **first.**","dur":3.0}
+ ]}

@@ -1,0 +1,11 @@
+{"tag":"FRUIT VS. CARBS","seed":317,
+ "bg_top":"#08170F","bg_bottom":"#030A06","fg":"#F4FFF6","accent":"#FF8C61","muted":"#A9BFB0","chip_fg":"#3A1204",
+ "particles":"orbs","particle":"#FF8C61","chord":[51.91,77.78,103.83,123.47],
+ "beats":[
+  {"label":"8-week test","text":"**1** avocado + **1** cup mango, **every** day","dur":3.0},
+  {"label":"Head to head","text":"**82** adults with **prediabetes:** this combo vs. **same-calorie** carbs.","note":"Burton-Freeman et al., J Am Heart Assoc 2026 (Illinois Tech, randomized)","dur":5.0},
+  {"label":"Blood vessels","text":"Artery **flexibility** rose with the fruit and **slipped** on the carbs.","dur":4.4},
+  {"label":"No change","text":"Weight, **cholesterol** and blood **sugar** barely moved.","dur":3.8},
+  {"label":"Reality check","label_bg":"#F2C14E","text":"Small, **8 weeks,** funded by **avocado** and mango boards. A marker, not heart **attacks.**","dur":5.8},
+  {"label":"","text":"Follow to see who **paid** for the next study.","dur":3.0}
+ ]}

@@ -1,0 +1,12 @@
+{"tag":"NOISE, ON THE RECORD","seed":307,
+ "bg_top":"#1A0E0E","bg_bottom":"#080404","fg":"#FFF4F0","accent":"#FF6B6B","muted":"#C2AFAA","chip_fg":"#3A0808",
+ "particles":"orbs","particle":"#FF6B6B","chord":[46.25,69.3,92.5,110.0],
+ "beats":[
+  {"label":"Heads up","text":"Good sleep may not cancel **traffic** **noise.**","dur":3.0},
+  {"label":"The data","text":"**108,000** adults, home noise estimated from **traffic,** trains and **planes.**","note":"Nguyen et al., AHA Scientific Sessions 2026 abstract (preliminary)","dur":4.8},
+  {"label":"What showed up","text":"Above **50 decibels,** odds of high cholesterol, blood pressure or diabetes ran **8–10%** higher.","dur":5.6},
+  {"label":"The surprise","text":"The link looked **similar** for people who slept **well** and **badly.**","dur":4.4},
+  {"label":"3 fixes he suggests","text":"Bedroom on the **quiet** side. Better **windows.** **Earplugs** at night.","note":"Lead author Dr. Joseph Nguyen, Mass General","dur":5.0},
+  {"label":"Reality check","label_bg":"#F2C14E","text":"One **unreviewed** study of noise averages. A **link,** not proof noise **causes** heart disease.","dur":5.6},
+  {"label":"","text":"Follow for new heart research, **minus** the **hype.**","dur":3.0}
+ ]}
