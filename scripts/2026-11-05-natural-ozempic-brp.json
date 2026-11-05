@@ -1,0 +1,12 @@
+{"tag":"HEADLINE VS. DATA","seed":331,
+ "bg_top":"#140C26","bg_bottom":"#06030F","fg":"#F6F2FF","accent":"#B9A2FF","muted":"#B3ABC7","chip_fg":"#1E0E4A",
+ "particles":"orbs","particle":"#B9A2FF","chord":[43.65,65.41,87.31,103.83],
+ "beats":[
+  {"label":"Headline check","text":"Is there really a **natural** **Ozempic?**","dur":3.0},
+  {"label":"Meet BRP","text":"Stanford's **AI** scanned **373** hormone precursors and found **BRP,** a tiny peptide.","note":"Coassolo et al., Nature 2025 (Stanford)","dur":5.2},
+  {"label":"Side by side","text":"In nerve cells, GLP-1 **tripled** activity. BRP boosted it **tenfold.**","dur":4.4},
+  {"label":"In animals","text":"One shot cut eating by up to **50%** for an hour in **mice** and **minipigs.**","dur":4.6},
+  {"label":"Obese mice, 14 days","text":"Treated mice lost about **3 grams.** Untreated mice gained about **3.**","dur":4.2},
+  {"label":"Reality check","label_bg":"#F2C14E","text":"\"Natural\" means your body makes it. It's still an **injection,** tested only in **animals,** by its **patent** holders.","dur":6.2},
+  {"label":"","text":"Follow and we'll check it again if it reaches **human** trials.","dur":3.2}
+ ]}

@@ -6,6 +6,24 @@ Tips: record in a quiet room with the phone about 6 inches from your mouth. Talk
 
 ---
 
+## sleep-before-training
+**Topic:** One short night before a workout day, what a cycling study found · **Length:** about 20 seconds
+
+> Big workout tomorrow? Maybe don't stay up late. In one study, ten trained cyclists slept either eight hours or just three between two days of riding. After the short night, their sprint and time-trial power dropped, even though heart rate barely changed. It was a tiny study, and the riders knew their sleep was cut. So protect your sleep, and follow for more.
+
+**Sources:** Dean, Hartmann, Wingfield, Larsen, Skein, "Sleep restriction between consecutive days of exercise impairs sprint and endurance cycling performance," Journal of Sleep Research 2023 (DOI 10.1111/jsr.13857), via PsyPost (Jul 10, 2023).
+
+---
+
+## super-hgf-muscle
+**Topic:** A lab compound that boosts a muscle-repair protein, early research · **Length:** about 20 seconds
+
+> Could aging muscles get a repair boost? Scientists at Kyushu University found a compound called LASSS more than doubled how strongly a muscle-repair protein, HGF, grabs onto its receptor in lab tests, and it shielded that protein from damage in mice. That's not proof of stronger muscles yet, and aging studies are still needed. Follow for more.
+
+**Sources:** Zushi ... Tatsumi et al., "Enhanced HGF with increased receptor affinity and nitration-dysfunction resistance through interaction with lipoic acid trisulfide," Scientific Reports 2026 (DOI 10.1038/s41598-026-60835-w), via ScienceDaily / Kyushu University (Nov 4, 2026).
+
+---
+
 ## best-diet-for-aging
 **Topic:** Which diet slows biological aging? A big German study says several do · **Length:** about 20 seconds
 

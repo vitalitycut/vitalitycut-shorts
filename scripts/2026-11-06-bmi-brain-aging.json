@@ -1,0 +1,13 @@
+{"tag":"BRAIN AGING, 3 WAYS","seed":347,
+ "bg_top":"#0D1610","bg_bottom":"#040805","fg":"#F3FFF0","accent":"#A8E05F","muted":"#ABBDA8","chip_fg":"#1C3300",
+ "particles":"orbs","particle":"#A8E05F","chord":[49.0,73.42,98.0,123.47],
+ "beats":[
+  {"label":"24-year study","text":"**8,200** adults. **24** years. **3** brain takeaways.","dur":3.2},
+  {"label":"Who was tracked","text":"U.S. adults over **50,** tested on memory and **thinking** for decades.","note":"Song et al., J Neurology 2026 (UGA)","dur":4.4},
+  {"label":"Takeaway 1","text":"Each **1-point** rise in BMI was linked to **faster** cognitive decline.","dur":4.4},
+  {"label":"Takeaway 2","text":"The link peaked around **year 8** and was strongest **after 65.**","dur":4.0},
+  {"label":"Takeaway 3","text":"The authors call weight one of the most **modifiable** risks for aging well.","dur":4.4},
+  {"label":"Possible why","text":"Ideas include **inflammation,** blood **flow** and insulin **resistance.** Not proven yet.","dur":4.6},
+  {"label":"Reality check","label_bg":"#F2C14E","text":"It's a **link,** not proof weight **causes** decline. And BMI alone is a **rough** measure.","dur":5.4},
+  {"label":"","text":"Follow for one **brain** study a day, minus the hype.","dur":3.0}
+ ]}

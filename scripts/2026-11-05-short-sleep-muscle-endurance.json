@@ -1,0 +1,11 @@
+{"tag":"SLEEP, UNDER LOAD","seed":337,
+ "bg_top":"#071722","bg_bottom":"#020A10","fg":"#EFF8FF","accent":"#5CC8FF","muted":"#A6B8C4","chip_fg":"#00283D",
+ "particles":"fibers","particle":"#5CC8FF","chord":[36.71,55.0,73.42,87.31],
+ "beats":[
+  {"label":"After a short night","text":"Short sleep made **muscles** give out **sooner.**","dur":2.8},
+  {"label":"The test","text":"**35** young men held a lift after normal sleep, then after **under 4 hours.**","note":"Zhu et al., Int J Psychophysiol 2026","dur":4.6},
+  {"label":"The twist","text":"They hit **exhaustion** faster, yet the muscle signals showed **no extra** fatigue.","dur":4.4},
+  {"label":"Brain, not brawn","text":"Brain **network** links shifted, hinting the **brain** called time early.","dur":3.8},
+  {"label":"Reality check","label_bg":"#F2C14E","text":"One night, **35** men, one arm task. A **10-cyclist** study saw similar dips.","dur":5.0},
+  {"label":"","text":"Follow for sleep science that was actually **tested.**","dur":2.6}
+ ]}
