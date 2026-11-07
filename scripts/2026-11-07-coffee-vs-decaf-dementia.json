@@ -1,0 +1,12 @@
+{"tag":"CAFFEINATED VS. DECAF","seed":359,
+ "bg_top":"#1C110B","bg_bottom":"#080403","fg":"#FFF5EE","accent":"#FF8F66","muted":"#C4B2A6","chip_fg":"#3A1204",
+ "particles":"fibers","particle":"#FF8F66","chord":[41.2,61.74,82.41,98.0],
+ "beats":[
+  {"label":"130,000 people","text":"**2–3** coffees a day and your **brain?**","dur":3.0},
+  {"label":"The data","text":"Harvard-linked team tracked **131,821** adults for up to **43** years.","note":"Zhang, Wang et al., JAMA 2026","dur":4.4},
+  {"label":"Caffeinated","text":"The biggest coffee drinkers had about **18%** lower **dementia** risk.","dur":4.2},
+  {"label":"Sweet spot","text":"The best link was at **2–3** cups. **More** didn't add anything.","dur":4.0},
+  {"label":"Decaf","text":"Decaf showed **no** such link. Tea, at **1–2** cups, looked similar.","dur":4.4},
+  {"label":"Reality check","label_bg":"#F2C14E","text":"It's a **link,** not proof. Intake was **self-reported** and the lead author calls the effect **small.**","dur":5.6},
+  {"label":"","text":"Follow to get each **viral** study checked against the **paper.**","dur":3.2}
+ ]}

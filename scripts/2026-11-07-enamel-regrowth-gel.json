@@ -1,0 +1,11 @@
+{"tag":"LAB TO DENTIST?","seed":373,
+ "bg_top":"#120D22","bg_bottom":"#05030C","fg":"#F2FFFC","accent":"#5FF2D9","muted":"#ADB0C6","chip_fg":"#003A31",
+ "particles":"fibers","particle":"#5FF2D9","chord":[36.71,55.0,73.42,87.31],
+ "beats":[
+  {"label":"Big if true","text":"Could a **gel** regrow tooth **enamel?**","dur":2.8},
+  {"label":"Step 1","text":"A **protein** gel goes on like a **fluoride** treatment.","note":"Hasan, Mata et al., Nature Communications 2025","dur":3.8},
+  {"label":"Step 2","text":"It seeps into **cracks** and pulls **calcium** and phosphate from **saliva.**","dur":4.2},
+  {"label":"Step 3","text":"In lab tests, new **enamel-like** crystals grew in about **2** weeks.","dur":4.0},
+  {"label":"Reality check","label_bg":"#F2C14E","text":"No **human** trials reported yet. We found no sign it's **on sale.**","dur":4.4},
+  {"label":"","text":"Follow to see if **lab** wins ever reach your **dentist.**","dur":3.0}
+ ]}

@@ -6,6 +6,24 @@ Tips: record in a quiet room with the phone about 6 inches from your mouth. Talk
 
 ---
 
+## tea-and-your-brain
+**Topic:** Tea and dementia risk, from the same 43-year JAMA study as the coffee Short · **Length:** about 20 seconds
+
+> Not a coffee person? Here's the tea news. A big U.S. study that followed more than a hundred and thirty thousand adults for up to forty-three years found people drinking one to two cups of tea a day had a lower dementia risk. It's only a link, and people reported their own drinking habits. So enjoy your tea, and follow for more.
+
+**Sources:** Zhang ... Wang et al., "Coffee and Tea Intake, Dementia Risk, and Cognitive Function," JAMA 2026 (DOI 10.1001/jama.2025.27259), via ScienceDaily (Nov 7, 2026) and SciTechDaily.
+
+---
+
+## dairy-and-older-adults
+**Topic:** Full-fat dairy in a 12-week trial, and why the researchers say it matters for older adults · **Length:** about 20 seconds
+
+> Still buying skim because you were told to? In a Toronto trial, seventy-four adults ate three servings of full-fat dairy a day for twelve weeks, and weight, body fat and cholesterol didn't meaningfully change. The researchers say that matters most for older adults who need nutrients but fewer calories. It was small and short, so ask your doctor before a big switch. Follow for more.
+
+**Sources:** Anderson et al., Journal of Nutrition 2026 (DOI 10.1016/j.tjnut.2026.101373), via University of Toronto news (Jul 6, 2026), Newsweek (Aug 11, 2026) and ScienceDaily (Nov 6, 2026).
+
+---
+
 ## sleep-before-training
 **Topic:** One short night before a workout day, what a cycling study found · **Length:** about 20 seconds
 

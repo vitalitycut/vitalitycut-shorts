@@ -1,0 +1,13 @@
+{"tag":"MYTH CHECK: DAIRY FAT","seed":367,
+ "bg_top":"#0A1424","bg_bottom":"#03070F","fg":"#EEF6FF","accent":"#7CC7FF","muted":"#A6B6CA","chip_fg":"#04243F",
+ "particles":"orbs","particle":"#7CC7FF","chord":[46.25,69.3,92.5,110.0],
+ "beats":[
+  {"label":"The old rule","text":"Full-fat **dairy** makes you **gain.** Maybe not.","dur":3.0},
+  {"label":"The trial","text":"**74** adults with overweight got **3** daily servings of **full-fat** dairy, or very little.","note":"Anderson et al., J Nutrition 2026 (U of Toronto)","dur":4.8},
+  {"label":"Myth","text":"\"It'll pile on **weight** and **cholesterol.**\"","dur":3.0},
+  {"label":"What they saw","text":"After **12** weeks: no meaningful change in weight, **body fat** or **cholesterol** vs. low dairy.","dur":4.8},
+  {"label":"Bonus","text":"Dairy eaters got more **calcium,** **protein** and vitamin D, and better **blood pressure.**","dur":4.4},
+  {"label":"Reality check","label_bg":"#F2C14E","text":"Small, only **3** months, part-funded by the **dairy** sector. Saturated fat still isn't **free.**","dur":5.4},
+  {"label":"Takeaway","text":"The lead researcher's advice: eat a **variety,** and not too much of **anything.**","dur":4.0},
+  {"label":"","text":"Follow for one **food rule** a day, tested against **trials.**","dur":3.0}
+ ]}
