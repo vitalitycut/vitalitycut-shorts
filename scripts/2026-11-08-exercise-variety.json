@@ -1,0 +1,13 @@
+{"tag":"ONE WORKOUT VS. A MIX","seed":383,
+ "bg_top":"#1A0E1E","bg_bottom":"#070309","fg":"#FFF2F8","accent":"#FF6FA8","muted":"#C4AEBB","chip_fg":"#3D0420",
+ "particles":"fibers","particle":"#FF6FA8","chord":[43.65,65.41,87.31,110.0],
+ "beats":[
+  {"label":"","text":"Same **workout** every week? Read this.","dur":2.8},
+  {"label":"The data","text":"**111,000+** adults tracked for more than **30 years** at Harvard.","note":"Han, Hu et al., BMJ Medicine 2026","dur":4.4},
+  {"label":"One activity","text":"Some mostly stuck to **one** thing, like walking or running.","dur":3.6},
+  {"label":"A mix","text":"Others spread time across **many,** from weights to yoga to **gardening.**","dur":4.2},
+  {"label":"The gap","text":"Most variety vs. least: about **19%** lower risk of **early death.**","dur":4.2},
+  {"label":"The twist","text":"The link showed up at **every** activity level, not just for big exercisers.","dur":4.4},
+  {"label":"Reality check","label_bg":"#F2C14E","text":"Self-reported habits, mostly **white** health workers. A **link,** not proof, and switching routines wasn't tested.","dur":6.0},
+  {"label":"","text":"Follow for one **workout myth** a week, checked against **cohorts.**","dur":3.2}
+ ]}

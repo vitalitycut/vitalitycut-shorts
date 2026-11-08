@@ -6,6 +6,24 @@ Tips: record in a quiet room with the phone about 6 inches from your mouth. Talk
 
 ---
 
+## lifting-minutes
+**Topic:** How much strength training a week was linked to living longer, from a Harvard study · **Length:** about 20 seconds
+
+> How much lifting is actually enough? A Harvard study of nearly a hundred and fifty thousand adults found that ninety minutes to two hours of strength training a week was linked to a thirteen percent lower risk of early death, with no extra benefit past two hours. People reported their own workouts, so it's a link. Follow for more.
+
+**Sources:** Harvard T.H. Chan School of Public Health researchers, British Journal of Sports Medicine 2026 (147,374 adults from the Nurses' Health Studies and Health Professionals Follow-up Study, up to 30 years), via Fox News (Jun 7, 2026) and Dr. Axe (2026, citing PubMed 42230125).
+
+---
+
+## walking-counts
+**Topic:** Walking and long life, from the same Harvard cohort as the exercise-variety Short · **Length:** about 20 seconds
+
+> Think walking doesn't count as exercise? A Harvard team followed about a hundred and ten thousand people for three decades. Those who walked the most had a seventeen percent lower risk of dying over that time than those who walked the least. It's an observational link, not proof. So take the long way home, and follow for more.
+
+**Sources:** Han, Hu et al., "Physical Activity Types, Variety, and Mortality," BMJ Medicine 2026 (DOI 10.1136/bmjmed-2025-001513), via BBC Science Focus (Nov 2, 2026) and the Harvard Chan School news release (Jan 2026).
+
+---
+
 ## tea-and-your-brain
 **Topic:** Tea and dementia risk, from the same 43-year JAMA study as the coffee Short · **Length:** about 20 seconds
 

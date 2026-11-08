@@ -1,0 +1,12 @@
+{"tag":"3 GUT SHIFTS, 12 COUNTRIES","seed":389,
+ "bg_top":"#0A1A16","bg_bottom":"#030907","fg":"#F0FFF8","accent":"#6FF0B0","muted":"#A8C2B8","chip_fg":"#003822",
+ "particles":"orbs","particle":"#6FF0B0","chord":[38.89,58.27,77.78,92.5],
+ "beats":[
+  {"label":"","text":"If you live a **modern** life, read this.","dur":2.8},
+  {"label":"Who they tested","text":"**1,015** healthy adults in **35** communities, rural to urban, across **12** countries.","note":"Poyet et al., Cell 2026","dur":4.8},
+  {"label":"Shift 1","text":"More industrialized life went with **less diverse** gut bacteria.","dur":3.8},
+  {"label":"Shift 2","text":"A gut **stress marker** ran over **8x** higher, and a gut antibody more than **double.**","dur":4.8},
+  {"label":"Shift 3","text":"Their microbe networks looked **less stable,** with fewer backups for breaking down **fiber.**","dur":4.8},
+  {"label":"Reality check","label_bg":"#F2C14E","text":"One **snapshot** in time. Diet and lifestyle couldn't be separated, and harm to **health** isn't shown.","dur":5.6},
+  {"label":"","text":"Follow for **gut science** without the **hype.**","dur":2.8}
+ ]}

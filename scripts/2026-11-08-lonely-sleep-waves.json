@@ -1,0 +1,11 @@
+{"tag":"DEEP SLEEP, AFTER 60","seed":397,
+ "bg_top":"#0B0F28","bg_bottom":"#02030D","fg":"#F4F4FF","accent":"#FFB86B","muted":"#AEB1CB","chip_fg":"#3D1C00",
+ "particles":"orbs","particle":"#FFB86B","chord":[36.71,55.0,73.42,92.5],
+ "beats":[
+  {"label":"","text":"Deep sleep waves can get **lonely** with age.","dur":2.8},
+  {"label":"Young brains","text":"In your **20s,** deep-sleep waves travel together across about a **handspan** of scalp.","note":"Sharon, Walker et al., Nature Neuroscience 2026","dur":4.6},
+  {"label":"Older brains","text":"In people **65 to 75,** they travel less and fire **alone.**","dur":3.8},
+  {"label":"Next morning","text":"More **lonely** waves, fewer word pairs **remembered.** More brain **tau** went with them too.","dur":5.0},
+  {"label":"Reality check","label_bg":"#F2C14E","text":"None had **Alzheimer's.** It's a link: researchers can't yet say which **comes first.**","dur":5.0},
+  {"label":"","text":"Follow for **sleep science** before it hits your **feed.**","dur":2.8}
+ ]}
