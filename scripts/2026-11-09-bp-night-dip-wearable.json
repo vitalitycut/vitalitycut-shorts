@@ -1,0 +1,11 @@
+{"tag":"WHEN BLOOD PRESSURE WON'T DIP","seed":409,
+ "bg_top":"#061A24","bg_bottom":"#01080C","fg":"#EFFBFF","accent":"#4FE3FF","muted":"#A3BEC8","chip_fg":"#002A36",
+ "particles":"orbs","particle":"#4FE3FF","chord":[34.65,51.91,69.3,87.31],
+ "beats":[
+  {"label":"","text":"Does your blood pressure **dip** while you sleep?","dur":2.8},
+  {"label":"The setup","text":"**4,190** adults with high blood pressure wore a **wrist tracker** plus a BP cuff for a **year.**","note":"Chaudhry et al., AHA Scientific Sessions 2026 abstract","dur":5.0},
+  {"label":"No night dip","text":"Blood pressure that didn't fall during sleep went with nearly **5x** the odds of a **crisis.**","dur":4.6},
+  {"label":"The AI alert","text":"An AI flagged high-risk patients up to **3 days** early. Fast doctor follow-up went with **61%** fewer crises.","dur":5.4},
+  {"label":"Reality check","label_bg":"#F2C14E","text":"One hospital in **Pakistan.** An early **abstract,** not yet peer reviewed, and it needs testing in more groups.","dur":5.6},
+  {"label":"","text":"Follow for **wellness tech** that's been put to the test.","dur":2.8}
+ ]}

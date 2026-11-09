@@ -1,0 +1,11 @@
+{"tag":"4 MOVES. 30 SECONDS EACH.","seed":419,
+ "bg_top":"#0F1A08","bg_bottom":"#040802","fg":"#F6FFEE","accent":"#9CFF5A","muted":"#B4C4A8","chip_fg":"#173300",
+ "particles":"fibers","particle":"#9CFF5A","chord":[43.65,65.41,82.41,98.0],
+ "beats":[
+  {"label":"","text":"Four minutes a day helped people over **65.**","dur":2.8},
+  {"label":"The moves","text":"**Push-ups,** chair stands, band **rows,** step-ups. **30** seconds each, with rests.","note":"Sciamanna et al., PLOS One 2026","dur":4.4},
+  {"label":"The trial","text":"**97** adults, average age **74,** randomly given the routine or **nothing.**","dur":3.6},
+  {"label":"The payoff","text":"About **4** more chair stands in 30 seconds, and **3.6** seconds longer on **one leg.**","dur":4.2},
+  {"label":"Reality check","label_bg":"#F2C14E","text":"A **small** trial using bands and a stepper. Long-term **health** wasn't measured.","dur":4.6},
+  {"label":"","text":"Follow for **short** workouts, backed by trials.","dur":2.6}
+ ]}

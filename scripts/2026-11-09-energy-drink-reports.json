@@ -1,0 +1,13 @@
+{"tag":"STIMULANTS VS. NO STIMULANTS","seed":401,
+ "bg_top":"#1F0710","bg_bottom":"#0A0205","fg":"#FFF0F3","accent":"#FF5577","muted":"#C9A9B1","chip_fg":"#40000F",
+ "particles":"fibers","particle":"#FF5577","chord":[41.2,61.74,82.41,98.0],
+ "beats":[
+  {"label":"","text":"Energy drinks and **11x** the cardiac-arrest reports?","dur":3.0},
+  {"label":"The data","text":"**28,345** FDA adverse-event reports, from **2017 to 2025.**","note":"Samayamanthula et al., AHA Scientific Sessions 2026 abstract","dur":4.0},
+  {"label":"With stimulants","text":"**854** involved energy drinks or stimulant supplements, like **pre-workouts.**","dur":4.0},
+  {"label":"Vs. without","text":"Next to soda, shakes and bars: cardiac arrest reported about **11x** more often, heart attack **4.5x.**","dur":5.0},
+  {"label":"Who reported","text":"About **45%** of those heart reports came from adults **18 to 34.**","dur":3.8},
+  {"label":"Reality check","label_bg":"#F2C14E","text":"Voluntary **reports,** not true risk. Doses and health conditions weren't known. **Not proof** the drinks caused it.","dur":6.0},
+  {"label":"Know your number","text":"Most healthy adults: up to **400 mg** caffeine a day. One energy drink can hold up to **300.**","dur":4.8},
+  {"label":"","text":"Follow to see what's **really** in your cup, one study at a time.","dur":3.0}
+ ]}
