@@ -6,6 +6,24 @@ Tips: record in a quiet room with the phone about 6 inches from your mouth. Talk
 
 ---
 
+## caffeine-math
+**Topic:** How much caffeine is in an energy drink vs. the daily limit, from the AHA energy-drink abstract coverage · **Length:** about 20 seconds
+
+> Do you actually know how much caffeine you drink? The American Heart Association says up to four hundred milligrams a day is generally safe for most healthy adults. One energy drink can hold anywhere from eighty to three hundred. Add coffee and a pre-workout, and you can blow past that fast. Limits differ person to person, so check your labels, and follow for more.
+
+**Sources:** AHA Newsroom, "Energy drinks, stimulant products linked to cardiac arrest, heart attack in young adults" (Nov 2, 2026, citing the 2026 AHA scientific statement on caffeine); Medical News Today (Nov 5, 2026, quoting cardiologist Cheng-Han Chen on 80–300 mg per drink).
+
+---
+
+## four-minute-moves
+**Topic:** The 4-move, 4-minute routine from the Penn State trial in adults over 65 · **Length:** about 20 seconds
+
+> Got four minutes? In a Penn State trial, adults over sixty-five did push-ups, chair stands, band rows and step-ups, thirty seconds each. Compared with people who did nothing, they managed about four more chair stands in thirty seconds and balanced longer on one leg. It was a small study, so start easy. Follow for more.
+
+**Sources:** Sciamanna, Dandekar et al., PLOS One 2026 (DOI 10.1371/journal.pone.0336748), via Penn State Health News (Jun 12, 2026) and News-Medical (Jun 10, 2026).
+
+---
+
 ## lifting-minutes
 **Topic:** How much strength training a week was linked to living longer, from a Harvard study · **Length:** about 20 seconds
 
