@@ -2,7 +2,7 @@
 
 The performance review task rewrites this file every 3 days from real YouTube numbers in Metricool. The daily autopilot reads it before picking topics.
 
-_Last updated: 2026-11-10. Data: 42 Shorts published Oct 23–Nov 8, plus **6 failed** with "You have reached your Metricool account limit" (Oct 31 18:00, Nov 8 12:00 and 18:00, and all three Nov 9 slots). Nothing is scheduled for Nov 10 or later. Metricool still returns **no per-video views** (3 rows have titles but no numbers). Channel totals through Nov 6: **1,956 views total** (+1,416 since the last review's Oct 28 cutoff), **0 subscribers, 0 gained**. Nov 6 (23 views) is probably partial, and Nov 7–9 aren't reported yet. No video can be ranked yet, so every pattern below is tentative._
+_Last updated: 2026-11-10. Data: 41 Shorts published Oct 23–Nov 8, plus **6 failed** with "You have reached your Metricool account limit" (Oct 31 18:00, Nov 8 12:00 and 18:00, and all three Nov 9 slots). Nothing is scheduled for Nov 10 or later. Metricool still returns **no per-video views** (3 rows have titles but no numbers). Channel totals through Nov 6: **1,956 views total** (+1,416 since the last review's Oct 28 cutoff), **0 subscribers, 0 gained**. Nov 6 (23 views) is probably partial, and Nov 7–9 aren't reported yet. No video can be ranked yet, so every pattern below is tentative._
 
 ## ⛔ Posting is blocked: Metricool's monthly limit
 In **both** months, exactly **20 posts** went out through Metricool before the errors began: Oct 24–31 (20 posts, then the Oct 31 18:00 failure) and Nov 1–Nov 8 08:00 (20 posts, then 5 failures in a row). That looks like a cap of **20 posts a month** on the current Metricool plan. This is an inference from the post log, not confirmed with Metricool. At 3 a day, the cap runs out by about day 7 of each month.
@@ -27,7 +27,7 @@ Daily detail: Oct 27: 72, Oct 28: 141, Oct 29: 138, Oct 30: 118, Oct 31: 69, **N
 - **3 a day didn't lower views per upload:** 54 channel views/day per daily upload, vs 53 at 2 a day. Total views per day rose about 50%. So on performance alone there's no reason to go back to 2 a day. The Metricool cap is what limits posting now.
 - **Nov 1–2 spike (269 and 346, about 2.2x the 3-a-day average).** That was the first stretch of "If you ___" hooks (back pain, "If you only stroll") and the first days of the follow-reason CTA test. Uploads those days: muscle aging (36s), back pain (33s), olive oil before carbs (23s), period → heart risk (37s), brisk vs casual walking (33s), peanuts → brain scans (22s). We can't tell which video drove the spike. One of them probably got picked up, and **it's only a lead, not a pattern.**
 - **The catalogue isn't compounding:** views settled back to about 140/day after the spike while live Shorts grew from 24 to 36.
-- **Subscribers: still 0** after about 1,950 views and 36+ follow-reason CTAs since Nov 1. The CTA test (experiment 3 last time) showed no effect.
+- **Subscribers: still 0** after about 1,950 views, and 20 posted Shorts since Nov 1 ended with a specific follow reason. The CTA test (experiment 3 last time) showed no effect.
 
 ## Do more of
 - **Body-part and personal "If you ___ / your ___" hooks.** They were live on the best days (Nov 1–2). Keep using them about once a day so per-video data can confirm or reject them once it arrives.
@@ -36,13 +36,13 @@ Daily detail: Oct 27: 72, Oct 28: 141, Oct 29: 138, Oct 30: 118, Oct 31: 69, **N
 - **Women's health / midlife** (period → heart, menopause): broad audience and little competition. Keep about 1 every 2–3 days.
 
 ## Do less of
-- **Heart and blood-pressure topics: 9 of the last 25 videos** (women's heart, potassium, sleep schedule → heart, B12 → heart, traffic noise → heart, avocado/mango arteries, energy drinks → cardiac arrest, BP night dip, and indirectly BMI). Most came from the same AHA Scientific Sessions press batch. Cap it at **1 heart/BP video every 2 days**, both for variety (see the monetization rules) and to test other areas.
+- **Heart and blood-pressure topics: 8 of the last 25 videos** (women's heart, potassium, sleep schedule → heart, B12 → heart, traffic noise → heart, avocado/mango arteries, energy drinks → cardiac arrest, BP night dip). Most came from the same AHA Scientific Sessions press batch. Cap it at **1 heart/BP video every 2 days**, both for variety (see the monetization rules) and to test other areas.
 - **Mouse/lab-only studies** (olive oil in mice, BRP "natural Ozempic", enamel gel, cardiolipin). The honest "only in mice" hedge weakens the payoff. At most 1 every 3 days.
 - **Repeated CTA wording.** "minus the hype" / "without the hype" ended 5 videos. Each CTA must be new, and never reuse a phrase from the last 10 videos.
 - Don't stack two experiments on one video, and don't put time-bound topics in the last slot before an event.
 
 ## Format mix
-Nov 1–9 lengths: 22–26s (9 videos) / 29–33s (10) / 34–37s (6). Beats: 6 (8), 7 (8), 8 (9). That's balanced; keep it that way.
+Nov 1–9 lengths: 22–26s (9 videos) / 28–33s (10) / 34–37s (6). Beats: 6 (9), 7 (7), 8 (9). That's balanced; keep it that way.
 Formats used through Oct 31 (from the last review): myth vs fact (6), quick explainer (6), X vs Y (4), 3 things (4), what happens when (3), explainer + easy wins (2). Since scripts don't record their format, **add a `"format"` field to every new script JSON** (e.g. `"format": "x-vs-y"`) so the next review can measure it.
 Next videos: favor **X vs Y** and **what happens when** (least used). Never the same format twice in a day.
 
@@ -63,4 +63,4 @@ Only run these if posting works again (limit raised, or the owner uploads by han
 2. **"If you ___" hook at 08:00 vs the 12:00 group:** one 30–34s "If you ___" Short at 08:00, everyday-behavior topic, so slot is the only change from Nov 2/3's 12:00 "If you" videos.
 3. **Long-end test:** one 40–45s, 8-beat practical how-to (no new study needed), to fill the untested long end of the length range.
 
-At the next review: if Metricool still shows no per-video views, the owner should **reconnect YouTube in Metricool** (Settings → Connections) or read per-video views from YouTube Studio. Without them, none of these tests can be scored.
+At the next review: if Metricool still shows no per-video views, the owner should **reconnect YouTube in Metricool** or read per-video views from YouTube Studio. Without them, none of these tests can be scored.
