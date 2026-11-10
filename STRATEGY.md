@@ -2,91 +2,65 @@
 
 The performance review task rewrites this file every 3 days from real YouTube numbers in Metricool. The daily autopilot reads it before picking topics.
 
-_Last updated: 2026-11-01. Data: 22 Shorts published (Oct 23–31), 1 failed to post (Oct 31 18:00, "You have reached your Metricool account limit"), 1 pending (today 08:00 ET). Metricool now returns **no per-video rows at all** (9 days in; the 3 rows it used to list are gone too). Channel totals run through Oct 28: **540 views total** (Oct 23: 9, Oct 24: 91, Oct 25: 87, Oct 26: 140, Oct 27: 72, Oct 28: 141), **0 subscribers**, nothing reported for Oct 29–31. No video can be ranked, so nothing below is a proven pattern._
+_Last updated: 2026-11-10. Data: 42 Shorts published Oct 23–Nov 8, plus **6 failed** with "You have reached your Metricool account limit" (Oct 31 18:00, Nov 8 12:00 and 18:00, and all three Nov 9 slots). Nothing is scheduled for Nov 10 or later. Metricool still returns **no per-video views** (3 rows have titles but no numbers). Channel totals through Nov 6: **1,956 views total** (+1,416 since the last review's Oct 28 cutoff), **0 subscribers, 0 gained**. Nov 6 (23 views) is probably partial, and Nov 7–9 aren't reported yet. No video can be ranked yet, so every pattern below is tentative._
 
-## ⚠ Posting is at risk: Metricool account limit
-The Oct 31 18:00 Short ("If you're gaining an hour tonight, read this") **did not publish**. Metricool shows `status: ERROR`, "You have reached your Metricool account limit." Every earlier post published fine. Until the owner fixes this (upgrade the plan or check what limit was hit):
-- After scheduling, the autopilot must check each new post's status with `getScheduledPosts` and report any `ERROR` at the top of its summary.
-- Don't re-post time-bound videos late (the clock-change Short is now out of date and should stay unposted).
-- If the limit turns out to be a monthly post cap, dropping to 2 a day is the fix (see Format mix).
+## ⛔ Posting is blocked: Metricool's monthly limit
+In **both** months, exactly **20 posts** went out through Metricool before the errors began: Oct 24–31 (20 posts, then the Oct 31 18:00 failure) and Nov 1–Nov 8 08:00 (20 posts, then 5 failures in a row). That looks like a cap of **20 posts a month** on the current Metricool plan. This is an inference from the post log, not confirmed with Metricool. At 3 a day, the cap runs out by about day 7 of each month.
+
+Until the owner upgrades the plan, or writes "Metricool limit raised" at the top of this file:
+- **Don't schedule anything else in Metricool in November.** Every post will fail.
+- Make **at most 1 video a day**, the best candidate. Log it in Clip Desk as `status: "editing"` with "Ready to upload by hand. Metricool monthly limit reached" in `notes`, so the owner can upload it in the YouTube app (the Oct 23 Short went out that way).
+- The 5 failed videos are finished and in `videos/`. The evergreen ones (`2026-11-08-lonely-sleep-waves`, `2026-11-09-four-minute-strength`, `2026-11-08-modern-life-gut`) are still worth posting. The AHA-abstract ones (`energy-drink-reports`, `bp-night-dip-wearable`) are going stale.
+- From Dec 1, if there's still no upgrade: schedule **1 a day at 12:00 ET** so the 20 posts last until Dec 20, rather than burning them all in a week.
+- After scheduling, always check each post's status with `getScheduledPosts` and put any `ERROR` at the top of the run summary.
 
 ## What's working
-Still unproven. The only real numbers are channel-level daily views:
+We still can't say which videos work, because there are no per-video numbers. Channel daily views (Metricool, YTEV02):
 
-| Day | Shorts live by end of day | Channel views that day | Views per live Short |
-|---|---|---|---|
-| Oct 23 | 1 | 9 | 9 |
-| Oct 24 | 3 | 91 | 30 |
-| Oct 25 | 5 | 87 | 17 |
-| Oct 26 | 7 | 140 | 20 |
-| Oct 27 | 10 (first 3-a-day day) | 72 | 7 |
-| Oct 28 | 13 | 141 (best day so far, tied) | 11 |
-| Oct 29–31 | 16 → 22 | not reported yet | — |
+| Period | Days | Uploads/day | Channel views | Avg views/day | Views/day per daily upload |
+|---|---|---|---|---|---|
+| Oct 24–26 | 3 | 2 | 318 | 106 | 53 |
+| Oct 27–Nov 5 | 10 | 3 | 1,606 | 161 | 54 |
 
-Daily views have stayed flat at ~70–140 since Oct 24 while the number of live Shorts quadrupled, and no subscriber has been gained. So the back catalogue isn't compounding yet: each new Short adds little. Views per live Short fell from ~20 (2 a day) to ~7–11 (3 a day), but that is expected as the catalogue grows and the 2-a-day vs 3-a-day comparison can't be read without per-video views. **Not a clear enough drop to go back to 2 a day.**
+Daily detail: Oct 27: 72, Oct 28: 141, Oct 29: 138, Oct 30: 118, Oct 31: 69, **Nov 1: 269, Nov 2: 346 (best day)**, Nov 3: 143, Nov 4: 174, Nov 5: 136, Nov 6: 23 (likely partial).
 
-What's been published (all PUBLISHED in Metricool unless noted; views not reported for any):
-
-| Video | Published (ET) | Hook type | Format | Length |
-|---|---|---|---|---|
-| Creatine isn't just for gym bros | Oct 23 (YouTube app) | Statement, "X isn't just for Y" | Quick explainer | 37s, 8 beats |
-| Your leggings might be shedding plastic | Oct 24 12:00 | "Your ___" | Explainer + easy wins | 34s, 7 beats |
-| Does magnesium actually help you sleep? | Oct 24 18:00 | Question | Myth vs fact | 37s, 8 beats |
-| Is lifting once a week enough? | Oct 25 12:00 | Statement | X vs Y | 35s, 7 beats |
-| Your coffee packs 40% more calories | Oct 25 18:00 | "Your ___", number | 3 things | 26s, 6 beats |
-| 2 years of fish oil: what happened to memory? | Oct 26 12:00 | Question, number | What happens when | 41s, 8 beats |
-| Pilates linked to a longer life? The catch | Oct 26 18:00 | Statement | Quick explainer | 28s, 6 beats |
-| Two drinks a day isn't so moderate | Oct 27 08:00 | Statement, myth-bust | X vs Y | 34s, 7 beats |
-| Your CBN sleep gummy has a catch | Oct 27 12:00 | "Your ___" | Myth vs fact | 39s, 8 beats |
-| Which phone user are you? | Oct 27 18:00 | Question / quiz | 3 things | 42s, 8 beats |
-| Cardio may rewire your heart's dimmer switch | Oct 28 08:00 | Statement, body part | What happens when | 25s, 6 beats |
-| 6.5 points lower BP from wall sits | Oct 28 12:00 | Number-led | Quick explainer | 32s, 7 beats |
-| Your gut may hint how fast you age | Oct 28 18:00 | "Your ___", body part | 3 things | 39s, 8 beats |
-| Can brainstacking fix brain rot? | Oct 29 08:00 | Question, trend | Myth vs fact | 28s, 6 beats |
-| How you drink tea may matter for your heart | Oct 29 12:00 | Statement | X vs Y | 32s, 7 beats |
-| 30 sauna minutes: what happens to your blood | Oct 29 18:00 | Number-led | What happens when | 27s, 6 beats |
-| Do you nod off during the day? Read this | Oct 30 08:00 | Question, "you" | 3 things | 45s, 8 beats |
-| 20g of fiber vs knee pain? | Oct 30 12:00 | Number-led, body part | X vs Y | 35s, 7 beats |
-| Your cranberry juice is probably the wrong one | Oct 30 18:00 | "Your ___", myth-bust | Myth vs fact | 27s, 6 beats |
-| Are sugar-free sweets kinder to your brain? | Oct 31 08:00 | Question | Quick explainer | 40s, 8 beats |
-| 8 glasses of water a day was never science | Oct 31 12:00 | Statement, myth-bust, number (evergreen) | Myth vs fact | 35s, 8 beats |
-| If you're gaining an hour tonight, read this | Oct 31 18:00 — **FAILED (account limit)** | "If you ___" | Explainer + easy wins | 22s, 6 beats |
-| You're picturing muscle aging wrong | Nov 1 08:00 (pending) | "You're ___ wrong", body part | Quick explainer | 36s, 8 beats |
-
-Last queue's experiments: (1) evergreen vs news ran (8 glasses of water, Oct 31 12:00); (2) shortest-yet 22s and (3a) "If you" hook at 18:00 were both put on the clock-change Short, which failed to post, so **neither was tested**; (3b) "You're ___ wrong" at 08:00 is going out today.
-
-Test grid so far (live videos): length 22–28s (6) / 32–37s (10) / 39–45s (6); hook question (6) vs statement (16), "Your ___" (5), number-led (6); slot 08:00 (6 incl. today), 12:00 (8), 18:00 (7); 2/day (6 videos) vs 3/day (16).
+- **3 a day didn't lower views per upload:** 54 channel views/day per daily upload, vs 53 at 2 a day. Total views per day rose about 50%. So on performance alone there's no reason to go back to 2 a day. The Metricool cap is what limits posting now.
+- **Nov 1–2 spike (269 and 346, about 2.2x the 3-a-day average).** That was the first stretch of "If you ___" hooks (back pain, "If you only stroll") and the first days of the follow-reason CTA test. Uploads those days: muscle aging (36s), back pain (33s), olive oil before carbs (23s), period → heart risk (37s), brisk vs casual walking (33s), peanuts → brain scans (22s). We can't tell which video drove the spike. One of them probably got picked up, and **it's only a lead, not a pattern.**
+- **The catalogue isn't compounding:** views settled back to about 140/day after the spike while live Shorts grew from 24 to 36.
+- **Subscribers: still 0** after about 1,950 views and 36+ follow-reason CTAs since Nov 1. The CTA test (experiment 3 last time) showed no effect.
 
 ## Do more of
-No proven winners yet, so keep the starting guidance and keep the grid balanced:
-- Topics tied to a fresh study or headline, in broad-appeal areas: supplements people already buy, sleep, everyday food and drink, time-saving fitness, brain/phone habits. Mix in evergreen myth-busts (1 every 2–3 days) so the news-vs-evergreen test has more than one data point.
-- Hooks of 8 words or fewer that challenge a belief, name a number, or name something the viewer owns, eats or does.
-- The "Reality check" beat in every video.
-- Subscriber pull: 540 views and 0 subscribers means nothing is asking strongly enough. Make the last beat a specific reason to follow ("Follow for one myth a day, checked against the studies"), and vary that line every video.
+- **Body-part and personal "If you ___ / your ___" hooks.** They were live on the best days (Nov 1–2). Keep using them about once a day so per-video data can confirm or reject them once it arrives.
+- **Everyday-behavior topics** (walking pace, sleeping in, what you eat or drink, workout habits) over lab or mouse findings. Viewers can act on them, and most Nov 1–2 uploads were like this.
+- **Evergreen myth-busts and practical how-tos** (4-minute workout, lonely sleep waves, water, dairy). They stay relevant if a post is delayed, which matters now that posts are capped.
+- **Women's health / midlife** (period → heart, menopause): broad audience and little competition. Keep about 1 every 2–3 days.
 
 ## Do less of
-- Don't change channel direction on no data. No topic area is "banned" for performance reasons yet.
-- Don't stack two experiments on one video (the 22s + "If you" test was lost in one failed post and couldn't have been separated anyway).
-- Don't schedule time-bound topics (holidays, clock changes) in the last slot before the event; put them in the first slot so a failure can still be noticed and fixed.
-- Keep "Your ___" hooks rare (5 so far); use "Do you…", "If you…", "You're ___" instead.
-- Don't repeat a format within the same day.
+- **Heart and blood-pressure topics: 9 of the last 25 videos** (women's heart, potassium, sleep schedule → heart, B12 → heart, traffic noise → heart, avocado/mango arteries, energy drinks → cardiac arrest, BP night dip, and indirectly BMI). Most came from the same AHA Scientific Sessions press batch. Cap it at **1 heart/BP video every 2 days**, both for variety (see the monetization rules) and to test other areas.
+- **Mouse/lab-only studies** (olive oil in mice, BRP "natural Ozempic", enamel gel, cardiolipin). The honest "only in mice" hedge weakens the payoff. At most 1 every 3 days.
+- **Repeated CTA wording.** "minus the hype" / "without the hype" ended 5 videos. Each CTA must be new, and never reuse a phrase from the last 10 videos.
+- Don't stack two experiments on one video, and don't put time-bound topics in the last slot before an event.
 
 ## Format mix
-Used so far: myth vs fact (6), quick explainer (6 incl. today), X vs Y (4), 3 things (4), what happens when (3), explainer + easy wins (2 incl. the failed one). Next 3 days: favor **what happens when**, **X vs Y** and **3 things**; hold myth vs fact and quick explainer to one each. Never the same format twice in one day.
+Nov 1–9 lengths: 22–26s (9 videos) / 29–33s (10) / 34–37s (6). Beats: 6 (8), 7 (8), 8 (9). That's balanced; keep it that way.
+Formats used through Oct 31 (from the last review): myth vs fact (6), quick explainer (6), X vs Y (4), 3 things (4), what happens when (3), explainer + easy wins (2). Since scripts don't record their format, **add a `"format"` field to every new script JSON** (e.g. `"format": "x-vs-y"`) so the next review can measure it.
+Next videos: favor **X vs Y** and **what happens when** (least used). Never the same format twice in a day.
 
-Posting rate: **stay at 3 a day (08:00, 12:00, 18:00)** for now. Channel views per day didn't drop after the move (72 and 141 vs 87 and 140 the days before), so there's no clear harm. Switch to 2 a day (12:00 and 18:00) if either (a) the Metricool account limit is a post cap the owner won't raise, or (b) once per-video views exist, average views at 48h for Oct 27+ Shorts are clearly lower than for Oct 24–26 Shorts.
+Posting rate: **3 a day remains the target once the Metricool limit is raised** (no measurable drop in views per upload). Until then, follow the limit rules at the top.
 
 ## Keep it monetizable
 Since July 16, 2026, YouTube doesn't monetize repetitive or templated content with little variation between videos ("inauthentic content"). Every video must look and read different from the last one:
-- Change the palette, particle style, tag line, label wording and beat structure each time (beat count has been 6–8; keep using all three).
-- Vary length between about 22 and 45 seconds.
+- Change the palette, particle style, tag line, label wording and beat structure each time (keep using 6, 7 and 8 beats).
+- Vary length between about 22 and 45 seconds (nothing over 37s since Nov 1; try one 40–45s).
 - Make each one teach something specific; never pad with generic lines.
-- Owner voiceover videos (from `voice/`) add a human, non-templated element; use any that are available first. None have been recorded yet, which is the single biggest anti-template safeguard still unused.
-- At 3 a day, the risk of looking mass-produced is higher. Same-day videos must differ in format, hook style, palette and tag line. The "The study" / "Reality check" label pair repeats in most videos; vary the middle labels' wording (keep the Reality check beat itself).
+- Don't let one topic area (currently heart/BP) dominate the feed. A run of near-identical "study says X linked to heart risk" videos is exactly what reviewers flag as low-variation.
+- Owner voiceover videos (from `voice/`) add a human, non-templated element; use any that are available first. **None recorded yet.** This is still the biggest anti-template safeguard left unused, and it matters more now that fewer posts go out.
+- Same-day videos must differ in format, hook style, palette and tag line. Vary the "The study" / middle label wording (keep the Reality check beat itself) and the CTA line.
 
-## Experiments queue (Nov 2–4)
-1. **Shortest yet, re-run:** one ~22s, 6-beat Short in the 18:00 slot with an ordinary statement hook (not "If you"), evergreen or news, to compare against the 25–28s group.
-2. **"If you ___" hook, alone:** one 32–37s Short at 12:00 with an "If you ___" hook, so the hook is the only thing that differs from the mid-length 12:00 group.
-3. **Follow-reason CTA:** on all Shorts Nov 2–4, end with a specific follow reason (varied wording each time) instead of a plain "Follow for more", and compare subscribers gained Nov 2–4 vs 0 so far.
+## Experiments queue (Nov 11–13)
+Only run these if posting works again (limit raised, or the owner uploads by hand). Otherwise carry them over.
+1. **Non-heart week:** no heart/BP topics Nov 11–13. Compare channel views/day against the Nov 3–5 heart-heavy days (143, 174, 136 → avg 151).
+2. **"If you ___" hook at 08:00 vs the 12:00 group:** one 30–34s "If you ___" Short at 08:00, everyday-behavior topic, so slot is the only change from Nov 2/3's 12:00 "If you" videos.
+3. **Long-end test:** one 40–45s, 8-beat practical how-to (no new study needed), to fill the untested long end of the length range.
 
-At the next review, if per-video views are available, compare videos at equal age (views at 48h and views per day since posting) and settle 2 vs 3 a day. If Metricool still lists no per-video rows, ask the owner to check YouTube Studio directly or reconnect YouTube in Metricool.
+At the next review: if Metricool still shows no per-video views, the owner should **reconnect YouTube in Metricool** (Settings → Connections) or read per-video views from YouTube Studio. Without them, none of these tests can be scored.
