@@ -6,6 +6,24 @@ Tips: record in a quiet room with the phone about 6 inches from your mouth. Talk
 
 ---
 
+## night-shift-drive-home
+**Topic:** Light on the commute home after a night shift, from the new AASM shift work disorder guideline · **Length:** about 20 seconds
+
+> Driving home from a night shift into bright morning sun? That light tells your brain it's daytime. New sleep-medicine guidance suggests filtering light on the commute home, plus timed bright light and a steady sleep schedule when you can. The evidence is still limited, so treat it as a starting point. Follow for more.
+
+**Sources:** American Academy of Sleep Medicine, "New guideline provides recommendations on managing shift work disorder" (Oct 26, 2026; guideline in Journal of Clinical Sleep Medicine, Oct 24, 2026, lead author Kenneth P. Wright Jr.); Medical News Today (Nov 9, 2026).
+
+---
+
+## night-shift-naps
+**Topic:** Staying alert on night shifts: what the AASM guideline lists for sleepiness · **Length:** about 20 seconds
+
+> Work nights and fight to stay awake? The American Academy of Sleep Medicine's new guideline lists caffeine, a planned nap, or both as options, and bright light can help too. But the certainty of that evidence is low, and if the sleepiness doesn't let up, a doctor can help. Follow for more.
+
+**Sources:** American Academy of Sleep Medicine guideline news release (Oct 26, 2026; Journal of Clinical Sleep Medicine); Medical News Today (Nov 9, 2026, with comment from Derk Krieger, MD, PhD).
+
+---
+
 ## caffeine-math
 **Topic:** How much caffeine is in an energy drink vs. the daily limit, from the AHA energy-drink abstract coverage · **Length:** about 20 seconds
 

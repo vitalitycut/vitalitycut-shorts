@@ -1,0 +1,13 @@
+{"tag":"WHEN WORK FIGHTS YOUR CLOCK","seed":431,"format":"what-happens-when",
+ "bg_top":"#100C1A","bg_bottom":"#050308","fg":"#F4F0FF","accent":"#B99CFF","muted":"#B3ABC6","chip_fg":"#1E1236",
+ "particles":"orbs","particle":"#B99CFF","chord":[46.25,69.3,87.31,110.0],
+ "beats":[
+  {"label":"","text":"If you work **nights,** read this.","dur":2.6},
+  {"label":"What happens","text":"When work hours clash with your **sleep** time for 3+ months, it can become **shift** **work** **disorder.**","note":"AASM guideline, J Clin Sleep Med, Oct 2026","dur":4.8},
+  {"label":"How common","text":"About **27%** of adult shift workers live with it.","dur":3.4},
+  {"label":"For sleepiness","text":"The new guideline lists **caffeine,** planned **naps** and **bright light** as options.","dur":4.6},
+  {"label":"For your clock","text":"Timed **light,** a **steady** sleep schedule when you can, and **light-filtering** on the drive home.","dur":4.8},
+  {"label":"For poor sleep","text":"**CBT** for **insomnia,** plus **melatonin** to discuss with a doctor.","dur":4.0},
+  {"label":"Reality check","label_bg":"#F2C14E","text":"Evidence for the caffeine, nap and light tips is **low-certainty.** A **sleep doctor** can tailor a plan.","dur":5.0},
+  {"label":"","text":"Follow if your day starts when **everyone else's** ends.","dur":2.9}
+ ]}
