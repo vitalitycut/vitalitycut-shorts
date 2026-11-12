@@ -1,0 +1,13 @@
+{"tag":"WHAT YOUR BONES RESPOND TO","seed":439,"format":"x-vs-y",
+ "bg_top":"#0B1517","bg_bottom":"#040809","fg":"#F7F3EA","accent":"#F5DFB3","muted":"#AFB8B6","chip_fg":"#1F1A10",
+ "particles":"fibers","particle":"#F5DFB3","chord":[43.65,65.41,82.41,98.0],
+ "beats":[
+  {"label":"","text":"If you only **walk** for your **bones**...","dur":2.8},
+  {"label":"The comparison","text":"A review pooled **24** studies of **1,238** healthy adults and tracked **bone-building** blood markers.","note":"Sports Medicine - Open, 2026 (Semmelweis)","dur":5.4},
+  {"label":"Walking & jogging","text":"Low or moderate effort showed **no meaningful** long-term effect on those markers.","dur":4.4},
+  {"label":"Gym weights","text":"Resistance training didn't **significantly** move them **either.**","dur":3.6},
+  {"label":"Football & handball","text":"Fast **sprints, jumps** and **turns** were linked to marker rises of up to **46%.**","dur":4.8},
+  {"label":"Reality check","label_bg":"#F2C14E","text":"These are **blood markers,** not bone **density** or **fractures.** Don't quit walking or lifting.","dur":5.2},
+  {"label":"Before you sprint","text":"Build up **slowly.** With **osteoporosis** or a heart condition, ask your **doctor** first.","dur":4.4},
+  {"label":"","text":"Follow for the **fine print** behind fitness headlines.","dur":2.8}
+ ]}

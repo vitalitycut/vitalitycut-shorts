@@ -6,6 +6,24 @@ Tips: record in a quiet room with the phone about 6 inches from your mouth. Talk
 
 ---
 
+## bones-like-surprises
+**Topic:** Why fast, multi-direction sports beat steady exercise on bone-building blood markers (Semmelweis meta-analysis) · **Length:** about 20 seconds
+
+> Your bones might like surprises. A review of twenty-four studies found that sports full of sprints, jumps and quick turns, like soccer and handball, raised bone-building blood markers by up to forty-six percent. Steady walking and gym weights barely moved them. Those are markers, not bone density, so keep walking. Follow for more.
+
+**Sources:** Barna, Sydó, Ferdinandy et al., "High-Intensity Training Increases Osteocalcin Levels," Sports Medicine – Open 2026 (DOI 10.1186/s40798-026-00986-2), via Semmelweis University news (Aug 3, 2026) and ScienceDaily (Nov 11, 2026).
+
+---
+
+## dont-ditch-the-walk
+**Topic:** What the new bone-markers study does NOT say: walking still counts, and ramp up slowly · **Length:** about 20 seconds
+
+> Saw the headline that walking isn't enough for your bones? Don't ditch the walk. That study measured blood markers, not bone density or fractures, and the researchers say walking still has health benefits. If you want to add jumps or sprints, build up slowly, and if you have osteoporosis or a heart condition, check with your doctor first. Follow for more.
+
+**Sources:** Semmelweis University news release (Aug 3, 2026) on Barna et al., Sports Medicine – Open 2026; ScienceDaily (Nov 11, 2026).
+
+---
+
 ## night-shift-drive-home
 **Topic:** Light on the commute home after a night shift, from the new AASM shift work disorder guideline · **Length:** about 20 seconds
 
