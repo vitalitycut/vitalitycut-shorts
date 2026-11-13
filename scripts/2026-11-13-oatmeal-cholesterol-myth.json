@@ -1,0 +1,13 @@
+{"tag":"MYTH CHECK: OATMEAL","seed":451,"format":"myth-vs-fact",
+ "bg_top":"#17120E","bg_bottom":"#080605","fg":"#F6F1EA","accent":"#9DB4FF","muted":"#B5ADA3","chip_fg":"#10131F",
+ "particles":"fibers","particle":"#9DB4FF","chord":[49.0,73.42,92.5,110.0],
+ "beats":[
+  {"label":"","text":"Eating **oatmeal** for your **cholesterol?**","dur":2.8},
+  {"label":"The myth","text":"One **bowl** a day quietly **fixes** it.","dur":3.2},
+  {"label":"What Bonn tested","text":"Adults with **metabolic syndrome** ate **300 g** of oatmeal a day for **2 days**, on about **half** their usual calories.","note":"Nature Communications, 2026 (Univ. of Bonn)","dur":5.6},
+  {"label":"What changed","text":"Their **LDL** fell about **10%,** more than a calorie-cut group with **no oats,** and it was still **noticeable** 6 weeks on.","dur":5.4},
+  {"label":"The everyday bowl","text":"**80 g** a day for **6 weeks,** no other changes? Only **modest** effects.","dur":4.4},
+  {"label":"Why oats?","text":"Gut **bacteria** turn oats into compounds that **may** help cholesterol. Still an **early** lead.","dur":4.6},
+  {"label":"Reality check","label_bg":"#F2C14E","text":"Tiny trial, **17** per group, partly **industry-funded.** Not a swap for **meds,** and ask a doctor before **crash** diets.","dur":5.6},
+  {"label":"","text":"Follow before you trust the next **breakfast** rule.","dur":2.8}
+ ]}

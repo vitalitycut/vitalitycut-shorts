@@ -6,6 +6,24 @@ Tips: record in a quiet room with the phone about 6 inches from your mouth. Talk
 
 ---
 
+## oatmeal-two-days
+**Topic:** The University of Bonn two-day oatmeal trial and what it really tested · **Length:** about 20 seconds
+
+> Heard that two days of oatmeal can lower your cholesterol? In a German trial, adults with metabolic syndrome ate three hundred grams of oats a day for two days, on about half their usual calories. Their LDL dropped about ten percent. It was a small study, so it's not a replacement for medication, and talk to your doctor before any crash diet. Follow for more.
+
+**Sources:** Klümpen, Simon et al., "Cholesterol-lowering effects of oats induced by microbially produced phenolic metabolites in metabolic syndrome: a randomized controlled trial," Nature Communications 2026 (DOI 10.1038/s41467-026-68303-9), via News-Medical (Jan 23, 2026) and ScienceDaily (Feb 25, 2026).
+
+---
+
+## everyday-oat-bowl
+**Topic:** Why a normal daily bowl of oats did much less than the headline diet · **Length:** about 20 seconds
+
+> Your daily bowl of oats is great, but it's not magic. In the same Bonn study, people who just added eighty grams of oats a day for six weeks saw only modest changes. The big drop came from a short, intense oat diet with fewer calories. Researchers think gut bacteria play a part, but that's still early. Follow for more.
+
+**Sources:** Nature Communications 2026 (University of Bonn, Klümpen et al.), via News-Medical (Jan 23, 2026) and ScienceDaily (Feb 25, 2026).
+
+---
+
 ## bones-like-surprises
 **Topic:** Why fast, multi-direction sports beat steady exercise on bone-building blood markers (Semmelweis meta-analysis) · **Length:** about 20 seconds
 
