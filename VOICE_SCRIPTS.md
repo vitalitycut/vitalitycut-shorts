@@ -6,6 +6,24 @@ Tips: record in a quiet room with the phone about 6 inches from your mouth. Talk
 
 ---
 
+## eggs-five-a-week
+**Topic:** The Loma Linda egg study linking regular eggs to lower Alzheimer's risk · **Length:** about 20 seconds
+
+> Do you skip eggs? A study of about forty thousand adults over sixty-five, followed for around fifteen years, found that people who ate eggs five or more times a week had up to twenty-seven percent lower Alzheimer's risk than people who rarely ate them. It's a link, not proof, and the study was partly funded by the egg industry. Follow for more.
+
+**Sources:** Oh, Oda, Sabaté et al., "Egg Intake and the Incidence of Alzheimer's Disease in the Adventist Health Study-2 Cohort Linked with Medicare Data," The Journal of Nutrition (Apr 2026), via ALZinfo / Fisher Center (May 20, 2026) and The Healthy (May 5, 2026).
+
+---
+
+## eggs-why-the-brain
+**Topic:** Why researchers think eggs might matter for the brain, and why that's still a guess · **Length:** about 20 seconds
+
+> Why would eggs matter for your brain? Researchers behind a big Loma Linda study point to choline, lutein and omega-3s, nutrients linked to brain health. But their study only tracked eating habits, it didn't test the nutrients, and everyone was from one mostly plant-based community. So eggs aren't a miracle food. They can be one part of a balanced plate. Follow for more.
+
+**Sources:** The Journal of Nutrition 2026 (Loma Linda University, Adventist Health Study-2), via ALZinfo / Fisher Center (May 20, 2026) and The Healthy (May 5, 2026).
+
+---
+
 ## oatmeal-two-days
 **Topic:** The University of Bonn two-day oatmeal trial and what it really tested · **Length:** about 20 seconds
 

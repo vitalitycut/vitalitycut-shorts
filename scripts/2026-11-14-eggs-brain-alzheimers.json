@@ -1,0 +1,12 @@
+{"tag":"EGGS & AN AGING BRAIN","seed":467,"format":"quick-explainer",
+ "bg_top":"#0E1420","bg_bottom":"#05070C","fg":"#F4F1EC","accent":"#FF9F7A","muted":"#AEB3BD","chip_fg":"#1E120C",
+ "particles":"orbs","particle":"#FF9F7A","chord":[46.25,69.3,87.31,103.83],
+ "beats":[
+  {"label":"","text":"If you **never** eat **eggs,** read this.","dur":2.8},
+  {"label":"Who was tracked","text":"About **40,000** adults aged **65+** in the Adventist Health Study-2, followed for about **15 years.**","note":"Journal of Nutrition, 2026 (Loma Linda Univ.)","dur":5.4},
+  {"label":"The pattern","text":"Eating eggs **5+ times a week** was linked to up to **27% lower** Alzheimer's risk vs. **rarely or never.**","dur":5.2},
+  {"label":"Even less often","text":"**2–4 times** a week: about **20%** lower. A few times a **month:** about **17%.**","dur":4.6},
+  {"label":"Why eggs?","text":"Researchers point to **choline,** **lutein** and omega-3s, nutrients tied to **brain** health. That part is a **guess,** not tested here.","dur":5.4},
+  {"label":"Reality check","label_bg":"#F2C14E","text":"**Observational,** self-reported diets, one mostly **plant-based** group, and partly funded by the **American Egg Board.** A link, not proof.","dur":6.0},
+  {"label":"","text":"Follow so the next **food headline** comes with context.","dur":2.8}
+ ]}
