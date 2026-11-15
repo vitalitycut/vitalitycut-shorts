@@ -1,0 +1,12 @@
+{"tag":"WHAT COFFEE DOES PAST YOUR STOMACH","seed":479,"format":"what-happens-when",
+ "bg_top":"#1A120D","bg_bottom":"#080504","fg":"#F6EFE6","accent":"#5CE1C6","muted":"#B8ADA2","chip_fg":"#08201B",
+ "particles":"fibers","particle":"#5CE1C6","chord":[43.65,65.41,82.41,98.0],
+ "beats":[
+  {"label":"","text":"Coffee **most days?** Your **gut** may have noticed.","dur":2.9},
+  {"label":"How they checked","text":"**61** healthy Danish adults logged every drink for **8 days.** Most swallowed a **sensor capsule.**","note":"Univ. of Copenhagen, Gut Microbiology, Nov 2026","dur":5.2},
+  {"label":"Small intestine","text":"Frequent coffee drinkers had a more **acidic** small intestine and more **diverse** gut bacteria.","dur":5.0},
+  {"label":"Colon","text":"More caffeine by-products in urine went with more **colon contractions,** the squeezes that move things **along.**","dur":5.4},
+  {"label":"Another clue","text":"A separate study of about **6,800** Japanese adults also tied coffee to gut patterns with **butyrate-making** bacteria.","note":"Nagata et al., Nature Medicine, Nov 2026","dur":5.6},
+  {"label":"Reality check","label_bg":"#F2C14E","text":"Both **observational.** Small group, healthy Danes, and whether more acidity is **good or bad** isn't known yet.","dur":5.8},
+  {"label":"","text":"Follow to see what your **morning cup** does after you **swallow** it.","dur":3.0}
+ ]}

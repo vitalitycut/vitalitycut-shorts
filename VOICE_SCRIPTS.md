@@ -6,6 +6,24 @@ Tips: record in a quiet room with the phone about 6 inches from your mouth. Talk
 
 ---
 
+## coffee-gut-capsule
+**Topic:** The University of Copenhagen capsule study on coffee and the gut · **Length:** about 20 seconds
+
+> Ever wonder what coffee does after your stomach? Danish researchers had sixty-one healthy adults log every drink for eight days, and most swallowed a sensor capsule. Regular coffee drinkers had a more acidic small intestine and more diverse gut bacteria. It's a small observational study, so it can't prove coffee caused it. Follow for more.
+
+**Sources:** Bucci, Roager et al., Gut Microbiology 2026 (University of Copenhagen), via Euronews (Nov 14, 2026) and Medical Daily (Nov 14, 2026).
+
+---
+
+## coffee-colon-squeeze
+**Topic:** Why coffee may get things moving, and what we still don't know · **Length:** about 20 seconds
+
+> Does coffee get things moving for you? In a new Danish study, people with more caffeine by-products in their urine had more colon contractions, the squeezes that move food along. But regular and rare drinkers didn't differ much as groups, and nobody knows yet if the extra gut acidity is good or bad. Follow for more.
+
+**Sources:** Bucci, Roager et al., Gut Microbiology 2026 (University of Copenhagen), via Medical Daily (Nov 14, 2026) and Euronews (Nov 14, 2026).
+
+---
+
 ## eggs-five-a-week
 **Topic:** The Loma Linda egg study linking regular eggs to lower Alzheimer's risk · **Length:** about 20 seconds
 
