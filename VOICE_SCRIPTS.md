@@ -6,6 +6,24 @@ Tips: record in a quiet room with the phone about 6 inches from your mouth. Talk
 
 ---
 
+## supplements-vs-basics
+**Topic:** The Yale review of 51 anti-aging studies: what moved aging markers and what didn't · **Length:** about 20 seconds
+
+> Spending money on anti-aging supplements? Yale researchers pooled fifty-one studies that tracked aging markers in the blood. A healthy diet plus exercise kept nudging those markers younger. The supplements they tested? Not much effect. Big caveat: these are lab markers, not proof anyone actually aged slower. Stick around for the next one.
+
+**Sources:** Sehgal, Higgins-Chen et al., Nature Medicine 2026 (Yale School of Medicine), via Yale News (Aug 21, 2026) and Medical News Today (Sep 5, 2026); resurfaced on ScienceDaily (Nov 13, 2026).
+
+---
+
+## same-time-every-day
+**Topic:** University of Missouri study linking steady daily routines to less pain and depression in older adults · **Length:** about 20 seconds
+
+> Your daily schedule might matter more than you think. University of Missouri researchers surveyed sixty-seven older adults. The ones with steady routines, waking, eating and going to bed around the same times, reported less pain and less depression, even with insomnia. It's a small survey, so it shows a link, not cause. Save this for tomorrow morning.
+
+**Sources:** Tracy et al., Journal of Behavioral Medicine 2026 (DOI 10.1007/s10865-026-00646-6), via News-Medical / University of Missouri (Jul 28, 2026) and ScienceDaily (Nov 14, 2026).
+
+---
+
 ## coffee-gut-capsule
 **Topic:** The University of Copenhagen capsule study on coffee and the gut · **Length:** about 20 seconds
 
