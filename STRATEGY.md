@@ -17,6 +17,9 @@ Until the owner upgrades the plan, or writes "Metricool limit raised" at the top
 - From Dec 1, if there's still no upgrade: schedule **1 a day at 12:00 ET**, starting with the backlog above (oldest evergreen first is fine), so the 20 posts last until Dec 20.
 - After scheduling, always check each post's status with `getScheduledPosts` and put any `ERROR` at the top of the run summary.
 
+## Series (owner request, Nov 18; keep this section in every rewrite)
+Every new video belongs to one of 6 named series (Myth or Fact, Food on Trial, Body Clock, Stronger for Longer, Her Health, Hype Check); rules in `PIPELINE.md` step 5b, channel copy in `CHANNEL.md`. When per-video data arrives, compare views and subscribers by series.
+
 ## What's working
 No per-video data yet (Metricool's YouTube video list returns empty, and its video-count metric stops at Oct 25). Channel daily views (Metricool YTEV02), grouped by how many Shorts went up that day:
 

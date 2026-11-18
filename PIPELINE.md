@@ -27,6 +27,25 @@ This is the runbook for the VitalityCut daily Shorts autopilot. Each run makes *
    - Mark 1–3 accent words per beat with `**word**`.
    - Use a new palette for each video (dark background, one bright accent that passes contrast against it), `particles` either `orbs` or `fibers`, a different `seed`, and a calm 4-note `chord`.
    - Vary the format: myth vs. fact, "3 things", "X vs Y", "what happens when", a quick explainer. The day's 3 videos must use 3 different formats, hook styles and palettes, so the channel never looks mass-produced or templated.
+5b. **Every video belongs to a named series** (added Nov 18 at the owner's request, so viewers have a reason to subscribe). Pick the series that fits the topic, add `"series": "<name>"` to the script JSON, and start the `tag` line with the series name and a middle dot, e.g. `"tag":"FOOD ON TRIAL · OATMEAL VS CHOLESTEROL"`. Keep the rest of the tag line specific to the video.
+
+   | Series | Covers | End-card CTA idea (reword every time, never copy a recent one) |
+   |---|---|---|
+   | **Myth or Fact** | Busting a popular health or fitness rule | "Follow for the next myth on trial" |
+   | **Food on Trial** | Everyday food and drink staples (coffee, eggs, oats, dairy, wine, nuts) | "Follow and pick the next food on trial in the comments" |
+   | **Body Clock** | Sleep, meal timing, routines, light, naps | "Follow for more on your body clock" |
+   | **Stronger for Longer** | Strength, walking, VO2 max, longevity habits | "Follow for one longevity habit at a time" |
+   | **Her Health** | Cycle, perimenopause, menopause, women's research | "Follow for women's health without the hype" |
+   | **Hype Check** | Viral wellness trends, supplements, wellness tech | "Follow before you buy the next trend" |
+
+   - The day's 3 videos use **3 different series**. No series more than 2 days in a row.
+   - Series is a label, not a template: format, palette, hook and length still change every video (see `STRATEGY.md`).
+   - Put the series name in the Metricool title only when it fits in 60 characters, e.g. `Food on Trial: oatmeal vs cholesterol #shorts`. Always put it as the first line of the description: `Series: Food on Trial`.
+   - Add `#<SeriesNameNoSpaces>` (e.g. `#FoodOnTrial`) as one of the 5 hashtags.
+   - In Clip Desk, put the series in `topic` as `<Series> · <topic>`.
+   - **Pinned comment:** Metricool can't pin comments, so put a ready-to-pin question in the Clip Desk `notes` (e.g. "Pin: Do you drink coffee before or after breakfast?"). The owner pins it in YouTube Studio when convenient.
+   - Playlists matching each series are set up by the owner (see `CHANNEL.md`). The autopilot can't add videos to playlists, so list the series in the run summary.
+
 6. **Accuracy rules (non-negotiable).** Every claim must come from your sources that day. Hedge preliminary findings ("early studies", "may"). Never claim something cures or treats a disease. Supplement doses are allowed only as "most studied" amounts, with a note to ask a doctor. Nothing aimed at kids.
 7. **Render:** `python3 tools/render.py scripts/<file>.json videos/<same-name>.mp4`, about 2–3 minutes each. Then check one frame from each video (extract with ffmpeg and look at it) for clipped or overlapping text. Delete the leftover `.wav` files.
 8. **Commit and push** all scripts and videos to `main`. The video URL is `https://raw.githubusercontent.com/vitalitycut/vitalitycut-shorts/main/videos/<file>.mp4`.

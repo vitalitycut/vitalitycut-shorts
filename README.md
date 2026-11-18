@@ -6,3 +6,4 @@ Finished Shorts for the VitalityCut YouTube channel, hosted here so Metricool ca
 - `scripts/` the script and design for each video
 - `tools/render.py` turns a script into a video
 - `PIPELINE.md` the daily autopilot runbook
+- `CHANNEL.md` channel page copy, series and playlists
