@@ -6,6 +6,24 @@ Tips: record in a quiet room with the phone about 6 inches from your mouth. Talk
 
 ---
 
+## wine-beer-spirits
+**Topic:** The UK Biobank study comparing wine, beer and spirits with death risk · **Length:** about 20 seconds
+
+> Is wine healthier than beer? A UK study followed about three hundred forty thousand adults for over thirteen years. Moderate wine drinkers had a lower risk of dying from heart disease, while light beer or spirits drinkers had slightly higher risk. Heavy drinking of anything raised death risk. Wine drinkers may just eat and live healthier, so don't start drinking for this. Hit follow if you want the next one.
+
+**Sources:** Li, Chen et al., "Alcohol Use at Mid-Life and All-Cause and Cause-Specific Mortality," ACC.26 poster (UK Biobank, 340,924 adults), via the American College of Cardiology press release (Mar 19, 2026) and PhillyVoice (Aug 10, 2026); resurfaced on ScienceDaily (Nov 16, 2026).
+
+---
+
+## night-owl-gut
+**Topic:** The iScience study linking a late body clock to metabolic warning signs and gut leakiness · **Length:** about 20 seconds
+
+> Night owl who eats late? In a small study of eighty-seven adults with obesity, people with late body clocks were more likely to have several metabolic warning signs, and a leakier gut seemed to play a part. Eating late on its own wasn't clearly linked. It's a small snapshot, so it can't prove cause. Tell me in the comments what time you eat dinner.
+
+**Sources:** Khoshaba et al., "Circadian misalignment associates with inflammation, gut barrier, and microbiome composition in humans with obesity," iScience 2026 (DOI 10.1016/j.isci.2026.117892), via News-Medical (Nov 16, 2026); also covered by Medical News Today (Nov 17, 2026). Only one write-up was read in full on Nov 18, so check the paper before recording if you want a second source.
+
+---
+
 ## supplements-vs-basics
 **Topic:** The Yale review of 51 anti-aging studies: what moved aging markers and what didn't · **Length:** about 20 seconds
 
