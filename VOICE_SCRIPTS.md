@@ -6,6 +6,24 @@ Tips: record in a quiet room with the phone about 6 inches from your mouth. Talk
 
 ---
 
+## naps-older-adults
+**Topic:** The 19-year wrist-monitor study linking long, frequent and morning naps in older adults to higher death risk (Body Clock) · **Length:** about 20 seconds
+
+> Love a long daily nap? Researchers tracked about thirteen hundred older adults with wrist monitors for up to nineteen years. Each extra hour of napping a day was linked to roughly thirteen percent higher death risk, and morning naps looked worse. The naps may just signal hidden health problems, not cause them. Follow for more on your body clock.
+
+**Sources:** Gao et al., JAMA Network Open 2026 (DOI 10.1001/jamanetworkopen.2026.7938; Mass General Brigham / Rush Memory and Aging Project, 1,338 adults), via ScienceAlert (Apr 27, 2026) and Medical News Today (Apr 23, 2026); resurfaced on ScienceDaily (Nov 16, 2026). Both write-ups quote the lead author: "correlation, not causation."
+
+---
+
+## boiled-apple-water
+**Topic:** The viral "boiled apple tea" / "Chinese baddie tea" gut trend: what's real and what's hype (Hype Check) · **Length:** about 20 seconds
+
+> Drinking boiled apple water for your gut? Here's the catch. It hasn't been tested in clinical trials. Apples do have pectin, a fiber that may feed gut bacteria, and some ends up in the water, but likely less than in the apple itself. Enjoy the warm drink, but don't toss the apple. Follow before you buy into the next trend.
+
+**Sources:** Fox News Digital, "Viral boiled apple tea craze promises better digestion, glowing skin; experts urge caution" (Feb 18, 2026; registered dietitian Heather Finley: "not a magic solution"); Healthylife, "Boiled apple water trend" (Apr 9, 2026: "hasn't been directly studied in clinical trials," pectin "likely in smaller amounts compared to whole apples").
+
+---
+
 ## wine-beer-spirits
 **Topic:** The UK Biobank study comparing wine, beer and spirits with death risk · **Length:** about 20 seconds
 
