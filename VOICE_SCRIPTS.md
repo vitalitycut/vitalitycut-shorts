@@ -6,6 +6,24 @@ Tips: record in a quiet room with the phone about 6 inches from your mouth. Talk
 
 ---
 
+## rem-sleep-patch
+**Topic:** The NEUSLeeP wearable ultrasound patch that boosted REM sleep in a small UT Austin study (Hype Check) · **Length:** about 20 seconds
+
+> A sticker that gives you more REM sleep? In a twenty-eight person study, a soft ultrasound patch helped people reach REM sleep about forty-three minutes sooner and stay in it around sixteen minutes longer. It's early: one small study, bigger trials still to come, and you can't buy it yet. So skip the knockoffs for now. Follow before you buy the next sleep gadget.
+
+**Sources:** UT Austin News, "Get Better Sleep With Ultrasound Patch That Boosts REM Rest" (Jul 7, 2026; Nature Communications, 28 participants, 43 min faster to REM, ~16 min longer in REM, larger trials planned, not on sale); TechSpot, "Wearable patch could get you REM sleep 43 minutes earlier" (same study, "few side effects", patent filed); resurfaced on ScienceDaily (Nov 16, 2026).
+
+---
+
+## plant-milk-mold-toxins
+**Topic:** The UK survey that found mycotoxins in all 212 plant-based milks and meat alternatives tested (Food on Trial) · **Length:** about 20 seconds
+
+> Every plant-based milk and meat swap they tested had mold toxins. A UK survey checked two hundred twelve products from supermarket shelves, and all of them had at least one mycotoxin. Before you panic: levels were below EU guideline amounts, and an occasional serving is unlikely to cause problems. The researchers' advice is variety, not fear. Comment the next food you want on trial.
+
+**Sources:** Torrijos, Patriarca, Medina, Dall'Asta et al., "Mycotoxin contamination in plant-based beverages and meat alternatives: A survey of the UK market," Food Control 2026; 183: 111910 (DOI 10.1016/j.foodcont.2025.111910), via the Cranfield University press release (May 5, 2026: levels "lower than the recommended EU guideline levels"; Patriarca: "we should not be frightened or deterred from enjoying a variety of products") and ScienceDaily (Nov 19, 2026: "Eating one of these products occasionally is unlikely to cause problems"). Food Safety News (Jan 28, 2026) also reported the 212-product result.
+
+---
+
 ## naps-older-adults
 **Topic:** The 19-year wrist-monitor study linking long, frequent and morning naps in older adults to higher death risk (Body Clock) · **Length:** about 20 seconds
 
