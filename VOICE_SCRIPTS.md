@@ -6,6 +6,24 @@ Tips: record in a quiet room with the phone about 6 inches from your mouth. Talk
 
 ---
 
+## lonely-not-alone
+**Topic:** The French PAQUID study linking chronic loneliness after 65 to higher dementia risk, even among people who lived with someone (Myth or Fact) · **Length:** about 20 seconds
+
+> Living with someone doesn't mean you're not lonely. A French study followed older adults for about twenty years. People who said they felt lonely at most check-ins had about a thirty-eight percent higher dementia risk, and nearly a third of them lived with someone. Occasional loneliness wasn't linked. It's an association, not proof. Call someone today, then follow for more.
+
+**Sources:** Simon Y et al., "Loneliness exposure groups and 20-year dementia risk: a longitudinal population-based study," Aging & Mental Health 2026 (DOI 10.1080/13607863.2026.2733938; PAQUID cohort, adults 65+; chronic = lonely at 3–4 of 4 visits; 29.6% of the chronically lonely didn't live alone; occasional loneliness "showed no significant association"), via EurekAlert/Taylor & Francis release and News-Medical (both Nov 17, 2026). Independent commentary from Science Media Centre Spain (Nov 18, 2026): observational, "association, not causation," wide confidence interval (1.03–1.86), single-question measure.
+
+---
+
+## exercise-how-often
+**Topic:** The Norwegian SHoT study (PLOS One) finding exercise frequency was the most consistent link to lower anxiety and depression risk in students (Stronger for Longer) · **Length:** about 20 seconds
+
+> Think a workout only counts if it's brutal? In a Norwegian study of over ten thousand students followed for a year, how often they exercised was more consistently linked to lower odds of anxiety or depression than how hard they went. It's observational, so it can't prove exercise caused it. Still, showing up often counts. Follow for one habit at a time.
+
+**Sources:** Grasdalsmoen M, Johannsson E, Hysing M, Sivertsen B, "Physical exercise and risk of common mental disorders among higher education students: A national prospective study," PLOS ONE 2026; 21(8): e0353787 (DOI 10.1371/journal.pone.0353787; 10,460 students aged 18–35, one-year follow-up), via ScienceDaily/PLOS (Nov 20, 2026: observational, "cannot establish a direct cause-and-effect relationship") and SciTechDaily (early symptoms can make exercise harder, so the link may run both ways).
+
+---
+
 ## rem-sleep-patch
 **Topic:** The NEUSLeeP wearable ultrasound patch that boosted REM sleep in a small UT Austin study (Hype Check) · **Length:** about 20 seconds
 
