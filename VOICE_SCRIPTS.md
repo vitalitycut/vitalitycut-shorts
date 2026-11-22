@@ -6,6 +6,24 @@ Tips: record in a quiet room with the phone about 6 inches from your mouth. Talk
 
 ---
 
+## reading-brain
+**Topic:** The Cambridge review on reading for pleasure, and the cohort finding behind its "33% lower Alzheimer's risk" headline (Myth or Fact) · **Length:** about 20 seconds
+
+> Is reading just a hobby, or brain training? A new Cambridge review pulled together the research on reading for pleasure. In one study of about eight hundred older adults, people who did more mentally stimulating things, like reading, had a lower Alzheimer's risk. It's a link, not proof that books prevent dementia. Still, a few pages tonight can't hurt. Follow for the next myth.
+
+**Sources:** Sahakian, Perrin, Langley, review in Psychological Medicine 2026 (DOI 10.1017/S0033291726105625), via the University of Cambridge release on ScienceDaily (Nov 20, 2026: most studies "identify associations rather than proving" reading prevents dementia) and PsyPost (Nov 1, 2026: an "editorial synthesis"; the 33% figure comes from a cohort of 801 adults 65+ followed ~4.5 years, per one-point increase on a composite score of cognitively stimulating activities, not reading alone; observational). SciTechDaily also notes the findings "do not establish that reading prevents dementia." Note: co-author Vicki Perrin is CEO of The Queen's Reading Room.
+
+---
+
+## hot-water-trend
+**Topic:** The viral "Chinese baddie" hot-water habit: what it does and doesn't do (Hype Check) · **Length:** about 20 seconds
+
+> Everyone on TikTok is sipping hot water. Does it actually do anything? The big claims, detox, circulation, immunity, don't have strong evidence behind them. What it can do: keep you hydrated, soothe your throat, and for some people, gently get things moving in the morning. So it's a nice habit, not a miracle. Follow before you buy into the next trend.
+
+**Sources:** Marie Claire UK, "I Tried the 'Chinese Baddie' Morning Hack" (Mar 5, 2026; pharmacist Palvinder Deol: reliable benefits are hydration, throat comfort and "for some, a gentle nudge to bowel motility"; evidence "isn't as robust" as for sleep, movement or nutrition); The Takeout, "Why Everyone Is Drinking Hot Water Right Now" (Feb 7, 2026; lists the trend's claims such as detox and circulation, citing no studies). Trend still circulating in AOL's syndicated Takeout piece found Nov 22, 2026.
+
+---
+
 ## lonely-not-alone
 **Topic:** The French PAQUID study linking chronic loneliness after 65 to higher dementia risk, even among people who lived with someone (Myth or Fact) · **Length:** about 20 seconds
 
