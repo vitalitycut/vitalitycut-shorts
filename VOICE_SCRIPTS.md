@@ -6,6 +6,24 @@ Tips: record in a quiet room with the phone about 6 inches from your mouth. Talk
 
 ---
 
+## turkey-coma
+**Topic:** The Thanksgiving "turkey makes you sleepy" myth: tryptophan vs. the size of the meal (Food on Trial) · **Length:** about 20 seconds
+
+> Blaming the turkey for your Thanksgiving nap? Turkey's tryptophan is about the same as chicken or beef, and some cheeses and pumpkin seeds have more. Experts say the slump more likely comes from a huge meal and maybe an extra glass of wine. It's not one food knocking you out. Try a smaller plate and a walk after. Follow and pick the next food on trial.
+
+**Sources:** Harvard Health Publishing, Robert H. Shmerling MD, "The turkey coma — fact or fiction?" (updated Apr 24, 2026: ~250 mg tryptophan per 3 oz turkey, "similar to the amount in chicken or beef"; "more likely just from digesting a big meal"; alcohol also named; advice: smaller portions, less alcohol, a walk after dinner). CBS News (Nov 28, 2024; dietitian Melanie Betz: sleepiness "much more likely related to eating a large, delicious meal" and "perhaps an extra glass of wine"; cites Center for Food as Medicine: pumpkin seeds, cheddar, Swiss and others have more tryptophan per 100 g than turkey). Fox News (Nov 27, 2025; USDA FoodData Central: turkey breast tryptophan "nearly identical to roasted chicken"). Record by Wed Nov 25 to catch Thanksgiving.
+
+---
+
+## walk-after-dinner
+**Topic:** A short, slow walk after a big meal and the blood-sugar rise (Stronger for Longer) · **Length:** about 20 seconds
+
+> The best thing to do after a big dinner might be a two-minute walk. A review of seven studies found that even light, slow walking after eating was linked to a gentler rise and fall in blood sugar than sitting, or even standing. It's a small effect from small studies, and not a diabetes fix. But a lap around the block counts. Follow for one habit at a time.
+
+**Sources:** Buffey AJ et al., University of Limerick meta-analysis of 7 studies, Sports Medicine 2022 (Springer, s40279-022-01649-4), via Healthline (Aug 10, 2022: light walking after eating gave "a more gradual rise and fall in blood sugar levels than sitting or even standing"; blood sugar typically peaks "within 60 to 90 minutes after eating"; no noteworthy effect on insulin or blood pressure; most participants did not have diabetes) and Cleveland Clinic (Nov 17, 2023; diabetes educator Shannon Knapp: two to five minutes "can bump your blood sugar down a bit," "this isn't a magical solution for diabetes"; people on glucose-lowering medication should watch for lows). Thanksgiving-week tie-in.
+
+---
+
 ## reading-brain
 **Topic:** The Cambridge review on reading for pleasure, and the cohort finding behind its "33% lower Alzheimer's risk" headline (Myth or Fact) · **Length:** about 20 seconds
 
