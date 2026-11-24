@@ -6,6 +6,24 @@ Tips: record in a quiet room with the phone about 6 inches from your mouth. Talk
 
 ---
 
+## soda-logo
+**Topic:** Monell's 3-week trial: a daily sugary drink made people react faster to its logo, without liking it more (Food on Trial) · **Length:** about 20 seconds
+
+> Ever grab a soda the second you see the logo? In a small trial, young adults drank a sugary drink every day for three weeks. Afterward, they reacted faster to its logo, but they didn't say they liked the drink any more. It's one short lab study, not proof of addiction. Follow and tell me which drink goes on trial next.
+
+**Sources:** Burger KS et al., "Repeated sugar exposure reshapes cue-potentiated motivation without a detectable change in explicit valuation," Cell Metabolism, online Nov 18, 2026 (DOI 10.1016/j.cmet.2026.10.018; randomized trial, 160 young adults, a 10-oz drink with 27 g sugar daily for 3 weeks vs an unsweetened matched-flavor control, each paired with a symbol; sugar group ~35 ms faster to its symbol; liking, wanting and sweetness ratings didn't differ), via the Monell Chemical Senses Center release (Nov 18–19, 2026: "they did not report liking the sugary drink more"; next question is whether this changes real-world drinking) and StudyFinds (Nov 23, 2026: enrollment cut short by COVID-19, underpowered brain analysis, sweetness and calories not separated).
+
+---
+
+## bones-and-brain
+**Topic:** Johns Hopkins MESA analysis in Radiology linking lower spine bone density to faster cognitive decline (Stronger for Longer) · **Length:** about 20 seconds
+
+> Your bones may be saying something about your brain. In a Johns Hopkins study of about seven hundred adults, lower spine bone density was linked to faster cognitive decline over about five years. It's a link, not cause and effect; shared risks may drive both. Strength training is good for bones anyway. Follow to stay strong for the long run.
+
+**Sources:** Momtazmanesh S, Demehri S et al., "Deep Learning-derived Bone Mineral Density and Longitudinal White Matter Microstructure and Cognitive Decline: Multi-Ethnic Study of Atherosclerosis," Radiology 2026; 320(3) (DOI 10.1148/radiol.260656; 715 participants with CT-derived spine bone density, brain MRI and cognitive tests, ~5 years follow-up), via the RSNA press release (Sept 22, 2026: findings "do not suggest that osteoporosis causes dementia"; Demehri: "This study is not about cause and effect"; shared drivers such as insulin resistance, dyslipidemia, menopausal change) and ScienceDaily (Nov 22, 2026 repost). Exercise line from MindBodyGreen (Sept 24, 2026: strength training and weight-bearing activity for bones; chest CT is not a recommended screening tool).
+
+---
+
 ## turkey-coma
 **Topic:** The Thanksgiving "turkey makes you sleepy" myth: tryptophan vs. the size of the meal (Food on Trial) · **Length:** about 20 seconds
 
