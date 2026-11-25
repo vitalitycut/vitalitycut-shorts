@@ -6,6 +6,24 @@ Tips: record in a quiet room with the phone about 6 inches from your mouth. Talk
 
 ---
 
+## perimenopause-move
+**Topic:** Exercise frequency and perimenopause symptom scores in a large app-user survey (Her Health) · **Length:** about 20 seconds
+
+> Moving more days a week might take the edge off perimenopause. In a survey of about eighteen hundred women in perimenopause, those who exercised five or more days a week reported lower symptom scores than inactive women, especially mood symptoms. It's a snapshot, not proof that exercise caused it. Still, regular movement is worth a try. Follow for women's health without the hype.
+
+**Sources:** Cunningham A, et al., presented at The Menopause Society 2026 Annual Meeting (Oct 20–24, San Diego), via Healio (Oct 21, 2026; Emma Bascom): cross-sectional online survey of 1,808 Flo app users aged 35+ from 87 countries self-reporting perimenopause; total Menopause Rating Scale fell from 17.46 (not active) to 13.77 (5+ days/week), with lower somatic, psychological and urogenital scores; discussant Michelle Tollefson MD called it "preliminary" and said the link was strongest for low mood, anxiety and irritability; lead researcher Liudmila Zhaunova PhD is Flo Health's director of science. Context: The Menopause Society release (July 15, 2026, journal Menopause): 34% of 7,600+ US women 35+ unsure whether they're in perimenopause. Don't say exercise treats perimenopause.
+
+---
+
+## keto-liver-fat
+**Topic:** WashU randomized trial: keto vs Mediterranean vs low-fat at the same weight loss, and liver fat (Myth or Fact) · **Length:** about 20 seconds
+
+> Same weight loss. Different liver? In a small, tightly controlled trial, adults with prediabetes and fatty liver lost about ten percent of their weight on keto, Mediterranean, or low-fat. All three helped. Keto cut liver fat the most: sixty-seven percent versus forty-five. But it lasted five months, with every meal provided. It's not proof keto suits everyone. Follow for the next myth.
+
+**Sources:** Petersen MC, Klein S, et al., "Effect of diet macronutrient content on the cardiometabolic response to weight loss: A randomized clinical trial," Cell Metabolism 2026; 38(10):2006 (DOI 10.1016/j.cmet.2026.07.020), via WashU Medicine's release (Aug 27, 2026: ~5 months, all food provided, weekly dietitian visits; ~10% weight loss in every arm; liver fat −67% keto vs −45% others; prediabetes no longer met in 50% keto vs 29% Mediterranean vs 7% low-fat; Klein: all three diets "successfully improved metabolic health through weight loss alone"; benefit framed for people with obesity, prediabetes and fatty liver; Klein reports industry advisory fees) and the Cell Press release on ScienceDaily (Nov 20, 2026: "relatively small," lasted "only four to five months," longer, larger studies needed; prediabetes result "does not necessarily mean" permanent reversal). Note: ScienceDaily says 42 adults, WashU says 55 enrolled, so say "small trial," not a number.
+
+---
+
 ## soda-logo
 **Topic:** Monell's 3-week trial: a daily sugary drink made people react faster to its logo, without liking it more (Food on Trial) · **Length:** about 20 seconds
 
