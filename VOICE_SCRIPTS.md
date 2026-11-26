@@ -6,6 +6,24 @@ Tips: record in a quiet room with the phone about 6 inches from your mouth. Talk
 
 ---
 
+## sleep-regularity-ring
+**Topic:** UCSF/UC San Diego smart-ring study: irregular bed and wake times linked to more depression, anxiety and loneliness symptoms (Body Clock) · **Length:** about 20 seconds
+
+> Your bedtime might matter as much as your sleep hours. Researchers looked at smart-ring data from about twenty-three thousand adults. People whose bed and wake times swung around the most reported more depression, anxiety and loneliness. It's a link, and it may run both ways. Still, a steadier bedtime is an easy experiment. Follow for more on your body clock.
+
+**Sources:** Soltani S, Hartogensis W, Dilchert S, Hecht FM, Smarr BL, Mason AE, "Associations between sleep regularity indexed from wearable device data and mental health symptoms in the TemPredict longitudinal cohort study," Scientific Reports 16, 36770 (Nov 13, 2026; DOI 10.1038/s41598-026-77545-y; N = 22,894 Oura ring users, mean age 46, ~154 nights each, monthly symptom surveys; mean Sleep Regularity Index 74.93 with severe depression vs 83.74 normal; 78.94 severe anxiety vs 83.67; 81.79 elevated loneliness vs 83.75), via UCSF release on Neuroscience News (Nov 13, 2026: relationship "is likely bidirectional"; funded in part by Oura Health) and Newsweek (Nov 17, 2026; Harvard's Eric Zhou, not involved: "we can't be sure which came first"; participants mostly white, middle-aged ring owners tracked in 2020 during COVID-19; association, not proof). Different from `same-time-every-day` (Missouri routines survey): this one is about sleep timing measured by a wearable.
+
+---
+
+## centenarian-gut
+**Topic:** UC San Diego's Cell Metabolism study on gut-microbe bile acid activity in centenarians and an engineered bacterium in old mice (Hype Check) · **Length:** about 20 seconds
+
+> People who live past a hundred may have busier gut bugs. A UC San Diego team found centenarians had more of a microbe activity that changes bile acids than younger adults. Giving old mice a bacterium that does this improved their insulin sensitivity. But the human part is just a link, and nobody's longevity probiotic is proven. Follow before you buy the next trend.
+
+**Sources:** Zarrinpar A et al., "Microbial bile acid deconjugation counters metabolic decline in aging," Cell Metabolism (Nov 16, 2026; cell.com/cell-metabolism/fulltext/S1550-4131(26)00453-5), via UC San Diego release on EurekAlert (Nov 16, 2026: reanalyzed public data on 48 young adults, 107 older adults, 125 centenarians; centenarians had higher ratios of modified bile acids and more of a BSH-associated gene than older adults; single dose of engineered BSH-producing bacterium in 82-week-old mice "significantly improved insulin sensitivity and modestly improved glucose tolerance" ~20 weeks later; "The results do not show that the microbial changes caused exceptional longevity in humans or that the engineered bacteria can extend lifespan"; Zarrinpar co-founded Endure Biotherapeutics) and Newsweek (Nov 18, 2026; Zarrinpar: "Our human analysis is associative"; gastroenterologist Vikram Tarugu, not involved: "there is no demonstration of extended life span in mice or in humans," wants human safety studies before any probiotic). Mouse-heavy: counts toward the 1-in-3-days lab-study limit.
+
+---
+
 ## perimenopause-move
 **Topic:** Exercise frequency and perimenopause symptom scores in a large app-user survey (Her Health) · **Length:** about 20 seconds
 
