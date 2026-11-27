@@ -6,6 +6,24 @@ Tips: record in a quiet room with the phone about 6 inches from your mouth. Talk
 
 ---
 
+## lift-on-glp1
+**Topic:** UWA's T-REx trial in Nature Medicine: supervised resistance training alongside tirzepatide (Stronger for Longer) · **Length:** about 20 seconds
+
+> On a weight-loss shot? Don't skip the weights. In an Australian trial of a hundred and twenty adults over fifty on tirzepatide, those who lifted three times a week lost about a quarter less lean tissue and got about ten percent stronger. The others got weaker. It was coached gym training, so real life may differ. Follow for more strength habits that hold up.
+
+**Sources:** Green DJ, Haynes A, Underwood DR, et al., "Resistance exercise to attenuate lean mass loss during tirzepatide therapy for obesity: a randomized controlled trial," Nature Medicine (online Nov 9–10, 2026; DOI 10.1038/s41591-026-04752-5; 120 sedentary adults aged 50–70, equal men and postmenopausal women, 40 weeks, three supervised 1-hour sessions a week, 91% attendance), via the University of Western Australia release (Nov 10, 2026: ~22 kg weight loss in both groups; trained group "lost 25 per cent less lean tissue"; strength up ~10% with training, down ~10% without; Lilly provided free medication but wasn't involved in design or analysis), News-Medical (Nov 12, 2026: lean tissue −3.6 kg vs −4.7 kg; DXA measures lean soft tissue, not muscle directly; may not apply to younger, active people or people with diabetes; several authors disclosed pharma ties) and Epocrates (Nov 15, 2026: untrained lost ~6–9% strength, trained gained ~11–18%; no data on falls or fractures; dedicated gym with exercise physiologists). Adults only; don't frame as weight-loss advice or a drug recommendation.
+
+---
+
+## peppermint-pressure
+**Topic:** University of Lancashire placebo-controlled trial: food-grade peppermint oil and blood pressure over 20 days (Hype Check) · **Length:** about 20 seconds
+
+> Peppermint oil for blood pressure? Here's what one study found. Forty adults with mildly high blood pressure took a tiny daily dose of food-grade peppermint oil in water, or a placebo, for twenty days. The top number dropped about eight points with peppermint. But it's one small, short trial. Don't swallow essential oils or swap your meds. Follow so the next trend gets checked first.
+
+**Sources:** Sinclair J, Sant B, Du XY, Shadwell G, Dillon S, Butters B, Bottoms L, "Effects of Peppermint (Mentha x piperita L.) oil on cardiometabolic outcomes in patients with pre- and stage 1 hypertension: a placebo randomized controlled trial," PLoS ONE 21(4): e0344538 (Apr 23, 2026; DOI 10.1371/journal.pone.0344538; NCT05561543; 40 adults aged 18–65; 100 µL/day food-grade oil in two doses diluted in water vs peppermint-flavoured placebo; adjusted systolic difference −8.48 mmHg, 130.05→121.97 vs 130.93→131.05), via the University of Lancashire release on ScienceDaily (Nov 25, 2026: "relatively small number of participants and lasted less than three weeks"; "should not be interpreted as a reason to replace prescribed blood pressure medications or ingest essential oils that are not formulated for oral use") and Medical News Today (May 26, 2026; cardiologist Craig Basman, not involved: "encouraging, they are not definitive"; lifestyle measures remain the cornerstone). Heart/BP topic: counts toward the 1-every-2-days limit. Never give a dose on screen.
+
+---
+
 ## sleep-regularity-ring
 **Topic:** UCSF/UC San Diego smart-ring study: irregular bed and wake times linked to more depression, anxiety and loneliness symptoms (Body Clock) · **Length:** about 20 seconds
 
