@@ -2,14 +2,14 @@
 
 The performance review task rewrites this file every 3 days from real YouTube numbers in Metricool. The daily autopilot reads it before picking topics.
 
-_Last updated: 2026-11-25. Data: 42 Shorts published Oct 23–Nov 8 08:00; **nothing published since** (17 days; Metricool limit; the 10-video backlog in `videos/` is still unposted and nothing is scheduled in Metricool for Nov 25–Dec 10). Channel totals through Nov 21: **2,434 views total** (+7 since the last review: Nov 19 **3**, Nov 20 **3**, Nov 21 **1**; Nov 18 and Nov 22–24 not reported yet). **Subscribers: 2** (unchanged since Nov 17). Metricool still returns **no per-video rows** (5th review in a row), so no video can be ranked and every pattern below is tentative._
+_Last updated: 2026-11-28. Data: 42 Shorts published Oct 23–Nov 8 08:00; **nothing published since** (20 days; Metricool limit; the 10-video backlog in `videos/` is still unposted and **nothing is scheduled in Metricool for Nov 25–Dec 10**). Channel totals through Nov 24: **2,439 views total** (+5 since the last review: Nov 22 **2**, Nov 23 **2**, Nov 24 **1**; Nov 18 and Nov 25–27 not reported yet). **Subscribers: 2** (unchanged since Nov 17). Metricool still returns **no per-video rows** (6th review in a row), so no video can be ranked and every pattern below is tentative._
 
-_Monetization (YPP): 2 / 1,000 subs (0.2%) and 2,434 / 10M Shorts views in 90 days (0.024%; 0.012% of the 20M bar from Feb 1, 2027). Fan-funding tier: 2 / 500 subs (0.4%), 2,434 / 3M views (0.08%). At the current 1–3 views/day neither is reachable; posting has to restart first._
+_Monetization (YPP): 2 / 1,000 subs (0.2%) and 2,439 / 10M Shorts views in 90 days (0.024%; 0.012% of the 20M bar from Feb 1, 2027). Fan-funding tier: 2 / 500 subs (0.4%), 2,439 / 3M views (0.08%). At the current 1–2 views/day neither is reachable; posting has to restart first._
 
 ## ⛔ Posting is blocked: Metricool's monthly limit
 Both months, exactly **20 posts** went out through Metricool before the errors began (Oct 24–31, then Nov 1–Nov 8 08:00). Every post after that returned "You have reached your Metricool account limit." The 20-a-month cap is inferred from the post log, not confirmed with Metricool.
 
-**This is still the only thing that matters.** With no uploads for 17 days the channel has fallen from ~184 views/day (3-upload days) to **1–3 views/day** (Nov 19–21: 3, 3, 1). The back catalogue is close to zero. **Dec 1 is 6 days away**; hand-uploading the backlog is still the only way to get views before then.
+**This is still the only thing that matters.** With no uploads for 20 days the channel has fallen from ~184 views/day (3-upload days) to **1–3 views/day** (Nov 19–24: 3, 3, 1, 2, 2, 1). The back catalogue is effectively dead. **Dec 1 is 3 days away** and it is the restart: the Dec 1 run must schedule `coffee-gut-motility` for 12:00 ET and confirm it with `getScheduledPosts`. If that post errors too, the cap is not monthly and the owner has to act.
 
 Until the owner upgrades the plan, or writes "Metricool limit raised" at the top of this file:
 - **Don't schedule anything in Metricool before Dec 1.** Every post will fail.
@@ -35,12 +35,12 @@ No per-video data yet (Metricool's YouTube video list returns empty, and its vid
 
 | Uploads that day | Days | Avg channel views/day | Per upload |
 |---|---|---|---|
-| 0 (Nov 9–21, Nov 18 missing) | 12 | 5 (17, 5, 6, 4, 5, 1, 2, 1, 11, 3, 3, 1) | — |
+| 0 (Nov 9–24, Nov 18 missing) | 15 | 4 (17, 5, 6, 4, 5, 1, 2, 1, 11, 3, 3, 1, 2, 2, 1) | — |
 | 1 (Nov 6, Nov 8) | 2 | 68 (23 and 112) | 68 |
 | 2 (Oct 24–26, Oct 31) | 4 | 97 | 48 |
 | 3 (Oct 27–30, Nov 1–5, Nov 7) | 10 | 184 | 61 |
 
-- **Fresh uploads drive almost all views.** Zero-upload days fell from 17 (Nov 9) to 1–3 (Nov 19–21). Each new Short is worth ~50–70 views on its first day and almost nothing after; the 42-Short catalogue now adds ~2 views/day in total.
+- **Fresh uploads drive almost all views.** Zero-upload days fell from 17 (Nov 9) to 1–3 (Nov 19–24). Each new Short is worth ~50–70 views on its first day and almost nothing after; the 42-Short catalogue now adds ~2 views/day in total.
 - **3 a day didn't lower views per upload** (61 vs 48 at 2 a day, 68 at 1 a day). No case for going back to 2: **keep 3 a day as the target** once posting works again. While capped at 20 posts a month, 1 a day spreads them out with the same views per upload.
 - **The 3 best days (Nov 2: 346, Nov 7: 307, Nov 1: 269) all had everyday food/drink staples** (olive oil before carbs; peanuts → brain; coffee vs decaf → dementia, full-fat dairy myth). Heart/BP-heavy days (Nov 3–5) averaged 151. Only 3 days, no per-video split: **still only a lead.**
 - **Weakest single-upload day:** stats-first hook "8,200 adults. 24 years. 3 brain takeaways." (Nov 6, 08:00): 23 views all day vs 112 for "Same workout every week? Read this." (Nov 8, 08:00). One comparison only.
@@ -63,7 +63,7 @@ No per-video data yet (Metricool's YouTube video list returns empty, and its vid
 - **Repeated CTA wording:** never reuse a CTA phrase from the last 10 videos.
 
 ## Format mix
-Last 5 scripts (Nov 10–15, no new scripts since; 0 new in the 10 days to Nov 25): what-happens-when ×2, x-vs-y, myth-vs-fact, quick-explainer. **All 5 are 32–34 seconds with 7–8 beats**: length has stopped varying. None has a `series` field yet (added to the pipeline Nov 18). Nothing over 37s or under 28s since Nov 1.
+Last 5 scripts (Nov 10–15, no new scripts since; 0 new in the 13 days to Nov 28): what-happens-when ×2, x-vs-y, myth-vs-fact, quick-explainer. **All 5 are 32–34 seconds with 7–8 beats**: length has stopped varying. None has a `series` field yet (added to the pipeline Nov 18). Nothing over 37s or under 28s since Nov 1.
 - Keep the `"format"` and `"series"` fields on every script.
 - Next videos: **"3 things"** (unused recently), **myth vs fact**, **X vs Y**. Never repeat a format on consecutive days.
 - Length: next 3 videos should be roughly **24s (6 beats)**, **40–45s (8 beats)**, and one in between. No two in a row within 3s of each other.
@@ -80,10 +80,10 @@ Since July 16, 2026, YouTube doesn't monetize repetitive or templated content wi
 - Owner voiceover videos (from `voice/`) add a human, non-templated element; use any that are available first. **None recorded yet.** Still the biggest anti-template safeguard left unused.
 - Same-day videos must differ in format, hook style, palette and tag line. Vary the "The study" / middle label wording (keep the Reality check beat itself) and the CTA line.
 
-## Experiments queue (Nov 26–28, then the Dec 1 restart)
-Nothing can be scored until videos post. Nov 26–30: no new videos, no Metricool scheduling (see the blocked section).
+## Experiments queue (Dec 1–3 restart)
+Nothing can be scored until videos post. Nov 29–30: no new videos, no Metricool scheduling (see the blocked section). From Dec 1 each run schedules that day's backlog video, and makes 1 new series video once the backlog is under 10.
 1. **Restart test (Dec 1–3):** coffee-gut (33s) → four-minute-strength (22s) → oatmeal myth (34s), 1 a day at 12:00 ET. Compare each day's channel views to the 1-upload baseline (23 and 112) and the 0-upload floor (now ~2). If a day comes in under 20, the upload probably failed: check `getScheduledPosts`.
 2. **Length test (carried over 5 reviews, now built into the Dec order):** 22–24s Shorts (Dec 2, Dec 4) vs 32–34s (Dec 1, 3, 5), by next-day channel views. Needs per-video data to be conclusive.
 3. **First series video + hook variety (from Dec 8, made Dec 8 for Dec 9):** a **Myth or Fact** or **Food on Trial** episode with a bold-claim hook, no "If you" and no "read this" (e.g. "Bread isn't the problem."). Compare its first-day channel views with the backlog uploads, and watch subscribers.
 
-**Owner action needed (raised in every review since Nov 10):** (a) reconnect the YouTube account in Metricool (per-video sync looks stopped since ~Oct 25) so videos can be ranked; (b) either raise the Metricool plan or hand-upload the backlog now: each idle day costs ~60–180 views; (c) recording any script in `VOICE_SCRIPTS.md` into `voice/` is still the biggest unused anti-template safeguard.
+**Owner action needed (raised in every review since Nov 10, still not done as of Nov 28):** (a) reconnect the YouTube account in Metricool (per-video sync looks stopped since ~Oct 25) so videos can be ranked; (b) either raise the Metricool plan or hand-upload the backlog now: each idle day costs ~60–180 views; (c) recording any script in `VOICE_SCRIPTS.md` into `voice/` is still the biggest unused anti-template safeguard.
