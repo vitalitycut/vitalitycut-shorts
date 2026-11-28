@@ -6,6 +6,24 @@ Tips: record in a quiet room with the phone about 6 inches from your mouth. Talk
 
 ---
 
+## work-vs-play-brain
+**Topic:** USC-led Lancet Public Health meta-analysis on the "physical activity paradox": leisure exercise vs physically demanding work and dementia risk (Myth or Fact) · **Length:** about 20 seconds
+
+> Does every step count the same for your brain? A review of seventy-four studies and four million people, linked leisure exercise to about a quarter lower dementia risk. Physically demanding jobs were linked to higher risk, possibly from stress, not movement itself. The evidence is observational and low-certainty. Keep the workouts you enjoy. Follow so you catch the next myth we test.
+
+**Sources:** Feter N, Raichlen DA, et al., "Domain-specific physical activity levels and risk of dementia: a systematic review and meta-analysis," The Lancet Public Health 2026; 11(9): e650 (DOI 10.1016/S2468-2667(26)00142-8), via USC Today (Aug 18, 2026: 74 cohort and case-control studies, 4.2 million+ people aged 45–93 in 30 countries, median 10 years; leisure-time exercise "24% lower risk of dementia"; occupational activity "20% higher dementia risk," held after adjusting for age, education and chronic disease; researchers suspect job stress, low control, unsafe conditions and pollution; mostly high-income countries; self-reported activity; observational; chores (1 study) and commuting (2 studies) too thin to judge), Epocrates (Aug 20, 2026: 64,009 dementia cases; only 5 studies on occupational vs 20 on leisure; occupational estimate "sat close to no effect"; certainty of evidence rated "low to very low"; benefit plateaued past ~150–300 min/week) and ScienceDaily repost (Nov 27, 2026). Never tell people with physical jobs they're at risk or to quit; frame as "the context may matter," not "work harms your brain."
+
+---
+
+## steak-soy-testosterone
+**Topic:** University of Eastern Finland KIHD analysis: animal vs plant protein intake and testosterone in 2,546 middle-aged men (Food on Trial) · **Length:** about 20 seconds
+
+> Steak for testosterone? A Finnish study says not so fast. In about twenty-five hundred middle-aged men, the biggest animal-protein eaters had slightly lower testosterone, and the biggest plant-protein eaters slightly higher. But the gaps were small, the diets were logged in the 1980s, and it's a snapshot, not proof. Follow and vote on the next food we put on trial.
+
+**Sources:** Wynne-Ellis MM, Virtanen HEK, Bertone-Johnson E, Hantunen S, Tuomainen T-P, Salonen JT, Virtanen JK, "Associations of dietary proteins with serum total testosterone and sex hormone-binding globulin concentrations in middle-aged men," International Journal of Food Sciences and Nutrition 2026; 77(6): 576 (published Sep 9, 2026; DOI 10.1080/09637486.2026.2731397), via University of Eastern Finland release on EurekAlert (Oct 28, 2026: cross-sectional, Kuopio Ischaemic Heart Disease Risk Factor Study, 2,546 men aged 42–60, four-day food records 1984–1989; highest vs lowest animal protein "1.2 nmol/l lower" total testosterone, plant protein "1.1 nmol/l higher"; dairy protein linked to lower testosterone and SHBG; adjusted for age, BMI and other factors), News-Medical (Oct 28, 2026, same release: differences "relatively small," unknown whether meaningful for health; no cause and effect) and ScienceDaily repost (Nov 12, 2026). Adults only; no testosterone-boosting or supplement framing, no dose on screen.
+
+---
+
 ## lift-on-glp1
 **Topic:** UWA's T-REx trial in Nature Medicine: supervised resistance training alongside tirzepatide (Stronger for Longer) · **Length:** about 20 seconds
 
